@@ -1,0 +1,5 @@
+#Trinity submission script
+
+module load trinity-rnaseq
+qsub -I 
+Trinity --seqType fq --left reads_1.fq --right reads_2.fq --CPU 6 --max_memory 20G
