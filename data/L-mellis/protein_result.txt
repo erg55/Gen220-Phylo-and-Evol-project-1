@@ -1,0 +1,6368 @@
+
+1. hypothetical protein JG30_00590 [Lactobacillus mellifer]
+373 aa protein
+KJY63379.1 GI:797159582
+
+2. hypothetical protein JG30_00580 [Lactobacillus mellifer]
+119 aa protein
+KJY63378.1 GI:797159581
+
+3. Transcriptional regulator, DeoR family [Lactobacillus mellifer]
+249 aa protein
+KJY63377.1 GI:797159580
+
+4. Ribulose-phosphate 3-epimerase [Lactobacillus mellifer]
+233 aa protein
+KJY63376.1 GI:797159579
+
+5. Sugar isomerase (SIS) [Lactobacillus mellifer]
+186 aa protein
+KJY63375.1 GI:797159578
+
+6. Mannitol-1-phosphate 5-dehydrogenase [Lactobacillus mellifer]
+395 aa protein
+KJY63374.1 GI:797159577
+
+7. PTS Fru IIA [Lactobacillus mellifer]
+145 aa protein
+KJY63373.1 GI:797159576
+
+8. PTS Fru IICB [Lactobacillus mellifer]
+481 aa protein
+KJY63372.1 GI:797159575
+
+9. putative gluconate permease [Lactobacillus mellifer]
+439 aa protein
+KJY63371.1 GI:797159574
+
+10. Hydroxyacid dehydrogenase/reductase related protein [Lactobacillus mellifer]
+479 aa protein
+KJY63370.1 GI:797159573
+
+11. 2-hydroxy-3-oxopropionate reductase [Lactobacillus mellifer]
+297 aa protein
+KJY63369.1 GI:797159572
+
+12. Peptidoglycan binding protein [Lactobacillus mellifer]
+218 aa protein
+KJY63368.1 GI:797159571
+
+13. Xylitol-phosphate dehydrogenase [Lactobacillus mellifer]
+352 aa protein
+KJY63367.1 GI:797159570
+
+14. PTS IIA domain transcriptional regulator [Lactobacillus mellifer]
+669 aa protein
+KJY63366.1 GI:797159569
+
+15. L-fuculose-phosphate aldolase [Lactobacillus mellifer]
+200 aa protein
+KJY63365.1 GI:797159568
+
+16. Zinc-binding dehydrogenase [Lactobacillus mellifer]
+353 aa protein
+KJY63364.1 GI:797159567
+
+17. PTS Gat IIA [Lactobacillus mellifer]
+155 aa protein
+KJY63363.1 GI:797159566
+
+18. PTS Gat IIB [Lactobacillus mellifer]
+103 aa protein
+KJY63362.1 GI:797159565
+
+19. PTS Gat IIC [Lactobacillus mellifer]
+418 aa protein
+KJY63361.1 GI:797159564
+
+20. Hydroxyethylthiazole kinase [Lactobacillus mellifer]
+267 aa protein
+KJY63360.1 GI:797159563
+
+21. Phosphomethylpyrimidine kinase [Lactobacillus mellifer]
+277 aa protein
+KJY63359.1 GI:797159562
+
+22. Thiamine-phosphate synthase [Lactobacillus mellifer]
+220 aa protein
+KJY63358.1 GI:797159561
+
+23. RelA/SpoT domain protein [Lactobacillus mellifer]
+230 aa protein
+KJY63357.1 GI:797159560
+
+24. putative gamma-glutamyl-gamma-aminobutyrate hydrolase [Lactobacillus mellifer]
+245 aa protein
+KJY63356.1 GI:797159559
+
+25. Amino acid permease family protein [Lactobacillus mellifer]
+430 aa protein
+KJY63355.1 GI:797159558
+
+26. Phage infection protein [Lactobacillus mellifer]
+804 aa protein
+KJY63354.1 GI:797159557
+
+27. Transcriptional regulator [Lactobacillus mellifer]
+170 aa protein
+KJY63353.1 GI:797159556
+
+28. Uncharacterized protein JG30_00310 [Lactobacillus mellifer]
+119 aa protein
+KJY63352.1 GI:797159555
+
+29. hypothetical protein JG30_00300 [Lactobacillus mellifer]
+106 aa protein
+KJY63351.1 GI:797159554
+
+30. Uncharacterized protein JG30_00290 [Lactobacillus mellifer]
+159 aa protein
+KJY63350.1 GI:797159553
+
+31. hypothetical protein JG30_00280 [Lactobacillus mellifer]
+194 aa protein
+KJY63349.1 GI:797159552
+
+32. Dihydroorotate dehydrogenase [Lactobacillus mellifer]
+310 aa protein
+KJY63348.1 GI:797159551
+
+33. Carbamoyl-phosphate synthase large chain [Lactobacillus mellifer]
+1057 aa protein
+KJY63347.1 GI:797159550
+
+34. Carbamoyl-phosphate synthase small chain [Lactobacillus mellifer]
+359 aa protein
+KJY63346.1 GI:797159549
+
+35. Dihydroorotase [Lactobacillus mellifer]
+426 aa protein
+KJY63345.1 GI:797159548
+
+36. Aspartate carbamoyltransferase [Lactobacillus mellifer]
+313 aa protein
+KJY63344.1 GI:797159547
+
+37. hypothetical protein JG30_00220 [Lactobacillus mellifer]
+245 aa protein
+KJY63343.1 GI:797159546
+
+38. Teichoic acid glycosylation protein [Lactobacillus mellifer]
+138 aa protein
+KJY63342.1 GI:797159545
+
+39. hypothetical protein JG30_00200 [Lactobacillus mellifer]
+885 aa protein
+KJY63341.1 GI:797159544
+
+40. hypothetical protein JG30_00190 [Lactobacillus mellifer]
+421 aa protein
+KJY63340.1 GI:797159543
+
+41. hypothetical protein JG30_00180 [Lactobacillus mellifer]
+306 aa protein
+KJY63339.1 GI:797159542
+
+42. Adenylosuccinate synthetase [Lactobacillus mellifer]
+428 aa protein
+KJY63338.1 GI:797159541
+
+43. Replicative DNA helicase C [Lactobacillus mellifer]
+460 aa protein
+KJY63337.1 GI:797159540
+
+44. uncharacterized protein JG30_00150 [Lactobacillus mellifer]
+242 aa protein
+KJY63336.1 GI:797159539
+
+45. putative membrane protein [Lactobacillus mellifer]
+149 aa protein
+KJY63335.1 GI:797159538
+
+46. Sensory transduction protein LytT [Lactobacillus mellifer]
+242 aa protein
+KJY63334.1 GI:797159537
+
+47. Sensor protein lytS [Lactobacillus mellifer]
+587 aa protein
+KJY63333.1 GI:797159536
+
+48. 50S ribosomal protein L9 [Lactobacillus mellifer]
+150 aa protein
+KJY63332.1 GI:797159535
+
+49. putative exopolyphosphatase-related protein [Lactobacillus mellifer]
+672 aa protein
+KJY63331.1 GI:797159534
+
+50. 30S ribosomal protein S18 [Lactobacillus mellifer]
+78 aa protein
+KJY63330.1 GI:797159533
+
+51. Single-stranded DNA-binding protein [Lactobacillus mellifer]
+160 aa protein
+KJY63329.1 GI:797159532
+
+52. 30S ribosomal protein S6 [Lactobacillus mellifer]
+98 aa protein
+KJY63328.1 GI:797159531
+
+53. DNA gyrase subunit A [Lactobacillus mellifer]
+825 aa protein
+KJY63327.1 GI:797159530
+
+54. DNA gyrase subunit B [Lactobacillus mellifer]
+652 aa protein
+KJY63326.1 GI:797159529
+
+55. DNA replication and repair protein RecF [Lactobacillus mellifer]
+368 aa protein
+KJY63325.1 GI:797159528
+
+56. uncharacterized protein JG30_00030 [Lactobacillus mellifer]
+74 aa protein
+KJY63324.1 GI:797159527
+
+57. DNA-directed DNA polymerase [Lactobacillus mellifer]
+379 aa protein
+KJY63323.1 GI:797159526
+
+58. Chromosomal replication initiator protein DnaA [Lactobacillus mellifer]
+450 aa protein
+KJY63322.1 GI:797159525
+
+59. uncharacterized protein JG30_01860, partial [Lactobacillus mellifer]
+152 aa protein
+KJY63273.1 GI:797159471
+
+60. putative nucleotide-binding protein [Lactobacillus mellifer]
+161 aa protein
+KJY63272.1 GI:797159470
+
+61. Protein-tyrosine phosphatase [Lactobacillus mellifer]
+274 aa protein
+KJY63271.1 GI:797159469
+
+62. hemolysin [Lactobacillus mellifer]
+457 aa protein
+KJY63270.1 GI:797159468
+
+63. Two component transcriptional regulator [Lactobacillus mellifer]
+248 aa protein
+KJY63269.1 GI:797159467
+
+64. hypothetical protein JG30_01810 [Lactobacillus mellifer]
+435 aa protein
+KJY63268.1 GI:797159466
+
+65. ABC superfamily ATP binding cassette transporter, permease protein [Lactobacillus mellifer]
+296 aa protein
+KJY63267.1 GI:797159465
+
+66. uncharacterized protein cylA [Lactobacillus mellifer]
+315 aa protein
+KJY63266.1 GI:797159464
+
+67. ABC-type multidrug/protein/lipid transport system [Lactobacillus mellifer]
+556 aa protein
+KJY63265.1 GI:797159463
+
+68. Lipopolysaccharide export system ATP-binding protein lptB [Lactobacillus mellifer]
+238 aa protein
+KJY63264.1 GI:797159462
+
+69. hypothetical protein JG30_01750 [Lactobacillus mellifer]
+240 aa protein
+KJY63263.1 GI:797159461
+
+70. Citrate transporter family protein [Lactobacillus mellifer]
+515 aa protein
+KJY63262.1 GI:797159460
+
+71. Carbamate kinase [Lactobacillus mellifer]
+314 aa protein
+KJY63261.1 GI:797159459
+
+72. Ornithine carbamoyltransferase [Lactobacillus mellifer]
+331 aa protein
+KJY63260.1 GI:797159458
+
+73. Signal transduction histidine kinase [Lactobacillus mellifer]
+432 aa protein
+KJY63259.1 GI:797159457
+
+74. Response regulator [Lactobacillus mellifer]
+279 aa protein
+KJY63258.1 GI:797159456
+
+75. Aspartate--ammonia ligase [Lactobacillus mellifer]
+335 aa protein
+KJY63257.1 GI:797159455
+
+76. Hydroxymethylpyrimidine permease [Lactobacillus mellifer]
+393 aa protein
+KJY63256.1 GI:797159454
+
+77. Fructose-bisphosphate aldolase [Lactobacillus mellifer]
+288 aa protein
+KJY63255.1 GI:797159453
+
+78. hypothetical protein JG30_01650 [Lactobacillus mellifer]
+124 aa protein
+KJY63254.1 GI:797159452
+
+79. uncharacterized protein JG30_01640 [Lactobacillus mellifer]
+307 aa protein
+KJY63253.1 GI:797159451
+
+80. HAD hydrolase, family IA, variant 1 [Lactobacillus mellifer]
+215 aa protein
+KJY63252.1 GI:797159450
+
+81. E1-E2 ATPase [Lactobacillus mellifer]
+766 aa protein
+KJY63251.1 GI:797159449
+
+82. Uncharacterized protein JG30_01610 [Lactobacillus mellifer]
+382 aa protein
+KJY63250.1 GI:797159448
+
+83. Uncharacterized protein JG30_01600 [Lactobacillus mellifer]
+126 aa protein
+KJY63249.1 GI:797159447
+
+84. hypothetical protein JG30_01590 [Lactobacillus mellifer]
+247 aa protein
+KJY63248.1 GI:797159446
+
+85. hypothetical protein JG30_01580 [Lactobacillus mellifer]
+253 aa protein
+KJY63247.1 GI:797159445
+
+86. hypothetical protein JG30_01570 [Lactobacillus mellifer]
+472 aa protein
+KJY63246.1 GI:797159444
+
+87. Methionine synthase [Lactobacillus mellifer]
+382 aa protein
+KJY63245.1 GI:797159443
+
+88. NLPA lipoprotein [Lactobacillus mellifer]
+278 aa protein
+KJY63244.1 GI:797159442
+
+89. S-ribosylhomocysteine lyase [Lactobacillus mellifer]
+157 aa protein
+KJY63243.1 GI:797159441
+
+90. APC family amino acid-polyamine-organocation transporter [Lactobacillus mellifer]
+536 aa protein
+KJY63242.1 GI:797159440
+
+91. Respiratory-chain NADH dehydrogenase 51 Kd subunit [Lactobacillus mellifer]
+437 aa protein
+KJY63241.1 GI:797159439
+
+92. putative membrane protein [Lactobacillus mellifer]
+196 aa protein
+KJY63240.1 GI:797159438
+
+93. N-6 adenine-specific DNA methylase YitW [Lactobacillus mellifer]
+107 aa protein
+KJY63239.1 GI:797159437
+
+94. L-seryl-tRNA(Sec) selenium transferase [Lactobacillus mellifer]
+473 aa protein
+KJY63238.1 GI:797159436
+
+95. Cysteine desulfurase family protein [Lactobacillus mellifer]
+385 aa protein
+KJY63237.1 GI:797159435
+
+96. Selenocysteine-specific translation elongation factor [Lactobacillus mellifer]
+632 aa protein
+KJY63236.1 GI:797159434
+
+97. uncharacterized protein JG30_01460 [Lactobacillus mellifer]
+92 aa protein
+KJY63235.1 GI:797159433
+
+98. Selenium metabolism protein YedF [Lactobacillus mellifer]
+224 aa protein
+KJY63234.1 GI:797159432
+
+99. Selenide, water dikinase [Lactobacillus mellifer]
+350 aa protein
+KJY63233.1 GI:797159431
+
+100. putative membrane protein [Lactobacillus mellifer]
+296 aa protein
+KJY63232.1 GI:797159430
+
+101. Proline racemase [Lactobacillus mellifer]
+338 aa protein
+KJY63231.1 GI:797159429
+
+102. D-proline reductase, PrdA proprotein domain protein [Lactobacillus mellifer]
+159 aa protein
+KJY63230.1 GI:797159428
+
+103. D-proline reductase, PrdA proprotein domain protein [Lactobacillus mellifer]
+246 aa protein
+KJY63229.1 GI:797159427
+
+104. uncharacterized protein JG30_01370 [Lactobacillus mellifer]
+116 aa protein
+KJY63228.1 GI:797159426
+
+105. D-proline reductase, PrdA proprotein [Lactobacillus mellifer]
+647 aa protein
+KJY63227.1 GI:797159425
+
+106. putative methylcobalamin:homocysteine methyltransferase [Lactobacillus mellifer]
+153 aa protein
+KJY63226.1 GI:797159424
+
+107. uncharacterized protein JG30_01340 [Lactobacillus mellifer]
+221 aa protein
+KJY63225.1 GI:797159423
+
+108. SirA family protein [Lactobacillus mellifer]
+111 aa protein
+KJY63224.1 GI:797159422
+
+109. Ornithine cyclodeaminase [Lactobacillus mellifer]
+333 aa protein
+KJY63223.1 GI:797159421
+
+110. D-alanine--D-alanine ligase [Lactobacillus mellifer]
+353 aa protein
+KJY63222.1 GI:797159420
+
+111. Extracellular protein [Lactobacillus mellifer]
+313 aa protein
+KJY63221.1 GI:797159419
+
+112. Transcriptional regulator, MerR family [Lactobacillus mellifer]
+134 aa protein
+KJY63220.1 GI:797159418
+
+113. putative Cell surface hydrolase [Lactobacillus mellifer]
+282 aa protein
+KJY63219.1 GI:797159417
+
+114. Ribonuclease H [Lactobacillus mellifer]
+221 aa protein
+KJY63218.1 GI:797159416
+
+115. putative cell surface hydrolase [Lactobacillus mellifer]
+283 aa protein
+KJY63217.1 GI:797159415
+
+116. hypothetical protein JG30_01240 [Lactobacillus mellifer]
+130 aa protein
+KJY63216.1 GI:797159414
+
+117. Phosphatidylserine/phosphatidylglycerophosphate/ cardiolipin synthase-like protein [Lactobacillus mellifer]
+485 aa protein
+KJY63215.1 GI:797159413
+
+118. hypothetical protein JG30_01220 [Lactobacillus mellifer]
+156 aa protein
+KJY63214.1 GI:797159412
+
+119. putative 2,5-diketo-D-gluconic acid reductase B [Lactobacillus mellifer]
+278 aa protein
+KJY63213.1 GI:797159411
+
+120. Uncharacterized protein JG30_01200 [Lactobacillus mellifer]
+179 aa protein
+KJY63212.1 GI:797159410
+
+121. Xylulose kinase [Lactobacillus mellifer]
+492 aa protein
+KJY63211.1 GI:797159409
+
+122. putative alcohol dehydrogenase [Lactobacillus mellifer]
+347 aa protein
+KJY63210.1 GI:797159408
+
+123. PTS Man IID [Lactobacillus mellifer]
+281 aa protein
+KJY63209.1 GI:797159407
+
+124. PTS Man IIC [Lactobacillus mellifer]
+258 aa protein
+KJY63208.1 GI:797159406
+
+125. PTS Man IIB [Lactobacillus mellifer]
+158 aa protein
+KJY63207.1 GI:797159405
+
+126. PTS Man IIA [Lactobacillus mellifer]
+135 aa protein
+KJY63206.1 GI:797159404
+
+127. PTS IIA domain transcriptional regulator [Lactobacillus mellifer]
+627 aa protein
+KJY63205.1 GI:797159403
+
+128. Fructose-bisphosphate aldolase [Lactobacillus mellifer]
+281 aa protein
+KJY63204.1 GI:797159402
+
+129. Metal ion transporter, metal ion family protein [Lactobacillus mellifer]
+526 aa protein
+KJY63203.1 GI:797159401
+
+130. Nucleotide-binding protein, universal stress protein UspA family [Lactobacillus mellifer]
+146 aa protein
+KJY63202.1 GI:797159400
+
+131. Glycerol uptake operon antiterminator [Lactobacillus mellifer]
+194 aa protein
+KJY63201.1 GI:797159399
+
+132. Sugar kinase [Lactobacillus mellifer]
+523 aa protein
+KJY63200.1 GI:797159398
+
+133. putative L-xylulose-5-phosphate 3-epimerase [Lactobacillus mellifer]
+285 aa protein
+KJY63199.1 GI:797159397
+
+134. Fructose-bisphosphate aldolase [Lactobacillus mellifer]
+277 aa protein
+KJY63198.1 GI:797159396
+
+135. Triosephosphate isomerase [Lactobacillus mellifer]
+225 aa protein
+KJY63197.1 GI:797159395
+
+136. uncharacterized protein JG30_01040 [Lactobacillus mellifer]
+171 aa protein
+KJY63196.1 GI:797159394
+
+137. Rhamnulose-1-phosphate aldolase [Lactobacillus mellifer]
+272 aa protein
+KJY63195.1 GI:797159393
+
+138. Sorbitol-6-phosphate 2-dehydrogenase [Lactobacillus mellifer]
+268 aa protein
+KJY63194.1 GI:797159392
+
+139. DeoR family transcriptional regulator [Lactobacillus mellifer]
+255 aa protein
+KJY63193.1 GI:797159391
+
+140. Transaldolase [Lactobacillus mellifer]
+227 aa protein
+KJY63192.1 GI:797159390
+
+141. PTS Gut IIA [Lactobacillus mellifer]
+126 aa protein
+KJY63191.1 GI:797159389
+
+142. PTS Gut IIB [Lactobacillus mellifer]
+347 aa protein
+KJY63190.1 GI:797159388
+
+143. PTS Gut IIC [Lactobacillus mellifer]
+184 aa protein
+KJY63189.1 GI:797159387
+
+144. Sorbitol operon activator [Lactobacillus mellifer]
+171 aa protein
+KJY63188.1 GI:797159386
+
+145. PTS IIA domain transcriptional regulator [Lactobacillus mellifer]
+617 aa protein
+KJY63187.1 GI:797159385
+
+146. Sorbitol-6-phosphate 2-dehydrogenase [Lactobacillus mellifer]
+268 aa protein
+KJY63186.1 GI:797159384
+
+147. Copper-translocating P-type ATPase [Lactobacillus mellifer]
+639 aa protein
+KJY63185.1 GI:797159383
+
+148. Copper-exporting ATPase [Lactobacillus mellifer]
+90 aa protein
+KJY63184.1 GI:797159382
+
+149. Copper-exporting ATPase [Lactobacillus mellifer]
+128 aa protein
+KJY63183.1 GI:797159381
+
+150. Uncharacterized protein JG30_00900 [Lactobacillus mellifer]
+151 aa protein
+KJY63182.1 GI:797159380
+
+151. PTS Lac IIA [Lactobacillus mellifer]
+109 aa protein
+KJY63181.1 GI:797159379
+
+152. Lipoyltransferase and lipoate-ligase family protein [Lactobacillus mellifer]
+337 aa protein
+KJY63180.1 GI:797159378
+
+153. Integral membrane protein [Lactobacillus mellifer]
+245 aa protein
+KJY63179.1 GI:797159377
+
+154. Heat shock protein Hsp20 [Lactobacillus mellifer]
+142 aa protein
+KJY63178.1 GI:797159376
+
+155. Uracil permease [Lactobacillus mellifer]
+427 aa protein
+KJY63177.1 GI:797159375
+
+156. Orotate phosphoribosyltransferase [Lactobacillus mellifer]
+214 aa protein
+KJY63176.1 GI:797159374
+
+157. Orotidine 5'-phosphate decarboxylase [Lactobacillus mellifer]
+236 aa protein
+KJY63175.1 GI:797159373
+
+158. Permease of the major facilitator superfamily [Lactobacillus mellifer]
+411 aa protein
+KJY63174.1 GI:797159372
+
+159. Acetylornithine deacetylase/succinyl-diaminopimelate desuccinylase-like protein [Lactobacillus mellifer]
+447 aa protein
+KJY63173.1 GI:797159371
+
+160. Transcriptional regulator, AraC family protein [Lactobacillus mellifer]
+393 aa protein
+KJY63172.1 GI:797159370
+
+161. uncharacterized protein JG30_00790 [Lactobacillus mellifer]
+404 aa protein
+KJY63171.1 GI:797159369
+
+162. Transcriptional regulator [Lactobacillus mellifer]
+276 aa protein
+KJY63170.1 GI:797159368
+
+163. Xanthine permease [Lactobacillus mellifer]
+428 aa protein
+KJY63169.1 GI:797159367
+
+164. Phosphoglycerate dehydrogenase-like dehydrogenase [Lactobacillus mellifer]
+332 aa protein
+KJY63168.1 GI:797159366
+
+165. Oxidoreductase FAD/NAD(P)-binding subunit [Lactobacillus mellifer]
+228 aa protein
+KJY63167.1 GI:797159365
+
+166. putative transcriptional regulator, MarR family protein [Lactobacillus mellifer]
+151 aa protein
+KJY63166.1 GI:797159364
+
+167. Inosine-uridine preferring nucleoside hydrolase [Lactobacillus mellifer]
+315 aa protein
+KJY63165.1 GI:797159363
+
+168. Cadmium-/zinc-/cobalt-transporting ATPase [Lactobacillus mellifer]
+598 aa protein
+KJY63164.1 GI:797159362
+
+169. Macro domain protein [Lactobacillus mellifer]
+175 aa protein
+KJY63163.1 GI:797159361
+
+170. putative membrane protein [Lactobacillus mellifer]
+248 aa protein
+KJY63162.1 GI:797159360
+
+171. Integral membrane protein [Lactobacillus mellifer]
+366 aa protein
+KJY63161.1 GI:797159359
+
+172. hypothetical protein JG30_00670 [Lactobacillus mellifer]
+1774 aa protein
+KJY63160.1 GI:797159358
+
+173. hypothetical protein JG30_00660 [Lactobacillus mellifer]
+197 aa protein
+KJY63159.1 GI:797159357
+
+174. uncharacterized protein JG30_00650 [Lactobacillus mellifer]
+468 aa protein
+KJY63158.1 GI:797159356
+
+175. NifU family protein [Lactobacillus mellifer]
+148 aa protein
+KJY63157.1 GI:797159355
+
+176. Cysteine desulfurase [Lactobacillus mellifer]
+409 aa protein
+KJY63156.1 GI:797159354
+
+177. FeS assembly protein SufD [Lactobacillus mellifer]
+426 aa protein
+KJY63155.1 GI:797159353
+
+178. ABC transporter ATPase component, partial [Lactobacillus mellifer]
+249 aa protein
+KJY63154.1 GI:797159352
+
+179. hypothetical protein JG30_03370, partial [Lactobacillus mellifer]
+652 aa protein
+KJY62874.1 GI:797159063
+
+180. 30S ribosomal protein S9 [Lactobacillus mellifer]
+130 aa protein
+KJY62873.1 GI:797159062
+
+181. 50S ribosomal protein L13 [Lactobacillus mellifer]
+147 aa protein
+KJY62872.1 GI:797159061
+
+182. tRNA pseudouridine synthase A [Lactobacillus mellifer]
+247 aa protein
+KJY62871.1 GI:797159060
+
+183. Energy-coupling factor transporter transmembrane protein EcfT [Lactobacillus mellifer]
+265 aa protein
+KJY62870.1 GI:797159059
+
+184. Energy-coupling factor transporter ATP-binding protein EcfA2 [Lactobacillus mellifer]
+286 aa protein
+KJY62869.1 GI:797159058
+
+185. Cobalt import ATP-binding protein CbiO [Lactobacillus mellifer]
+278 aa protein
+KJY62868.1 GI:797159057
+
+186. 50S ribosomal protein L17 [Lactobacillus mellifer]
+126 aa protein
+KJY62867.1 GI:797159056
+
+187. DNA-directed RNA polymerase subunit alpha [Lactobacillus mellifer]
+312 aa protein
+KJY62866.1 GI:797159055
+
+188. 30S ribosomal protein S11 [Lactobacillus mellifer]
+129 aa protein
+KJY62865.1 GI:797159054
+
+189. 30S ribosomal protein S13 [Lactobacillus mellifer]
+121 aa protein
+KJY62864.1 GI:797159053
+
+190. 50S ribosomal protein L36 [Lactobacillus mellifer]
+38 aa protein
+KJY62863.1 GI:797159052
+
+191. Translation initiation factor IF-1 [Lactobacillus mellifer]
+72 aa protein
+KJY62862.1 GI:797159051
+
+192. Uncharacterized protein JG30_03240 [Lactobacillus mellifer]
+218 aa protein
+KJY62861.1 GI:797159050
+
+193. Protein translocase subunit SecY [Lactobacillus mellifer]
+435 aa protein
+KJY62860.1 GI:797159049
+
+194. 50S ribosomal protein L15 [Lactobacillus mellifer]
+146 aa protein
+KJY62859.1 GI:797159048
+
+195. 50S ribosomal protein L30 [Lactobacillus mellifer]
+60 aa protein
+KJY62858.1 GI:797159047
+
+196. 30S ribosomal protein S5 [Lactobacillus mellifer]
+166 aa protein
+KJY62857.1 GI:797159046
+
+197. 50S ribosomal protein L18 [Lactobacillus mellifer]
+118 aa protein
+KJY62856.1 GI:797159045
+
+198. 50S ribosomal protein L6 [Lactobacillus mellifer]
+178 aa protein
+KJY62855.1 GI:797159044
+
+199. 30S ribosomal protein S8 [Lactobacillus mellifer]
+132 aa protein
+KJY62854.1 GI:797159043
+
+200. 30S ribosomal protein S14 type Z [Lactobacillus mellifer]
+61 aa protein
+KJY62853.1 GI:797159042
+
+201. 50S ribosomal protein L5 [Lactobacillus mellifer]
+180 aa protein
+KJY62852.1 GI:797159041
+
+202. 50S ribosomal protein L24 [Lactobacillus mellifer]
+90 aa protein
+KJY62851.1 GI:797159040
+
+203. 50S ribosomal protein L14 [Lactobacillus mellifer]
+122 aa protein
+KJY62850.1 GI:797159039
+
+204. 30S ribosomal protein S17 [Lactobacillus mellifer]
+91 aa protein
+KJY62849.1 GI:797159038
+
+205. 50S ribosomal protein L29 [Lactobacillus mellifer]
+65 aa protein
+KJY62848.1 GI:797159037
+
+206. 50S ribosomal protein L16 [Lactobacillus mellifer]
+144 aa protein
+KJY62847.1 GI:797159036
+
+207. 30S ribosomal protein S3 [Lactobacillus mellifer]
+228 aa protein
+KJY62846.1 GI:797159035
+
+208. 50S ribosomal protein L22 [Lactobacillus mellifer]
+116 aa protein
+KJY62845.1 GI:797159034
+
+209. 30S ribosomal protein S19 [Lactobacillus mellifer]
+92 aa protein
+KJY62844.1 GI:797159033
+
+210. 50S ribosomal protein L2 [Lactobacillus mellifer]
+279 aa protein
+KJY62843.1 GI:797159032
+
+211. 50S ribosomal protein L23 [Lactobacillus mellifer]
+95 aa protein
+KJY62842.1 GI:797159031
+
+212. 50S ribosomal protein L4 [Lactobacillus mellifer]
+207 aa protein
+KJY62841.1 GI:797159030
+
+213. 50S ribosomal protein L3 [Lactobacillus mellifer]
+231 aa protein
+KJY62840.1 GI:797159029
+
+214. 30S ribosomal protein S10 [Lactobacillus mellifer]
+102 aa protein
+KJY62839.1 GI:797159028
+
+215. putative hydrolase isocharismatase/nicotinamidase family [Lactobacillus mellifer]
+183 aa protein
+KJY62838.1 GI:797159027
+
+216. Uracil-xanthine transporter [Lactobacillus mellifer]
+442 aa protein
+KJY62837.1 GI:797159026
+
+217. Guanine deaminase [Lactobacillus mellifer]
+442 aa protein
+KJY62836.1 GI:797159025
+
+218. Membrane protein [Lactobacillus mellifer]
+362 aa protein
+KJY62835.1 GI:797159024
+
+219. Dipeptidase [Lactobacillus mellifer]
+466 aa protein
+KJY62834.1 GI:797159023
+
+220. Ferritin Dps family protein [Lactobacillus mellifer]
+160 aa protein
+KJY62833.1 GI:797159022
+
+221. B3/4 domain protein [Lactobacillus mellifer]
+237 aa protein
+KJY62832.1 GI:797159021
+
+222. 2-dehydropantoate 2-reductase [Lactobacillus mellifer]
+311 aa protein
+KJY62831.1 GI:797159020
+
+223. Glycine betaine/L-proline ABC transporter, ATPase subunit [Lactobacillus mellifer]
+398 aa protein
+KJY62830.1 GI:797159019
+
+224. Glycine/betaine ABC transporter [Lactobacillus mellifer]
+280 aa protein
+KJY62829.1 GI:797159018
+
+225. Glycine/betaine/carnitine ABC transporter, substrate binding lipoprotein [Lactobacillus mellifer]
+300 aa protein
+KJY62828.1 GI:797159017
+
+226. hypothetical protein JG30_02900 [Lactobacillus mellifer]
+465 aa protein
+KJY62827.1 GI:797159016
+
+227. Lactate dehydrogenase related enzyme [Lactobacillus mellifer]
+327 aa protein
+KJY62826.1 GI:797159015
+
+228. Transcription regulator [Lactobacillus mellifer]
+301 aa protein
+KJY62825.1 GI:797159014
+
+229. Glucarate dehydratase [Lactobacillus mellifer]
+442 aa protein
+KJY62824.1 GI:797159013
+
+230. L-alanine-DL-glutamate epimerase related enzyme of enolase superfamily [Lactobacillus mellifer]
+405 aa protein
+KJY62823.1 GI:797159012
+
+231. uncharacterized protein JG30_02850 [Lactobacillus mellifer]
+381 aa protein
+KJY62822.1 GI:797159011
+
+232. Methylmalonate semialdehyde dehydrogenase [acylating] [Lactobacillus mellifer]
+482 aa protein
+KJY62821.1 GI:797159010
+
+233. 4-oxalocrotonate tautomerase [Lactobacillus mellifer]
+129 aa protein
+KJY62820.1 GI:797159009
+
+234. 5-keto-2-deoxy-D-gluconate-6 phosphate aldolase [Lactobacillus mellifer]
+288 aa protein
+KJY62819.1 GI:797159008
+
+235. 3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase [Lactobacillus mellifer]
+638 aa protein
+KJY62818.1 GI:797159007
+
+236. 5-dehydro-2-deoxygluconokinase [Lactobacillus mellifer]
+322 aa protein
+KJY62817.1 GI:797159006
+
+237. 5-deoxy-glucuronate isomerase [Lactobacillus mellifer]
+272 aa protein
+KJY62816.1 GI:797159005
+
+238. Regulatory protein, DeoR [Lactobacillus mellifer]
+259 aa protein
+KJY62815.1 GI:797159004
+
+239. Isochorismatase transposase [Lactobacillus mellifer]
+181 aa protein
+KJY62814.1 GI:797159003
+
+240. Transcriptional regulator, AsnC/Lrp family [Lactobacillus mellifer]
+142 aa protein
+KJY62813.1 GI:797159002
+
+241. succinyl-diaminopimelate desuccinylase [Lactobacillus mellifer]
+380 aa protein
+KJY62812.1 GI:797159001
+
+242. ABC-type polar amino acid transport system, ATPase component [Lactobacillus mellifer]
+240 aa protein
+KJY62811.1 GI:797159000
+
+243. ABC-type amino acid transport system, permease and periplasmic component [Lactobacillus mellifer]
+510 aa protein
+KJY62810.1 GI:797158999
+
+244. Argininosuccinate synthase [Lactobacillus mellifer]
+405 aa protein
+KJY62809.1 GI:797158998
+
+245. Argininosuccinate lyase [Lactobacillus mellifer]
+461 aa protein
+KJY62808.1 GI:797158997
+
+246. YbaK/proline--tRNA ligase associated domain protein [Lactobacillus mellifer]
+161 aa protein
+KJY62807.1 GI:797158996
+
+247. Transcriptional regulator, MarR family [Lactobacillus mellifer]
+143 aa protein
+KJY62806.1 GI:797158995
+
+248. putative type I site-specific deoxyribonuclease [Lactobacillus mellifer]
+1038 aa protein
+KJY62805.1 GI:797158994
+
+249. Type I restriction/modification specificity protein [Lactobacillus mellifer]
+260 aa protein
+KJY62804.1 GI:797158993
+
+250. Type I Restriction modification protein [Lactobacillus mellifer]
+200 aa protein
+KJY62803.1 GI:797158992
+
+251. Type I restriction-modification system DNA-methyltransferase [Lactobacillus mellifer]
+510 aa protein
+KJY62802.1 GI:797158991
+
+252. putative type II restriction endonuclease [Lactobacillus mellifer]
+923 aa protein
+KJY62801.1 GI:797158990
+
+253. LytTr DNA-binding domain protein [Lactobacillus mellifer]
+144 aa protein
+KJY62800.1 GI:797158989
+
+254. Integral membrane protein [Lactobacillus mellifer]
+152 aa protein
+KJY62799.1 GI:797158988
+
+255. uncharacterized protein JG30_02530 [Lactobacillus mellifer]
+120 aa protein
+KJY62798.1 GI:797158987
+
+256. Uncharacterized protein JG30_02520 [Lactobacillus mellifer]
+133 aa protein
+KJY62797.1 GI:797158986
+
+257. uncharacterized protein JG30_02510 [Lactobacillus mellifer]
+864 aa protein
+KJY62796.1 GI:797158985
+
+258. uncharacterized protein JG30_02500 [Lactobacillus mellifer]
+471 aa protein
+KJY62795.1 GI:797158984
+
+259. Sigma-70 family protein [Lactobacillus mellifer]
+172 aa protein
+KJY62794.1 GI:797158983
+
+260. uncharacterized protein JG30_02470 [Lactobacillus mellifer]
+184 aa protein
+KJY62793.1 GI:797158982
+
+261. Transcriptional regulator, LysR family [Lactobacillus mellifer]
+286 aa protein
+KJY62792.1 GI:797158981
+
+262. Glyoxal reductase [Lactobacillus mellifer]
+287 aa protein
+KJY62791.1 GI:797158980
+
+263. uncharacterized protein JG30_02410 [Lactobacillus mellifer]
+193 aa protein
+KJY62790.1 GI:797158979
+
+264. uncharacterized protein JG30_02400 [Lactobacillus mellifer]
+179 aa protein
+KJY62789.1 GI:797158978
+
+265. Oxidoreductase W [Lactobacillus mellifer]
+287 aa protein
+KJY62788.1 GI:797158977
+
+266. Cupin superfamily protein [Lactobacillus mellifer]
+137 aa protein
+KJY62787.1 GI:797158976
+
+267. MerR family transcriptional regulator [Lactobacillus mellifer]
+145 aa protein
+KJY62786.1 GI:797158975
+
+268. Aryl-alcohol dehydrogenase related enzyme [Lactobacillus mellifer]
+313 aa protein
+KJY62785.1 GI:797158974
+
+269. hypothetical protein JG30_02330 [Lactobacillus mellifer]
+261 aa protein
+KJY62784.1 GI:797158973
+
+270. PadR family transcriptional regulator [Lactobacillus mellifer]
+111 aa protein
+KJY62783.1 GI:797158972
+
+271. hypothetical protein JG30_02310 [Lactobacillus mellifer]
+273 aa protein
+KJY62782.1 GI:797158971
+
+272. Transcriptional regulator [Lactobacillus mellifer]
+377 aa protein
+KJY62781.1 GI:797158970
+
+273. uncharacterized protein JG30_02290 [Lactobacillus mellifer]
+132 aa protein
+KJY62780.1 GI:797158969
+
+274. uncharacterized protein JG30_02280 [Lactobacillus mellifer]
+149 aa protein
+KJY62779.1 GI:797158968
+
+275. putative ABC transporter [Lactobacillus mellifer]
+285 aa protein
+KJY62778.1 GI:797158967
+
+276. ABC transporter ATPase component [Lactobacillus mellifer]
+284 aa protein
+KJY62777.1 GI:797158966
+
+277. GMP synthase [glutamine-hydrolyzing] [Lactobacillus mellifer]
+511 aa protein
+KJY62776.1 GI:797158965
+
+278. Pantothenate kinase [Lactobacillus mellifer]
+309 aa protein
+KJY62775.1 GI:797158964
+
+279. hypothetical protein JG30_02230 [Lactobacillus mellifer]
+199 aa protein
+KJY62774.1 GI:797158963
+
+280. Amino acid permease [Lactobacillus mellifer]
+462 aa protein
+KJY62773.1 GI:797158962
+
+281. Na+/H+-dicarboxylate symporter [Lactobacillus mellifer]
+425 aa protein
+KJY62772.1 GI:797158961
+
+282. Haloacid dehalogenase (HAD) superfamily hydrolase [Lactobacillus mellifer]
+274 aa protein
+KJY62771.1 GI:797158960
+
+283. RNA polymerase sigma-54 factor [Lactobacillus mellifer]
+431 aa protein
+KJY62770.1 GI:797158959
+
+284. Glyoxylate reductase [Lactobacillus mellifer]
+320 aa protein
+KJY62769.1 GI:797158958
+
+285. Succinate-semialdehyde dehydrogenase [Lactobacillus mellifer]
+454 aa protein
+KJY62768.1 GI:797158957
+
+286. Cyanate permease [Lactobacillus mellifer]
+397 aa protein
+KJY62767.1 GI:797158956
+
+287. putative DNA helicase [Lactobacillus mellifer]
+765 aa protein
+KJY62766.1 GI:797158955
+
+288. hypothetical protein JG30_02130 [Lactobacillus mellifer]
+257 aa protein
+KJY62765.1 GI:797158954
+
+289. ABC transporter ATP binding protein [Lactobacillus mellifer]
+240 aa protein
+KJY62764.1 GI:797158953
+
+290. Transcriptional regulator [Lactobacillus mellifer]
+129 aa protein
+KJY62763.1 GI:797158952
+
+291. Oligopeptide ABC superfamily ATP binding cassette transporter, substrate binding protein [Lactobacillus mellifer]
+541 aa protein
+KJY62762.1 GI:797158951
+
+292. Proline iminopeptidase [Lactobacillus mellifer]
+301 aa protein
+KJY62761.1 GI:797158950
+
+293. hypothetical protein JG30_02080 [Lactobacillus mellifer]
+281 aa protein
+KJY62760.1 GI:797158949
+
+294. PTS Man IIB [Lactobacillus mellifer]
+163 aa protein
+KJY62759.1 GI:797158948
+
+295. PTS Man IICD [Lactobacillus mellifer]
+528 aa protein
+KJY62758.1 GI:797158947
+
+296. hypothetical protein JG30_02050 [Lactobacillus mellifer]
+397 aa protein
+KJY62757.1 GI:797158946
+
+297. putative 2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase [Lactobacillus mellifer]
+281 aa protein
+KJY62756.1 GI:797158945
+
+298. Apo-citrate lyase phosphoribosyl-ft dephospho-CoA transferase [Lactobacillus mellifer]
+175 aa protein
+KJY62755.1 GI:797158944
+
+299. Citrate lyase, alpha chain [Lactobacillus mellifer]
+512 aa protein
+KJY62754.1 GI:797158943
+
+300. Citryl-CoA lyase [Lactobacillus mellifer]
+304 aa protein
+KJY62753.1 GI:797158942
+
+301. Citrate lyase acyl carrier protein [Lactobacillus mellifer]
+97 aa protein
+KJY62752.1 GI:797158941
+
+302. [citrate (Pro-3S)-lyase] ligase [Lactobacillus mellifer]
+351 aa protein
+KJY62751.1 GI:797158940
+
+303. Malic enzyme, NAD-dependent [Lactobacillus mellifer]
+388 aa protein
+KJY62750.1 GI:797158939
+
+304. Citrate lyase regulator, SorC family [Lactobacillus mellifer]
+311 aa protein
+KJY62749.1 GI:797158938
+
+305. Halo peroxidase [Lactobacillus mellifer]
+261 aa protein
+KJY62748.1 GI:797158937
+
+306. Succinate dehydrogenase [Lactobacillus mellifer]
+468 aa protein
+KJY62747.1 GI:797158936
+
+307. Alpha-ribazole phosphatase [Lactobacillus mellifer]
+219 aa protein
+KJY62746.1 GI:797158935
+
+308. ApbE family protein [Lactobacillus mellifer]
+320 aa protein
+KJY62745.1 GI:797158934
+
+309. NADPH-dependent FMN reductase [Lactobacillus mellifer]
+181 aa protein
+KJY62744.1 GI:797158933
+
+310. Fumarate reductase flavoprotein subunit [Lactobacillus mellifer]
+811 aa protein
+KJY62743.1 GI:797158932
+
+311. universal stress family protein [Lactobacillus mellifer]
+160 aa protein
+KJY62742.1 GI:797158931
+
+312. ATP-grasp enzyme [Lactobacillus mellifer]
+394 aa protein
+KJY62741.1 GI:797158930
+
+313. hypothetical protein JG30_01880 [Lactobacillus mellifer]
+418 aa protein
+KJY62740.1 GI:797158929
+
+314. Acetyltransferase, GNAT family [Lactobacillus mellifer]
+172 aa protein
+KJY62739.1 GI:797158928
+
+315. hypothetical protein JG30_03380, partial [Lactobacillus mellifer]
+723 aa protein
+KJY62697.1 GI:797158879
+
+316. hypothetical protein JG30_03375, partial [Lactobacillus mellifer]
+184 aa protein
+KJY62696.1 GI:797158878
+
+317. General stress protein [Lactobacillus mellifer]
+122 aa protein
+KJY62659.1 GI:797158836
+
+318. Ferredoxin--NADP reductase 2 [Lactobacillus mellifer]
+326 aa protein
+KJY62658.1 GI:797158835
+
+319. DedA family membrane protein [Lactobacillus mellifer]
+214 aa protein
+KJY62657.1 GI:797158834
+
+320. hypothetical protein JG30_04460 [Lactobacillus mellifer]
+214 aa protein
+KJY62656.1 GI:797158833
+
+321. putative Haloacid dehalogenase-like hydrolase [Lactobacillus mellifer]
+259 aa protein
+KJY62655.1 GI:797158832
+
+322. uncharacterized protein JG30_04440 [Lactobacillus mellifer]
+188 aa protein
+KJY62654.1 GI:797158831
+
+323. Calcineurin-like phosphoesterase family protein [Lactobacillus mellifer]
+461 aa protein
+KJY62653.1 GI:797158830
+
+324. Uncharacterized protein JG30_04420 [Lactobacillus mellifer]
+103 aa protein
+KJY62652.1 GI:797158829
+
+325. Glycerophosphodiester phosphodiesterase family protein [Lactobacillus mellifer]
+479 aa protein
+KJY62651.1 GI:797158828
+
+326. Major facilitator superfamily permease [Lactobacillus mellifer]
+386 aa protein
+KJY62650.1 GI:797158827
+
+327. hypothetical protein JG30_04390 [Lactobacillus mellifer]
+274 aa protein
+KJY62649.1 GI:797158826
+
+328. hypothetical protein JG30_04380 [Lactobacillus mellifer]
+300 aa protein
+KJY62648.1 GI:797158825
+
+329. hypothetical protein JG30_04370 [Lactobacillus mellifer]
+350 aa protein
+KJY62647.1 GI:797158824
+
+330. Transglycosylase family protein [Lactobacillus mellifer]
+926 aa protein
+KJY62646.1 GI:797158823
+
+331. Catabolite control protein A [Lactobacillus mellifer]
+337 aa protein
+KJY62645.1 GI:797158822
+
+332. Xaa-Pro dipeptidase (Proline dipeptidase) [Lactobacillus mellifer]
+367 aa protein
+KJY62644.1 GI:797158821
+
+333. hypothetical protein JG30_04320 [Lactobacillus mellifer]
+135 aa protein
+KJY62643.1 GI:797158820
+
+334. putative mechanosensitive ion chanel [Lactobacillus mellifer]
+304 aa protein
+KJY62642.1 GI:797158819
+
+335. putative nucleoside triphosphatase, Ham1 family [Lactobacillus mellifer]
+199 aa protein
+KJY62641.1 GI:797158818
+
+336. Glutamate racemase [Lactobacillus mellifer]
+270 aa protein
+KJY62640.1 GI:797158817
+
+337. Lipoteichoic acid D-alanyl esterase [Lactobacillus mellifer]
+424 aa protein
+KJY62639.1 GI:797158816
+
+338. D-alanine--poly(phosphoribitol) ligase subunit 2 [Lactobacillus mellifer]
+80 aa protein
+KJY62638.1 GI:797158815
+
+339. putative D-alanine esterase for lipoteichoic acid and wall teichoic acid [Lactobacillus mellifer]
+406 aa protein
+KJY62637.1 GI:797158814
+
+340. D-alanine--poly(phosphoribitol) ligase subunit 1 [Lactobacillus mellifer]
+503 aa protein
+KJY62636.1 GI:797158813
+
+341. Thioredoxin [Lactobacillus mellifer]
+102 aa protein
+KJY62635.1 GI:797158812
+
+342. MutS2 protein [Lactobacillus mellifer]
+785 aa protein
+KJY62634.1 GI:797158811
+
+343. Colicin V production protein [Lactobacillus mellifer]
+178 aa protein
+KJY62633.1 GI:797158810
+
+344. uncharacterized protein JG30_04210 [Lactobacillus mellifer]
+97 aa protein
+KJY62632.1 GI:797158809
+
+345. RNAse H-fold protein YqgF [Lactobacillus mellifer]
+139 aa protein
+KJY62631.1 GI:797158808
+
+346. uncharacterized protein JG30_04190 [Lactobacillus mellifer]
+88 aa protein
+KJY62630.1 GI:797158807
+
+347. Alanine--tRNA ligase [Lactobacillus mellifer]
+884 aa protein
+KJY62629.1 GI:797158806
+
+348. putative ATP-dependent DNA/RNA helicase [Lactobacillus mellifer]
+446 aa protein
+KJY62628.1 GI:797158805
+
+349. DHH family protein [Lactobacillus mellifer]
+317 aa protein
+KJY62627.1 GI:797158804
+
+350. DNA polymerase IV [Lactobacillus mellifer]
+369 aa protein
+KJY62626.1 GI:797158803
+
+351. Glucose-6-phosphate 1-dehydrogenase [Lactobacillus mellifer]
+494 aa protein
+KJY62625.1 GI:797158802
+
+352. Preprotein translocase YajC subunit [Lactobacillus mellifer]
+160 aa protein
+KJY62624.1 GI:797158801
+
+353. Queuine tRNA-ribosyltransferase [Lactobacillus mellifer]
+380 aa protein
+KJY62623.1 GI:797158800
+
+354. S-adenosylmethionine:tRNA ribosyltransferase-isomerase [Lactobacillus mellifer]
+343 aa protein
+KJY62622.1 GI:797158799
+
+355. Holliday junction ATP-dependent DNA helicase RuvB [Lactobacillus mellifer]
+339 aa protein
+KJY62621.1 GI:797158798
+
+356. Holliday junction ATP-dependent DNA helicase RuvA [Lactobacillus mellifer]
+199 aa protein
+KJY62620.1 GI:797158797
+
+357. DNA mismatch repair protein MutL [Lactobacillus mellifer]
+636 aa protein
+KJY62619.1 GI:797158796
+
+358. DNA mismatch repair protein MutS [Lactobacillus mellifer]
+869 aa protein
+KJY62618.1 GI:797158795
+
+359. Metallophosphoesterase [Lactobacillus mellifer]
+261 aa protein
+KJY62617.1 GI:797158794
+
+360. hypothetical protein JG30_04050 [Lactobacillus mellifer]
+540 aa protein
+KJY62616.1 GI:797158793
+
+361. 1-deoxy-D-xylulose 5-phosphate synthase [Lactobacillus mellifer]
+591 aa protein
+KJY62615.1 GI:797158792
+
+362. 60 kDa chaperonin [Lactobacillus mellifer]
+545 aa protein
+KJY62614.1 GI:797158791
+
+363. 10 kDa chaperonin [Lactobacillus mellifer]
+94 aa protein
+KJY62613.1 GI:797158790
+
+364. hypothetical protein JG30_04010 [Lactobacillus mellifer]
+642 aa protein
+KJY62612.1 GI:797158789
+
+365. Redox-sensing transcriptional repressor rex [Lactobacillus mellifer]
+210 aa protein
+KJY62611.1 GI:797158788
+
+366. ABC transporter, ATP-binding protein [Lactobacillus mellifer]
+639 aa protein
+KJY62610.1 GI:797158787
+
+367. putative tRNA threonylcarbamoyladenosine biosynthesis protein Gcp [Lactobacillus mellifer]
+342 aa protein
+KJY62609.1 GI:797158786
+
+368. hypothetical protein JG30_03970 [Lactobacillus mellifer]
+177 aa protein
+KJY62608.1 GI:797158785
+
+369. putative O-sialoglycoprotein metallo-endopeptidase (M22 family) [Lactobacillus mellifer]
+240 aa protein
+KJY62607.1 GI:797158784
+
+370. uncharacterized protein JG30_03950 [Lactobacillus mellifer]
+173 aa protein
+KJY62606.1 GI:797158783
+
+371. Asparaginase [Lactobacillus mellifer]
+322 aa protein
+KJY62605.1 GI:797158782
+
+372. Uncharacterized protein JG30_03930 [Lactobacillus mellifer]
+400 aa protein
+KJY62604.1 GI:797158781
+
+373. Imidazolonepropionase related amidohydrolase [Lactobacillus mellifer]
+392 aa protein
+KJY62603.1 GI:797158780
+
+374. hypothetical protein JG30_03910 [Lactobacillus mellifer]
+165 aa protein
+KJY62602.1 GI:797158779
+
+375. hypothetical protein JG30_03900 [Lactobacillus mellifer]
+267 aa protein
+KJY62601.1 GI:797158778
+
+376. Carboxymuconolactone decarboxylase family protein [Lactobacillus mellifer]
+115 aa protein
+KJY62600.1 GI:797158777
+
+377. Integral membrane protein [Lactobacillus mellifer]
+452 aa protein
+KJY62599.1 GI:797158776
+
+378. putative transport system permease protein [Lactobacillus mellifer]
+349 aa protein
+KJY62598.1 GI:797158775
+
+379. Rhodanese-like protein [Lactobacillus mellifer]
+357 aa protein
+KJY62597.1 GI:797158774
+
+380. Uncharacterized protein JG30_03850 [Lactobacillus mellifer]
+72 aa protein
+KJY62596.1 GI:797158773
+
+381. Efflux ABC transporter, permease protein [Lactobacillus mellifer]
+642 aa protein
+KJY62595.1 GI:797158772
+
+382. ABC superfamily ATP binding cassette transporter ABC protein [Lactobacillus mellifer]
+256 aa protein
+KJY62594.1 GI:797158771
+
+383. ATPase/histidine kinase/DNA gyrase B/HSP90 domain protein [Lactobacillus mellifer]
+322 aa protein
+KJY62593.1 GI:797158770
+
+384. putative response regulator protein GraR [Lactobacillus mellifer]
+232 aa protein
+KJY62592.1 GI:797158769
+
+385. hypothetical protein JG30_03800 [Lactobacillus mellifer]
+129 aa protein
+KJY62591.1 GI:797158768
+
+386. hypothetical protein JG30_03790 [Lactobacillus mellifer]
+246 aa protein
+KJY62590.1 GI:797158767
+
+387. Ribosomal RNA small subunit methyltransferase I [Lactobacillus mellifer]
+291 aa protein
+KJY62589.1 GI:797158766
+
+388. Initiation-control protein YabA [Lactobacillus mellifer]
+109 aa protein
+KJY62588.1 GI:797158765
+
+389. hypothetical protein JG30_03760 [Lactobacillus mellifer]
+313 aa protein
+KJY62587.1 GI:797158764
+
+390. uncharacterized protein JG30_03750 [Lactobacillus mellifer]
+108 aa protein
+KJY62586.1 GI:797158763
+
+391. Thymidylate kinase [Lactobacillus mellifer]
+214 aa protein
+KJY62585.1 GI:797158762
+
+392. putative membrane protein [Lactobacillus mellifer]
+370 aa protein
+KJY62584.1 GI:797158761
+
+393. Recombination protein RecR [Lactobacillus mellifer]
+199 aa protein
+KJY62583.1 GI:797158760
+
+394. DNA polymerase III subunit gamma/tau [Lactobacillus mellifer]
+573 aa protein
+KJY62582.1 GI:797158759
+
+395. tRNA-adenosine deaminase [Lactobacillus mellifer]
+165 aa protein
+KJY62581.1 GI:797158758
+
+396. Methyltransferase small domain protein [Lactobacillus mellifer]
+203 aa protein
+KJY62580.1 GI:797158757
+
+397. Cell surface protein, ErfK family [Lactobacillus mellifer]
+224 aa protein
+KJY62579.1 GI:797158756
+
+398. 50S ribosomal protein L7/L12 [Lactobacillus mellifer]
+122 aa protein
+KJY62578.1 GI:797158755
+
+399. 50S ribosomal protein L10 [Lactobacillus mellifer]
+168 aa protein
+KJY62577.1 GI:797158754
+
+400. 50S ribosomal protein L1 [Lactobacillus mellifer]
+227 aa protein
+KJY62576.1 GI:797158753
+
+401. 50S ribosomal protein L11 [Lactobacillus mellifer]
+141 aa protein
+KJY62575.1 GI:797158752
+
+402. Transcription antitermination protein nusG [Lactobacillus mellifer]
+181 aa protein
+KJY62574.1 GI:797158751
+
+403. Preprotein translocase secE subunit [Lactobacillus mellifer]
+60 aa protein
+KJY62573.1 GI:797158750
+
+404. hypothetical protein JG30_03610 [Lactobacillus mellifer]
+194 aa protein
+KJY62572.1 GI:797158749
+
+405. uncharacterized protein JG30_03600 [Lactobacillus mellifer]
+175 aa protein
+KJY62571.1 GI:797158748
+
+406. putative tRNA/rRNA methyltransferase [Lactobacillus mellifer]
+255 aa protein
+KJY62570.1 GI:797158747
+
+407. Mini-ribonuclease 3 [Lactobacillus mellifer]
+137 aa protein
+KJY62569.1 GI:797158746
+
+408. Cysteine--tRNA ligase [Lactobacillus mellifer]
+470 aa protein
+KJY62568.1 GI:797158745
+
+409. Glutamate--tRNA ligase [Lactobacillus mellifer]
+496 aa protein
+KJY62567.1 GI:797158744
+
+410. DNA repair protein radA [Lactobacillus mellifer]
+460 aa protein
+KJY62566.1 GI:797158743
+
+411. DUTP diphosphatase [Lactobacillus mellifer]
+182 aa protein
+KJY62565.1 GI:797158742
+
+412. putative N-acyltransferase [Lactobacillus mellifer]
+101 aa protein
+KJY62564.1 GI:797158741
+
+413. Ribose-5-phosphate isomerase A [Lactobacillus mellifer]
+228 aa protein
+KJY62563.1 GI:797158740
+
+414. Aminopeptidase C [Lactobacillus mellifer]
+445 aa protein
+KJY62562.1 GI:797158739
+
+415. hypothetical protein JG30_03500 [Lactobacillus mellifer]
+358 aa protein
+KJY62561.1 GI:797158738
+
+416. putative potassium transport system protein kup [Lactobacillus mellifer]
+682 aa protein
+KJY62560.1 GI:797158737
+
+417. putative potassium transport system protein kup [Lactobacillus mellifer]
+694 aa protein
+KJY62559.1 GI:797158736
+
+418. 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [Lactobacillus mellifer]
+225 aa protein
+KJY62558.1 GI:797158735
+
+419. Auxin efflux carrier (AEC) family permease [Lactobacillus mellifer]
+313 aa protein
+KJY62557.1 GI:797158734
+
+420. signal peptidase I [Lactobacillus mellifer]
+189 aa protein
+KJY62556.1 GI:797158733
+
+421. CDF family cation diffusion facilitator [Lactobacillus mellifer]
+302 aa protein
+KJY62555.1 GI:797158732
+
+422. hypothetical protein JG30_03420 [Lactobacillus mellifer]
+317 aa protein
+KJY62554.1 GI:797158731
+
+423. L-Malate uniport protein [Lactobacillus mellifer]
+322 aa protein
+KJY62553.1 GI:797158730
+
+424. putative NAD-dependent malic enzyme 3 [Lactobacillus mellifer]
+546 aa protein
+KJY62552.1 GI:797158729
+
+425. hypothetical protein JG30_03390 [Lactobacillus mellifer]
+787 aa protein
+KJY62551.1 GI:797158728
+
+426. hypothetical protein JG30_03385, partial [Lactobacillus mellifer]
+193 aa protein
+KJY62550.1 GI:797158727
+
+427. hypothetical protein JG30_07340, partial [Lactobacillus mellifer]
+385 aa protein
+KJY62519.1 GI:797158688
+
+428. Cation transport protein [Lactobacillus mellifer]
+369 aa protein
+KJY62518.1 GI:797158687
+
+429. ABC transporter, ATP-binding protein [Lactobacillus mellifer]
+298 aa protein
+KJY62517.1 GI:797158686
+
+430. ABC-type Na+ efflux pump, permease component [Lactobacillus mellifer]
+405 aa protein
+KJY62516.1 GI:797158685
+
+431. hypothetical protein JG30_07300 [Lactobacillus mellifer]
+779 aa protein
+KJY62515.1 GI:797158684
+
+432. Adenine phosphoribosyltransferase [Lactobacillus mellifer]
+170 aa protein
+KJY62514.1 GI:797158683
+
+433. Single-strand DNA-specific exonuclease RecJ [Lactobacillus mellifer]
+772 aa protein
+KJY62513.1 GI:797158682
+
+434. Sortase [Lactobacillus mellifer]
+219 aa protein
+KJY62512.1 GI:797158681
+
+435. Elongation factor 4 [Lactobacillus mellifer]
+613 aa protein
+KJY62511.1 GI:797158680
+
+436. Chaperone protein DnaJ [Lactobacillus mellifer]
+368 aa protein
+KJY62510.1 GI:797158679
+
+437. Chaperone protein DnaK [Lactobacillus mellifer]
+615 aa protein
+KJY62509.1 GI:797158678
+
+438. Protein GrpE [Lactobacillus mellifer]
+209 aa protein
+KJY62508.1 GI:797158677
+
+439. Heat-inducible transcription repressor hrcA [Lactobacillus mellifer]
+357 aa protein
+KJY62507.1 GI:797158676
+
+440. Bifunctional enzyme, riboflavin kinase and FMN adenylyltransferase [Lactobacillus mellifer]
+317 aa protein
+KJY62506.1 GI:797158675
+
+441. tRNA pseudouridine synthase B [Lactobacillus mellifer]
+299 aa protein
+KJY62505.1 GI:797158674
+
+442. Ribosome-binding factor A [Lactobacillus mellifer]
+116 aa protein
+KJY62504.1 GI:797158673
+
+443. Translation initiation factor IF-2 [Lactobacillus mellifer]
+876 aa protein
+KJY62503.1 GI:797158672
+
+444. Ribosomal protein L7/L12 [Lactobacillus mellifer]
+101 aa protein
+KJY62502.1 GI:797158671
+
+445. Nucleic-acid-binding protein implicated in transcription termination [Lactobacillus mellifer]
+104 aa protein
+KJY62501.1 GI:797158670
+
+446. Transcription termination factor NusA [Lactobacillus mellifer]
+361 aa protein
+KJY62500.1 GI:797158669
+
+447. Ribosome maturation factor RimP [Lactobacillus mellifer]
+157 aa protein
+KJY62499.1 GI:797158668
+
+448. DNA polymerase III polC-type [Lactobacillus mellifer]
+1436 aa protein
+KJY62498.1 GI:797158667
+
+449. Proline--tRNA ligase [Lactobacillus mellifer]
+570 aa protein
+KJY62497.1 GI:797158666
+
+450. Peptidase [Lactobacillus mellifer]
+423 aa protein
+KJY62496.1 GI:797158665
+
+451. Phosphatidate cytidylyltransferase [Lactobacillus mellifer]
+271 aa protein
+KJY62495.1 GI:797158664
+
+452. Isoprenyl transferase [Lactobacillus mellifer]
+238 aa protein
+KJY62494.1 GI:797158663
+
+453. Ribosome-recycling factor [Lactobacillus mellifer]
+185 aa protein
+KJY62493.1 GI:797158662
+
+454. Uridylate kinase [Lactobacillus mellifer]
+243 aa protein
+KJY62492.1 GI:797158661
+
+455. Elongation factor Ts [Lactobacillus mellifer]
+292 aa protein
+KJY62491.1 GI:797158660
+
+456. 30S ribosomal protein S2 [Lactobacillus mellifer]
+271 aa protein
+KJY62490.1 GI:797158659
+
+457. A URI domain-containing endonuclease [Lactobacillus mellifer]
+86 aa protein
+KJY62489.1 GI:797158658
+
+458. hypothetical protein JG30_07030 [Lactobacillus mellifer]
+239 aa protein
+KJY62488.1 GI:797158657
+
+459. Acyltransferase family protein [Lactobacillus mellifer]
+209 aa protein
+KJY62487.1 GI:797158656
+
+460. Phosphorylase family [Lactobacillus mellifer]
+262 aa protein
+KJY62486.1 GI:797158655
+
+461. Cell wall hydrolase/muramidase [Lactobacillus mellifer]
+794 aa protein
+KJY62485.1 GI:797158654
+
+462. ABC transporter ATP binding protein [Lactobacillus mellifer]
+594 aa protein
+KJY62484.1 GI:797158653
+
+463. ABC transporter, ATP-binding and permease protein [Lactobacillus mellifer]
+576 aa protein
+KJY62483.1 GI:797158652
+
+464. uncharacterized protein JG30_06970 [Lactobacillus mellifer]
+71 aa protein
+KJY62482.1 GI:797158651
+
+465. uncharacterized protein JG30_06960 [Lactobacillus mellifer]
+86 aa protein
+KJY62481.1 GI:797158650
+
+466. LexA repressor [Lactobacillus mellifer]
+208 aa protein
+KJY62480.1 GI:797158649
+
+467. 50S ribosomal protein L19 [Lactobacillus mellifer]
+118 aa protein
+KJY62479.1 GI:797158648
+
+468. tRNA (guanine-N(1)-)-methyltransferase [Lactobacillus mellifer]
+242 aa protein
+KJY62478.1 GI:797158647
+
+469. Ribosome maturation factor RimM [Lactobacillus mellifer]
+174 aa protein
+KJY62477.1 GI:797158646
+
+470. putative RNA binding protein [Lactobacillus mellifer]
+81 aa protein
+KJY62476.1 GI:797158645
+
+471. 30S ribosomal protein S16 [Lactobacillus mellifer]
+92 aa protein
+KJY62475.1 GI:797158644
+
+472. Signal recognition particle protein [Lactobacillus mellifer]
+478 aa protein
+KJY62474.1 GI:797158643
+
+473. putative DNA binding protein [Lactobacillus mellifer]
+113 aa protein
+KJY62473.1 GI:797158642
+
+474. Signal recognition particle receptor FtsY [Lactobacillus mellifer]
+437 aa protein
+KJY62472.1 GI:797158641
+
+475. Chromosome partition protein Smc [Lactobacillus mellifer]
+1184 aa protein
+KJY62471.1 GI:797158640
+
+476. Ribonuclease 3 [Lactobacillus mellifer]
+234 aa protein
+KJY62470.1 GI:797158639
+
+477. Acyl carrier protein [Lactobacillus mellifer]
+80 aa protein
+KJY62469.1 GI:797158638
+
+478. Phosphate acyltransferase [Lactobacillus mellifer]
+334 aa protein
+KJY62468.1 GI:797158637
+
+479. ATP-dependent DNA helicase recG [Lactobacillus mellifer]
+675 aa protein
+KJY62467.1 GI:797158636
+
+480. Uncharacterized protein JG30_06810 [Lactobacillus mellifer]
+557 aa protein
+KJY62466.1 GI:797158635
+
+481. Uncharacterized protein JG30_06800 [Lactobacillus mellifer]
+124 aa protein
+KJY62465.1 GI:797158634
+
+482. 50S ribosomal protein L28 [Lactobacillus mellifer]
+61 aa protein
+KJY62464.1 GI:797158633
+
+483. putative thiamine pyrophosphokinase [Lactobacillus mellifer]
+212 aa protein
+KJY62463.1 GI:797158632
+
+484. Ribulose-phosphate 3-epimerase [Lactobacillus mellifer]
+218 aa protein
+KJY62462.1 GI:797158631
+
+485. putative ribosome biogenesis GTPase RsgA [Lactobacillus mellifer]
+291 aa protein
+KJY62461.1 GI:797158630
+
+486. Serine-threonine protein kinase [Lactobacillus mellifer]
+655 aa protein
+KJY62460.1 GI:797158629
+
+487. putative serine/threonine protein phosphatase [Lactobacillus mellifer]
+251 aa protein
+KJY62459.1 GI:797158628
+
+488. putative rRNA methytransferase (Sun protein) [Lactobacillus mellifer]
+448 aa protein
+KJY62458.1 GI:797158627
+
+489. Methionyl-tRNA formyltransferase [Lactobacillus mellifer]
+316 aa protein
+KJY62457.1 GI:797158626
+
+490. Primosomal replication protein N (Factor Y) [Lactobacillus mellifer]
+799 aa protein
+KJY62456.1 GI:797158625
+
+491. DNA-directed RNA polymerase subunit omega [Lactobacillus mellifer]
+92 aa protein
+KJY62455.1 GI:797158624
+
+492. Guanylate kinase [Lactobacillus mellifer]
+205 aa protein
+KJY62454.1 GI:797158623
+
+493. DNA repair protein RecN [Lactobacillus mellifer]
+575 aa protein
+KJY62453.1 GI:797158622
+
+494. FtsJ-like methyl-transferase [Lactobacillus mellifer]
+274 aa protein
+KJY62452.1 GI:797158621
+
+495. Geranyltranstransferase [Lactobacillus mellifer]
+295 aa protein
+KJY62451.1 GI:797158620
+
+496. Exodeoxyribonuclease 7 small subunit [Lactobacillus mellifer]
+82 aa protein
+KJY62450.1 GI:797158619
+
+497. Exodeoxyribonuclease 7 large subunit [Lactobacillus mellifer]
+444 aa protein
+KJY62449.1 GI:797158618
+
+498. Bifunctional protein FolD [Lactobacillus mellifer]
+287 aa protein
+KJY62448.1 GI:797158617
+
+499. Transcription antitermination factor NusB [Lactobacillus mellifer]
+137 aa protein
+KJY62447.1 GI:797158616
+
+500. putative general stress protein [Lactobacillus mellifer]
+139 aa protein
+KJY62446.1 GI:797158615
+
+501. Elongation factor P [Lactobacillus mellifer]
+187 aa protein
+KJY62445.1 GI:797158614
+
+502. 50S ribosomal protein L27 [Lactobacillus mellifer]
+93 aa protein
+KJY62444.1 GI:797158613
+
+503. putative ribosomal protein [Lactobacillus mellifer]
+117 aa protein
+KJY62443.1 GI:797158612
+
+504. 50S ribosomal protein L21 [Lactobacillus mellifer]
+102 aa protein
+KJY62442.1 GI:797158611
+
+505. hypothetical protein JG30_06560 [Lactobacillus mellifer]
+59 aa protein
+KJY62441.1 GI:797158610
+
+506. putative NADPH-quinone reductase (Modulator of drug activity B) [Lactobacillus mellifer]
+229 aa protein
+KJY62440.1 GI:797158609
+
+507. Uncharacterized protein JG30_06540 [Lactobacillus mellifer]
+63 aa protein
+KJY62439.1 GI:797158608
+
+508. hypothetical protein JG30_06530 [Lactobacillus mellifer]
+1551 aa protein
+KJY62438.1 GI:797158607
+
+509. Beta-glucosidase-related glycosidase [Lactobacillus mellifer]
+738 aa protein
+KJY62437.1 GI:797158606
+
+510. hypothetical protein JG30_06490 [Lactobacillus mellifer]
+828 aa protein
+KJY62436.1 GI:797158605
+
+511. hypothetical protein JG30_06480 [Lactobacillus mellifer]
+277 aa protein
+KJY62435.1 GI:797158604
+
+512. Na+/H+ antiporter [Lactobacillus mellifer]
+390 aa protein
+KJY62434.1 GI:797158603
+
+513. hypothetical protein JG30_06460 [Lactobacillus mellifer]
+102 aa protein
+KJY62433.1 GI:797158602
+
+514. Cro/CI family transcriptional regulator [Lactobacillus mellifer]
+77 aa protein
+KJY62432.1 GI:797158601
+
+515. putative surface protein [Lactobacillus mellifer]
+761 aa protein
+KJY62431.1 GI:797158600
+
+516. hypothetical protein JG30_06410 [Lactobacillus mellifer]
+90 aa protein
+KJY62430.1 GI:797158599
+
+517. Uncharacterized protein JG30_06400 [Lactobacillus mellifer]
+127 aa protein
+KJY62429.1 GI:797158598
+
+518. uncharacterized protein JG30_06390 [Lactobacillus mellifer]
+828 aa protein
+KJY62428.1 GI:797158597
+
+519. hypothetical protein JG30_06380 [Lactobacillus mellifer]
+756 aa protein
+KJY62427.1 GI:797158596
+
+520. hypothetical protein JG30_06370 [Lactobacillus mellifer]
+657 aa protein
+KJY62426.1 GI:797158595
+
+521. Host cell surface-exposed lipoprotein [Lactobacillus mellifer]
+272 aa protein
+KJY62425.1 GI:797158594
+
+522. hypothetical protein JG30_06350 [Lactobacillus mellifer]
+66 aa protein
+KJY62424.1 GI:797158593
+
+523. Toxin-antitoxin system, antitoxin component, Xre family [Lactobacillus mellifer]
+113 aa protein
+KJY62423.1 GI:797158592
+
+524. hypothetical protein JG30_06330 [Lactobacillus mellifer]
+210 aa protein
+KJY62422.1 GI:797158591
+
+525. Cro/CI family transcriptional regulator [Lactobacillus mellifer]
+158 aa protein
+KJY62421.1 GI:797158590
+
+526. hypothetical protein JG30_06310 [Lactobacillus mellifer]
+217 aa protein
+KJY62420.1 GI:797158589
+
+527. Cro/CI family transcriptional regulator [Lactobacillus mellifer]
+111 aa protein
+KJY62419.1 GI:797158588
+
+528. hypothetical protein JG30_06290 [Lactobacillus mellifer]
+214 aa protein
+KJY62418.1 GI:797158587
+
+529. Uncharacterized protein JG30_06280 [Lactobacillus mellifer]
+281 aa protein
+KJY62417.1 GI:797158586
+
+530. Uncharacterized protein JG30_06270 [Lactobacillus mellifer]
+80 aa protein
+KJY62416.1 GI:797158585
+
+531. YafQ family toxin protein [Lactobacillus mellifer]
+93 aa protein
+KJY62415.1 GI:797158584
+
+532. hypothetical protein JG30_06250 [Lactobacillus mellifer]
+651 aa protein
+KJY62414.1 GI:797158583
+
+533. hypothetical protein JG30_06240 [Lactobacillus mellifer]
+394 aa protein
+KJY62413.1 GI:797158582
+
+534. hypothetical protein JG30_06230 [Lactobacillus mellifer]
+197 aa protein
+KJY62412.1 GI:797158581
+
+535. MFS transporter, putative Lincomycin resistance protein, Lincomycin:H+ antiporter, LmrB [Lactobacillus mellifer]
+464 aa protein
+KJY62411.1 GI:797158580
+
+536. hypothetical protein JG30_06210 [Lactobacillus mellifer]
+152 aa protein
+KJY62410.1 GI:797158579
+
+537. hypothetical protein JG30_06180 [Lactobacillus mellifer]
+627 aa protein
+KJY62409.1 GI:797158578
+
+538. Organophosphate reductase [Lactobacillus mellifer]
+291 aa protein
+KJY62408.1 GI:797158577
+
+539. Rep [Lactobacillus mellifer]
+334 aa protein
+KJY62407.1 GI:797158576
+
+540. Uncharacterized protein JG30_06130 [Lactobacillus mellifer]
+291 aa protein
+KJY62406.1 GI:797158575
+
+541. Acetyltransferase [Lactobacillus mellifer]
+192 aa protein
+KJY62405.1 GI:797158574
+
+542. Carboxymuconolactone decarboxylase family protein [Lactobacillus mellifer]
+125 aa protein
+KJY62404.1 GI:797158573
+
+543. NAD-dependent deacetylase, SIR2-like protein [Lactobacillus mellifer]
+252 aa protein
+KJY62403.1 GI:797158572
+
+544. uncharacterized protein JG30_06060 [Lactobacillus mellifer]
+122 aa protein
+KJY62402.1 GI:797158571
+
+545. hypothetical protein JG30_06050 [Lactobacillus mellifer]
+397 aa protein
+KJY62401.1 GI:797158570
+
+546. Transcriptional regulator, MerR family [Lactobacillus mellifer]
+128 aa protein
+KJY62400.1 GI:797158569
+
+547. hypothetical protein JG30_06030 [Lactobacillus mellifer]
+301 aa protein
+KJY62399.1 GI:797158568
+
+548. hypothetical protein JG30_06020 [Lactobacillus mellifer]
+223 aa protein
+KJY62398.1 GI:797158567
+
+549. Carboxylate/amino acid/amine transporter [Lactobacillus mellifer]
+302 aa protein
+KJY62397.1 GI:797158566
+
+550. transcriptional regulator [Lactobacillus mellifer]
+110 aa protein
+KJY62396.1 GI:797158565
+
+551. hypothetical protein JG30_05990 [Lactobacillus mellifer]
+109 aa protein
+KJY62395.1 GI:797158564
+
+552. hypothetical protein JG30_05980 [Lactobacillus mellifer]
+266 aa protein
+KJY62394.1 GI:797158563
+
+553. Glutamine synthetase [Lactobacillus mellifer]
+446 aa protein
+KJY62393.1 GI:797158562
+
+554. MerR family transcriptional regulator [Lactobacillus mellifer]
+121 aa protein
+KJY62392.1 GI:797158561
+
+555. Aluminum resistance protein [Lactobacillus mellifer]
+416 aa protein
+KJY62391.1 GI:797158560
+
+556. tRNA dimethylallyltransferase [Lactobacillus mellifer]
+309 aa protein
+KJY62390.1 GI:797158559
+
+557. Conserved extracellular protein [Lactobacillus mellifer]
+64 aa protein
+KJY62389.1 GI:797158558
+
+558. putative sulfurtransferase [Lactobacillus mellifer]
+133 aa protein
+KJY62388.1 GI:797158557
+
+559. Glucokinase [Lactobacillus mellifer]
+319 aa protein
+KJY62387.1 GI:797158556
+
+560. uncharacterized protein JG30_05900 [Lactobacillus mellifer]
+76 aa protein
+KJY62386.1 GI:797158555
+
+561. Integral membrane protein, Rhomboid family [Lactobacillus mellifer]
+225 aa protein
+KJY62385.1 GI:797158554
+
+562. 5-formyltetrahydrofolate cyclo-ligase [Lactobacillus mellifer]
+185 aa protein
+KJY62384.1 GI:797158553
+
+563. 50S ribosomal protein L33 [Lactobacillus mellifer]
+49 aa protein
+KJY62383.1 GI:797158552
+
+564. Penicillin-binding protein [Lactobacillus mellifer]
+703 aa protein
+KJY62382.1 GI:797158551
+
+565. uncharacterized protein JG30_05850 [Lactobacillus mellifer]
+97 aa protein
+KJY62381.1 GI:797158550
+
+566. Transcription elongation factor GreA [Lactobacillus mellifer]
+158 aa protein
+KJY62380.1 GI:797158549
+
+567. Aminodeoxychorismate lyase family protein [Lactobacillus mellifer]
+385 aa protein
+KJY62379.1 GI:797158548
+
+568. Phenylalanine--tRNA ligase beta subunit [Lactobacillus mellifer]
+806 aa protein
+KJY62378.1 GI:797158547
+
+569. Phenylalanine--tRNA ligase alpha subunit [Lactobacillus mellifer]
+347 aa protein
+KJY62377.1 GI:797158546
+
+570. HD family hydrolase [Lactobacillus mellifer]
+165 aa protein
+KJY62376.1 GI:797158545
+
+571. putative tRNA/rRNA methyltransferase [Lactobacillus mellifer]
+254 aa protein
+KJY62375.1 GI:797158544
+
+572. Acylphosphatase [Lactobacillus mellifer]
+90 aa protein
+KJY62374.1 GI:797158543
+
+573. Membrane protein chaperone oxaA [Lactobacillus mellifer]
+331 aa protein
+KJY62373.1 GI:797158542
+
+574. Two component sensor transduction histidine kinase [Lactobacillus mellifer]
+504 aa protein
+KJY62372.1 GI:797158541
+
+575. OmpR family two-component response regulator [Lactobacillus mellifer]
+229 aa protein
+KJY62371.1 GI:797158540
+
+576. 6-phosphogluconate dehydrogenase, decarboxylating [Lactobacillus mellifer]
+472 aa protein
+KJY62370.1 GI:797158539
+
+577. binding protein [Lactobacillus mellifer]
+186 aa protein
+KJY62369.1 GI:797158538
+
+578. HIGH nucleotidyl transferase [Lactobacillus mellifer]
+382 aa protein
+KJY62368.1 GI:797158537
+
+579. Iojap family protein [Lactobacillus mellifer]
+119 aa protein
+KJY62367.1 GI:797158536
+
+580. Metal dependent phosphohydrolase [Lactobacillus mellifer]
+192 aa protein
+KJY62366.1 GI:797158535
+
+581. putative nicotinate-nucleotide adenylyltransferase [Lactobacillus mellifer]
+217 aa protein
+KJY62365.1 GI:797158534
+
+582. YhbY family putative RNA-binding protein [Lactobacillus mellifer]
+104 aa protein
+KJY62364.1 GI:797158533
+
+583. Ribosome biogenesis GTPase YqeH [Lactobacillus mellifer]
+372 aa protein
+KJY62363.1 GI:797158532
+
+584. uncharacterized protein JG30_05660 [Lactobacillus mellifer]
+163 aa protein
+KJY62362.1 GI:797158531
+
+585. 50S ribosomal protein L20 [Lactobacillus mellifer]
+118 aa protein
+KJY62361.1 GI:797158530
+
+586. 50S ribosomal protein L35 [Lactobacillus mellifer]
+66 aa protein
+KJY62360.1 GI:797158529
+
+587. Translation initiation factor IF-3 [Lactobacillus mellifer]
+171 aa protein
+KJY62359.1 GI:797158528
+
+588. Fructose-1,6-bisphosphatase class 3 [Lactobacillus mellifer]
+622 aa protein
+KJY62358.1 GI:797158527
+
+589. Threonine--tRNA ligase [Lactobacillus mellifer]
+647 aa protein
+KJY62357.1 GI:797158526
+
+590. Primosomal protein DnaI (Helicase loader) [Lactobacillus mellifer]
+304 aa protein
+KJY62356.1 GI:797158525
+
+591. hypothetical protein JG30_05590 [Lactobacillus mellifer]
+451 aa protein
+KJY62355.1 GI:797158524
+
+592. Transcriptional repressor NrdR [Lactobacillus mellifer]
+170 aa protein
+KJY62354.1 GI:797158523
+
+593. Dephospho-CoA kinase [Lactobacillus mellifer]
+197 aa protein
+KJY62353.1 GI:797158522
+
+594. Formamidopyrimidine-DNA glycosylase [Lactobacillus mellifer]
+276 aa protein
+KJY62352.1 GI:797158521
+
+595. DNA polymerase [Lactobacillus mellifer]
+884 aa protein
+KJY62351.1 GI:797158520
+
+596. UDP-N-acetylmuramate--L-alanine ligase [Lactobacillus mellifer]
+437 aa protein
+KJY62350.1 GI:797158519
+
+597. tRNA binding domain protein [Lactobacillus mellifer]
+212 aa protein
+KJY62349.1 GI:797158518
+
+598. Thioredoxin [Lactobacillus mellifer]
+106 aa protein
+KJY62348.1 GI:797158517
+
+599. hypothetical protein JG30_05510 [Lactobacillus mellifer]
+104 aa protein
+KJY62347.1 GI:797158516
+
+600. tRNA (guanine-N(7)-)-methyltransferase [Lactobacillus mellifer]
+229 aa protein
+KJY62346.1 GI:797158515
+
+601. hypothetical protein JG30_05490 [Lactobacillus mellifer]
+401 aa protein
+KJY62345.1 GI:797158514
+
+602. ABC transporter, ATP-binding protein [Lactobacillus mellifer]
+245 aa protein
+KJY62344.1 GI:797158513
+
+603. putative diadenosine polyphosphate hydrolase [Lactobacillus mellifer]
+144 aa protein
+KJY62343.1 GI:797158512
+
+604. Foldase protein PrsA [Lactobacillus mellifer]
+310 aa protein
+KJY62342.1 GI:797158511
+
+605. Glycine cleavage H-protein [Lactobacillus mellifer]
+99 aa protein
+KJY62341.1 GI:797158510
+
+606. GroES-like protein [Lactobacillus mellifer]
+346 aa protein
+KJY62340.1 GI:797158509
+
+607. uncharacterized protein JG30_05420 [Lactobacillus mellifer]
+288 aa protein
+KJY62339.1 GI:797158508
+
+608. putative PLP dependent aminotransferase [Lactobacillus mellifer]
+392 aa protein
+KJY62338.1 GI:797158507
+
+609. HD domain protein [Lactobacillus mellifer]
+328 aa protein
+KJY62337.1 GI:797158506
+
+610. hypothetical protein JG30_05390 [Lactobacillus mellifer]
+837 aa protein
+KJY62336.1 GI:797158505
+
+611. Calcineurin-like phosphoesterase family protein [Lactobacillus mellifer]
+395 aa protein
+KJY62335.1 GI:797158504
+
+612. uncharacterized protein JG30_05370 [Lactobacillus mellifer]
+113 aa protein
+KJY62334.1 GI:797158503
+
+613. Penicillin-binding protein 2A [Lactobacillus mellifer]
+704 aa protein
+KJY62333.1 GI:797158502
+
+614. Pseudouridine synthase, 23S-rRNA-specific [Lactobacillus mellifer]
+288 aa protein
+KJY62332.1 GI:797158501
+
+615. Ribokinase [Lactobacillus mellifer]
+308 aa protein
+KJY62331.1 GI:797158500
+
+616. Arginine--tRNA ligase [Lactobacillus mellifer]
+569 aa protein
+KJY62330.1 GI:797158499
+
+617. Oxidoreductase [Lactobacillus mellifer]
+216 aa protein
+KJY62329.1 GI:797158498
+
+618. Stress-responsive transcription regulator [Lactobacillus mellifer]
+59 aa protein
+KJY62328.1 GI:797158497
+
+619. YitT family protein [Lactobacillus mellifer]
+281 aa protein
+KJY62327.1 GI:797158496
+
+620. NADH peroxidase [Lactobacillus mellifer]
+451 aa protein
+KJY62326.1 GI:797158495
+
+621. ADP-dependent (S)-NAD(P)H-hydrate dehydratase [Lactobacillus mellifer]
+283 aa protein
+KJY62325.1 GI:797158494
+
+622. Ribonucleoside-triphosphate reductase [Lactobacillus mellifer]
+737 aa protein
+KJY62324.1 GI:797158493
+
+623. Polysaccharide biosynthesis family protein [Lactobacillus mellifer]
+549 aa protein
+KJY62323.1 GI:797158492
+
+624. Leucine--tRNA ligase [Lactobacillus mellifer]
+806 aa protein
+KJY62322.1 GI:797158491
+
+625. Family 4 N-acetylmuramoyl-L-alanine amidase [Lactobacillus mellifer]
+427 aa protein
+KJY62321.1 GI:797158490
+
+626. hypothetical protein JG30_05210 [Lactobacillus mellifer]
+208 aa protein
+KJY62320.1 GI:797158489
+
+627. MFS multidrug transporter [Lactobacillus mellifer]
+497 aa protein
+KJY62319.1 GI:797158488
+
+628. S-adenosylmethionine synthase [Lactobacillus mellifer]
+402 aa protein
+KJY62318.1 GI:797158487
+
+629. Cyclopropane-fatty-acyl-phospholipid synthase [Lactobacillus mellifer]
+390 aa protein
+KJY62317.1 GI:797158486
+
+630. hypothetical protein JG30_05170 [Lactobacillus mellifer]
+221 aa protein
+KJY62316.1 GI:797158485
+
+631. Enolase [Lactobacillus mellifer]
+431 aa protein
+KJY62315.1 GI:797158484
+
+632. Triosephosphate isomerase [Lactobacillus mellifer]
+251 aa protein
+KJY62314.1 GI:797158483
+
+633. Phosphoglycerate kinase [Lactobacillus mellifer]
+404 aa protein
+KJY62313.1 GI:797158482
+
+634. Glyceraldehyde 3-phosphate dehydrogenase [Lactobacillus mellifer]
+339 aa protein
+KJY62312.1 GI:797158481
+
+635. Glycolytic regulator [Lactobacillus mellifer]
+346 aa protein
+KJY62311.1 GI:797158480
+
+636. GNAT family acetyltransferase [Lactobacillus mellifer]
+151 aa protein
+KJY62310.1 GI:797158479
+
+637. ATPase, AAA family protein [Lactobacillus mellifer]
+441 aa protein
+KJY62309.1 GI:797158478
+
+638. NADPH-dependent FMN reductase [Lactobacillus mellifer]
+184 aa protein
+KJY62308.1 GI:797158477
+
+639. ATP-dependent Clp protease proteolytic subunit [Lactobacillus mellifer]
+195 aa protein
+KJY62307.1 GI:797158476
+
+640. Peptidase, M20D family [Lactobacillus mellifer]
+389 aa protein
+KJY62306.1 GI:797158475
+
+641. Homocysteine S-methyltransferase [Lactobacillus mellifer]
+311 aa protein
+KJY62305.1 GI:797158474
+
+642. Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase [Lactobacillus mellifer]
+349 aa protein
+KJY62304.1 GI:797158473
+
+643. hypothetical protein JG30_05040 [Lactobacillus mellifer]
+246 aa protein
+KJY62303.1 GI:797158472
+
+644. Alpha-ribazole-5'-phosphate phosphatase CobC [Lactobacillus mellifer]
+196 aa protein
+KJY62302.1 GI:797158471
+
+645. Cobalamin synthase [Lactobacillus mellifer]
+253 aa protein
+KJY62301.1 GI:797158470
+
+646. Adenosylcobinamide-phosphate guanylyltransferase [Lactobacillus mellifer]
+195 aa protein
+KJY62300.1 GI:797158469
+
+647. Porphobilinogen deaminase [Lactobacillus mellifer]
+313 aa protein
+KJY62299.1 GI:797158468
+
+648. putative siroheme synthase CysG [Lactobacillus mellifer]
+148 aa protein
+KJY62298.1 GI:797158467
+
+649. Cobyric acid synthase [Lactobacillus mellifer]
+503 aa protein
+KJY62297.1 GI:797158466
+
+650. Cobalt ABC transporter, ATP-binding protein [Lactobacillus mellifer]
+268 aa protein
+KJY62296.1 GI:797158465
+
+651. Cobalt ABC superfamily ATP binding cassette transporter, membrane protein [Lactobacillus mellifer]
+226 aa protein
+KJY62295.1 GI:797158464
+
+652. Cobalt transport protein CbiN [Lactobacillus mellifer]
+109 aa protein
+KJY62294.1 GI:797158463
+
+653. Cobalt transport protein CbiM [Lactobacillus mellifer]
+247 aa protein
+KJY62293.1 GI:797158462
+
+654. Precorrin-2 C(20)-methyltransferase [Lactobacillus mellifer]
+239 aa protein
+KJY62292.1 GI:797158461
+
+655. Cobalt chelatase CbiK [Lactobacillus mellifer]
+256 aa protein
+KJY62291.1 GI:797158460
+
+656. Uroporphyrinogen-III C-methyltransferase [Lactobacillus mellifer]
+464 aa protein
+KJY62290.1 GI:797158459
+
+657. Precorrin-6X reductase CbiJ [Lactobacillus mellifer]
+250 aa protein
+KJY62289.1 GI:797158458
+
+658. Precorrin-3B C17-methyltransferase CbiH [Lactobacillus mellifer]
+241 aa protein
+KJY62288.1 GI:797158457
+
+659. Cobalamin biosynthesis protein CbiG [Lactobacillus mellifer]
+357 aa protein
+KJY62287.1 GI:797158456
+
+660. Precorrin-4 C(11)-methyltransferase [Lactobacillus mellifer]
+253 aa protein
+KJY62286.1 GI:797158455
+
+661. Precorrin-8W decarboxylase CbiT [Lactobacillus mellifer]
+193 aa protein
+KJY62285.1 GI:797158454
+
+662. Precorrin-6Y C5,15-methyltransferase CbiE [Lactobacillus mellifer]
+200 aa protein
+KJY62284.1 GI:797158453
+
+663. putative cobalt-precorrin-6A synthase [deacetylating] [Lactobacillus mellifer]
+383 aa protein
+KJY62283.1 GI:797158452
+
+664. Precorrin-8X methylmutase [Lactobacillus mellifer]
+230 aa protein
+KJY62282.1 GI:797158451
+
+665. Cobalamin biosynthesis protein CobD [Lactobacillus mellifer]
+321 aa protein
+KJY62281.1 GI:797158450
+
+666. Cobyrinic acid A,C-diamide synthase [Lactobacillus mellifer]
+451 aa protein
+KJY62280.1 GI:797158449
+
+667. L-threonine-O-3-phosphate decarboxylase CobD [Lactobacillus mellifer]
+365 aa protein
+KJY62279.1 GI:797158448
+
+668. putative ATP:cob(I)alamin adenosyltransferase [Lactobacillus mellifer]
+188 aa protein
+KJY62278.1 GI:797158447
+
+669. uncharacterized protein JG30_04780 [Lactobacillus mellifer]
+283 aa protein
+KJY62277.1 GI:797158446
+
+670. Flavodoxin [Lactobacillus mellifer]
+152 aa protein
+KJY62276.1 GI:797158445
+
+671. Ethanolamine utilization protein [Lactobacillus mellifer]
+142 aa protein
+KJY62275.1 GI:797158444
+
+672. Integral membrane protein [Lactobacillus mellifer]
+191 aa protein
+KJY62274.1 GI:797158443
+
+673. Phosphoglycerate mutase [Lactobacillus mellifer]
+203 aa protein
+KJY62273.1 GI:797158442
+
+674. PduU protein [Lactobacillus mellifer]
+114 aa protein
+KJY62272.1 GI:797158441
+
+675. Acetate kinase [Lactobacillus mellifer]
+394 aa protein
+KJY62271.1 GI:797158440
+
+676. Propanol dehydrogenase PduQ [Lactobacillus mellifer]
+373 aa protein
+KJY62270.1 GI:797158439
+
+677. CoA-dependent propionaldehyde dehydrogenase [Lactobacillus mellifer]
+473 aa protein
+KJY62269.1 GI:797158438
+
+678. Propanediol utilization protein PduObis [Lactobacillus mellifer]
+157 aa protein
+KJY62268.1 GI:797158437
+
+679. Propanediol utilization protein PduO [Lactobacillus mellifer]
+191 aa protein
+KJY62267.1 GI:797158436
+
+680. Propanediol utilization protein PduN [Lactobacillus mellifer]
+93 aa protein
+KJY62266.1 GI:797158435
+
+681. Propanediol utilization protein [Lactobacillus mellifer]
+167 aa protein
+KJY62265.1 GI:797158434
+
+682. Phosphate propanoyltransferase [Lactobacillus mellifer]
+215 aa protein
+KJY62264.1 GI:797158433
+
+683. Carbon dioxide concentrating mechanism/carboxysome shell protein [Lactobacillus mellifer]
+96 aa protein
+KJY62263.1 GI:797158432
+
+684. Bacterial microcompartments protein [Lactobacillus mellifer]
+181 aa protein
+KJY62262.1 GI:797158431
+
+685. Propanediol dehydratase reactivation protein PduH [Lactobacillus mellifer]
+118 aa protein
+KJY62261.1 GI:797158430
+
+686. Propanediol utilization ATPase [Lactobacillus mellifer]
+614 aa protein
+KJY62260.1 GI:797158429
+
+687. Glycerol dehydratase small subunit [Lactobacillus mellifer]
+171 aa protein
+KJY62259.1 GI:797158428
+
+688. Glycerol dehydratase medium subunit PduD [Lactobacillus mellifer]
+232 aa protein
+KJY62258.1 GI:797158427
+
+689. Glycerol dehydratase large subunit [Lactobacillus mellifer]
+558 aa protein
+KJY62257.1 GI:797158426
+
+690. PduB protein [Lactobacillus mellifer]
+238 aa protein
+KJY62256.1 GI:797158425
+
+691. Major carboxysome shell protein 1A [Lactobacillus mellifer]
+92 aa protein
+KJY62255.1 GI:797158424
+
+692. Transcriptional regulator [Lactobacillus mellifer]
+365 aa protein
+KJY62254.1 GI:797158423
+
+693. putative sporulation transcription regulator WhiA [Lactobacillus mellifer]
+317 aa protein
+KJY62253.1 GI:797158422
+
+694. putative extracellular lipase/esterase [Lactobacillus mellifer]
+345 aa protein
+KJY62252.1 GI:797158421
+
+695. glmZ(sRNA)-inactivating NTPase [Lactobacillus mellifer]
+298 aa protein
+KJY62251.1 GI:797158420
+
+696. Uncharacterized protein JG30_04500 [Lactobacillus mellifer]
+175 aa protein
+KJY62250.1 GI:797158419
+
+697. hypothetical protein JG30_07360, partial [Lactobacillus mellifer]
+397 aa protein
+KJY62089.1 GI:797158253
+
+698. hypothetical protein JG30_07350 [Lactobacillus mellifer]
+856 aa protein
+KJY62088.1 GI:797158252
+
+699. hypothetical protein JG30_07345, partial [Lactobacillus mellifer]
+486 aa protein
+KJY62087.1 GI:797158251
+
+700. hypothetical protein JG30_10840 [Lactobacillus mellifer]
+562 aa protein
+KJY62025.1 GI:797158182
+
+701. hypothetical protein JG30_10830 [Lactobacillus mellifer]
+559 aa protein
+KJY62024.1 GI:797158181
+
+702. hypothetical protein JG30_10820 [Lactobacillus mellifer]
+452 aa protein
+KJY62023.1 GI:797158180
+
+703. hypothetical protein JG30_10810 [Lactobacillus mellifer]
+565 aa protein
+KJY62022.1 GI:797158179
+
+704. Preprotein translocase, SecG subunit [Lactobacillus mellifer]
+84 aa protein
+KJY62021.1 GI:797158178
+
+705. Carboxylesterase [Lactobacillus mellifer]
+253 aa protein
+KJY62020.1 GI:797158177
+
+706. Ribonuclease R [Lactobacillus mellifer]
+764 aa protein
+KJY62019.1 GI:797158176
+
+707. SsrA-binding protein [Lactobacillus mellifer]
+157 aa protein
+KJY62018.1 GI:797158175
+
+708. hypothetical protein JG30_10760 [Lactobacillus mellifer]
+187 aa protein
+KJY62017.1 GI:797158174
+
+709. hypothetical protein JG30_10750 [Lactobacillus mellifer]
+178 aa protein
+KJY62016.1 GI:797158173
+
+710. HAD superfamily hydrolase [Lactobacillus mellifer]
+292 aa protein
+KJY62015.1 GI:797158172
+
+711. Uracil-DNA glycosylase (UDG) [Lactobacillus mellifer]
+228 aa protein
+KJY62014.1 GI:797158171
+
+712. Phosphate acetyltransferase (Phosphotransacetylase) [Lactobacillus mellifer]
+322 aa protein
+KJY62013.1 GI:797158170
+
+713. ATP/GTP hydrolase [Lactobacillus mellifer]
+144 aa protein
+KJY62012.1 GI:797158169
+
+714. DNA polymerase III, epsilon subunit related 3'-5' exonuclease [Lactobacillus mellifer]
+178 aa protein
+KJY62011.1 GI:797158168
+
+715. UDP-N-acetylenolpyruvoylglucosamine reductase [Lactobacillus mellifer]
+298 aa protein
+KJY62010.1 GI:797158167
+
+716. Conserved membrane protein [Lactobacillus mellifer]
+281 aa protein
+KJY62009.1 GI:797158166
+
+717. YbbR family protein [Lactobacillus mellifer]
+328 aa protein
+KJY62008.1 GI:797158165
+
+718. Phosphoglucosamine mutase [Lactobacillus mellifer]
+450 aa protein
+KJY62007.1 GI:797158164
+
+719. putative peptidase [Lactobacillus mellifer]
+279 aa protein
+KJY62006.1 GI:797158163
+
+720. Glutamine--fructose-6-phosphate aminotransferase [isomerizing] [Lactobacillus mellifer]
+603 aa protein
+KJY62005.1 GI:797158162
+
+721. Integral membrane protein [Lactobacillus mellifer]
+173 aa protein
+KJY62004.1 GI:797158161
+
+722. putative transcriptional regulator [Lactobacillus mellifer]
+243 aa protein
+KJY62003.1 GI:797158160
+
+723. putative ComG operon protein 1 [Lactobacillus mellifer]
+322 aa protein
+KJY62002.1 GI:797158159
+
+724. hypothetical protein JG30_10600 [Lactobacillus mellifer]
+333 aa protein
+KJY62001.1 GI:797158158
+
+725. uncharacterized protein JG30_10590 [Lactobacillus mellifer]
+100 aa protein
+KJY62000.1 GI:797158157
+
+726. hypothetical protein JG30_10580 [Lactobacillus mellifer]
+153 aa protein
+KJY61999.1 GI:797158156
+
+727. hypothetical protein JG30_10570 [Lactobacillus mellifer]
+102 aa protein
+KJY61998.1 GI:797158155
+
+728. hypothetical protein JG30_10560 [Lactobacillus mellifer]
+133 aa protein
+KJY61997.1 GI:797158154
+
+729. N-6 DNA Methylase [Lactobacillus mellifer]
+343 aa protein
+KJY61996.1 GI:797158153
+
+730. Acetate kinase [Lactobacillus mellifer]
+396 aa protein
+KJY61995.1 GI:797158152
+
+731. Cation diffusion facilitator family transporter [Lactobacillus mellifer]
+291 aa protein
+KJY61994.1 GI:797158151
+
+732. Xaa-Pro dipeptidase [Lactobacillus mellifer]
+350 aa protein
+KJY61993.1 GI:797158150
+
+733. hypothetical protein JG30_10510 [Lactobacillus mellifer]
+246 aa protein
+KJY61992.1 GI:797158149
+
+734. D-lactate dehydrogenase [Lactobacillus mellifer]
+334 aa protein
+KJY61991.1 GI:797158148
+
+735. Malate permease [Lactobacillus mellifer]
+352 aa protein
+KJY61990.1 GI:797158147
+
+736. Uncharacterized protein JG30_10480 [Lactobacillus mellifer]
+208 aa protein
+KJY61989.1 GI:797158146
+
+737. Nucleotide deoxyribosyltransferase [Lactobacillus mellifer]
+157 aa protein
+KJY61988.1 GI:797158145
+
+738. HAD family hydrolase [Lactobacillus mellifer]
+273 aa protein
+KJY61987.1 GI:797158144
+
+739. Transcriptional regulatory protein srrA [Lactobacillus mellifer]
+240 aa protein
+KJY61986.1 GI:797158143
+
+740. Two-component system, sensor histidine kinase [Lactobacillus mellifer]
+496 aa protein
+KJY61985.1 GI:797158142
+
+741. Sulfatase family protein [Lactobacillus mellifer]
+711 aa protein
+KJY61984.1 GI:797158141
+
+742. Glycopeptide antibiotics resistance protein [Lactobacillus mellifer]
+205 aa protein
+KJY61983.1 GI:797158140
+
+743. Glucose-6-phosphate isomerase [Lactobacillus mellifer]
+446 aa protein
+KJY61982.1 GI:797158139
+
+744. Glycosyltransferase [Lactobacillus mellifer]
+310 aa protein
+KJY61981.1 GI:797158138
+
+745. Amino acid permease [Lactobacillus mellifer]
+479 aa protein
+KJY61980.1 GI:797158137
+
+746. Aminotransferase class-III [Lactobacillus mellifer]
+445 aa protein
+KJY61979.1 GI:797158136
+
+747. Diaminopimelate epimerase [Lactobacillus mellifer]
+331 aa protein
+KJY61978.1 GI:797158135
+
+748. Aspartokinase [Lactobacillus mellifer]
+455 aa protein
+KJY61977.1 GI:797158134
+
+749. Diaminopimelate decarboxylase [Lactobacillus mellifer]
+437 aa protein
+KJY61976.1 GI:797158133
+
+750. 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase [Lactobacillus mellifer]
+236 aa protein
+KJY61975.1 GI:797158132
+
+751. N-acetyldiaminopimelate deacetylase [Lactobacillus mellifer]
+381 aa protein
+KJY61974.1 GI:797158131
+
+752. 4-hydroxy-tetrahydrodipicolinate synthase [Lactobacillus mellifer]
+306 aa protein
+KJY61973.1 GI:797158130
+
+753. 4-hydroxy-tetrahydrodipicolinate reductase [Lactobacillus mellifer]
+258 aa protein
+KJY61972.1 GI:797158129
+
+754. putative aspartate transaminase [Lactobacillus mellifer]
+398 aa protein
+KJY61971.1 GI:797158128
+
+755. Aspartate-semialdehyde dehydrogenase [Lactobacillus mellifer]
+354 aa protein
+KJY61970.1 GI:797158127
+
+756. Xaa-Pro dipeptidyl-peptidase [Lactobacillus mellifer]
+809 aa protein
+KJY61969.1 GI:797158126
+
+757. Membrane protein [Lactobacillus mellifer]
+349 aa protein
+KJY61968.1 GI:797158125
+
+758. Sensory protein [Lactobacillus mellifer]
+153 aa protein
+KJY61967.1 GI:797158124
+
+759. hypothetical protein JG30_10240 [Lactobacillus mellifer]
+831 aa protein
+KJY61966.1 GI:797158123
+
+760. PTS Man IIA [Lactobacillus mellifer]
+142 aa protein
+KJY61965.1 GI:797158122
+
+761. PTS Man IIB [Lactobacillus mellifer]
+165 aa protein
+KJY61964.1 GI:797158121
+
+762. PTS Man IIC [Lactobacillus mellifer]
+268 aa protein
+KJY61963.1 GI:797158120
+
+763. PTS Man IID [Lactobacillus mellifer]
+275 aa protein
+KJY61962.1 GI:797158119
+
+764. PTS IIA domain transcriptional regulator [Lactobacillus mellifer]
+839 aa protein
+KJY61961.1 GI:797158118
+
+765. Serine hydroxymethyltransferase [Lactobacillus mellifer]
+410 aa protein
+KJY61960.1 GI:797158117
+
+766. CAAX amino terminal protease family protein [Lactobacillus mellifer]
+224 aa protein
+KJY61959.1 GI:797158116
+
+767. putative multidrug ABC exporter, ATP-binding and membrane-spanning/permease subunit [Lactobacillus mellifer]
+574 aa protein
+KJY61958.1 GI:797158115
+
+768. ABC transporter [Lactobacillus mellifer]
+615 aa protein
+KJY61957.1 GI:797158114
+
+769. uncharacterized protein JG30_10140 [Lactobacillus mellifer]
+332 aa protein
+KJY61956.1 GI:797158113
+
+770. hypothetical protein JG30_10130 [Lactobacillus mellifer]
+842 aa protein
+KJY61955.1 GI:797158112
+
+771. Glycerol-3-phosphate dehydrogenase [NAD(P)+] [Lactobacillus mellifer]
+338 aa protein
+KJY61954.1 GI:797158111
+
+772. UDP-N-acetylmuramyl tripeptide synthase [Lactobacillus mellifer]
+452 aa protein
+KJY61953.1 GI:797158110
+
+773. Thymidine kinase [Lactobacillus mellifer]
+192 aa protein
+KJY61952.1 GI:797158109
+
+774. Peptide chain release factor 1 [Lactobacillus mellifer]
+365 aa protein
+KJY61951.1 GI:797158108
+
+775. Release factor glutamine methyltransferase [Lactobacillus mellifer]
+282 aa protein
+KJY61950.1 GI:797158107
+
+776. Translation factor SUA5 [Lactobacillus mellifer]
+336 aa protein
+KJY61949.1 GI:797158106
+
+777. Uracil phosphoribosyltransferase [Lactobacillus mellifer]
+209 aa protein
+KJY61948.1 GI:797158105
+
+778. ATP synthase subunit a [Lactobacillus mellifer]
+236 aa protein
+KJY61947.1 GI:797158104
+
+779. ATP synthase subunit c [Lactobacillus mellifer]
+69 aa protein
+KJY61946.1 GI:797158103
+
+780. ATP synthase subunit b [Lactobacillus mellifer]
+173 aa protein
+KJY61945.1 GI:797158102
+
+781. ATP synthase subunit delta [Lactobacillus mellifer]
+181 aa protein
+KJY61944.1 GI:797158101
+
+782. ATP synthase subunit alpha [Lactobacillus mellifer]
+510 aa protein
+KJY61943.1 GI:797158100
+
+783. ATP synthase gamma chain [Lactobacillus mellifer]
+308 aa protein
+KJY61942.1 GI:797158099
+
+784. ATP synthase subunit beta [Lactobacillus mellifer]
+483 aa protein
+KJY61941.1 GI:797158098
+
+785. ATP synthase epsilon chain [Lactobacillus mellifer]
+142 aa protein
+KJY61940.1 GI:797158097
+
+786. hypothetical protein JG30_09970 [Lactobacillus mellifer]
+76 aa protein
+KJY61939.1 GI:797158096
+
+787. Rod shape-determining protein MreB [Lactobacillus mellifer]
+329 aa protein
+KJY61938.1 GI:797158095
+
+788. putative membrane protein insertion efficiency factor [Lactobacillus mellifer]
+97 aa protein
+KJY61937.1 GI:797158094
+
+789. Cell division membrane protein [Lactobacillus mellifer]
+400 aa protein
+KJY61936.1 GI:797158093
+
+790. Universal stress family protein [Lactobacillus mellifer]
+159 aa protein
+KJY61935.1 GI:797158092
+
+791. Crossover junction endodeoxyribonuclease [Lactobacillus mellifer]
+427 aa protein
+KJY61934.1 GI:797158091
+
+792. 30S ribosomal protein S4 [Lactobacillus mellifer]
+203 aa protein
+KJY61933.1 GI:797158090
+
+793. hypothetical protein JG30_09870 [Lactobacillus mellifer]
+569 aa protein
+KJY61932.1 GI:797158089
+
+794. putative cysteine desulfurase (Aminotransferase class V) [Lactobacillus mellifer]
+381 aa protein
+KJY61931.1 GI:797158088
+
+795. putative tRNA sulfurtransferase [Lactobacillus mellifer]
+405 aa protein
+KJY61930.1 GI:797158087
+
+796. Valine--tRNA ligase [Lactobacillus mellifer]
+881 aa protein
+KJY61929.1 GI:797158086
+
+797. Folylpolyglutamate synthase [Lactobacillus mellifer]
+424 aa protein
+KJY61928.1 GI:797158085
+
+798. hypothetical protein JG30_09820 [Lactobacillus mellifer]
+215 aa protein
+KJY61927.1 GI:797158084
+
+799. Rod shape-determining protein MreB [Lactobacillus mellifer]
+333 aa protein
+KJY61926.1 GI:797158083
+
+800. Cell shape-determining protein MreC [Lactobacillus mellifer]
+286 aa protein
+KJY61925.1 GI:797158082
+
+801. hypothetical protein JG30_09790 [Lactobacillus mellifer]
+181 aa protein
+KJY61924.1 GI:797158081
+
+802. hypothetical protein JG30_09780 [Lactobacillus mellifer]
+223 aa protein
+KJY61923.1 GI:797158080
+
+803. Site-determining protein [Lactobacillus mellifer]
+275 aa protein
+KJY61922.1 GI:797158079
+
+804. Amino acid ABC superfamily ATP binding cassette transporter, membrane protein [Lactobacillus mellifer]
+213 aa protein
+KJY61921.1 GI:797158078
+
+805. amino acid ABC transporter, ATP-binding protein [Lactobacillus mellifer]
+215 aa protein
+KJY61920.1 GI:797158077
+
+806. Extracellular solute-binding protein [Lactobacillus mellifer]
+263 aa protein
+KJY61919.1 GI:797158076
+
+807. Protein MraZ [Lactobacillus mellifer]
+146 aa protein
+KJY61918.1 GI:797158075
+
+808. Ribosomal RNA small subunit methyltransferase H [Lactobacillus mellifer]
+313 aa protein
+KJY61917.1 GI:797158074
+
+809. hypothetical protein JG30_09700 [Lactobacillus mellifer]
+125 aa protein
+KJY61916.1 GI:797158073
+
+810. Penicillin binding protein 2B [Lactobacillus mellifer]
+719 aa protein
+KJY61915.1 GI:797158072
+
+811. Phospho-N-acetylmuramoyl-pentapeptide-transferase [Lactobacillus mellifer]
+321 aa protein
+KJY61914.1 GI:797158071
+
+812. UDP-N-acetylmuramoylalanine--D-glutamate ligase [Lactobacillus mellifer]
+453 aa protein
+KJY61913.1 GI:797158070
+
+813. UDP-diphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase [Lactobacillus mellifer]
+366 aa protein
+KJY61912.1 GI:797158069
+
+814. hypothetical protein JG30_09650 [Lactobacillus mellifer]
+264 aa protein
+KJY61911.1 GI:797158068
+
+815. Cell division protein ftsA [Lactobacillus mellifer]
+439 aa protein
+KJY61910.1 GI:797158067
+
+816. Cell division protein FtsZ [Lactobacillus mellifer]
+406 aa protein
+KJY61909.1 GI:797158066
+
+817. Cell division protein sepF [Lactobacillus mellifer]
+133 aa protein
+KJY61908.1 GI:797158065
+
+818. YGGT family protein [Lactobacillus mellifer]
+87 aa protein
+KJY61907.1 GI:797158064
+
+819. hypothetical protein JG30_09600 [Lactobacillus mellifer]
+252 aa protein
+KJY61906.1 GI:797158063
+
+820. hypothetical protein JG30_09590 [Lactobacillus mellifer]
+246 aa protein
+KJY61905.1 GI:797158062
+
+821. Isoleucine--tRNA ligase [Lactobacillus mellifer]
+925 aa protein
+KJY61904.1 GI:797158061
+
+822. putative cold-shock DNA-binding domain protein [Lactobacillus mellifer]
+70 aa protein
+KJY61903.1 GI:797158060
+
+823. Sigma-54-dependent transcriptional activator [Lactobacillus mellifer]
+594 aa protein
+KJY61902.1 GI:797158059
+
+824. Dihydrolipoyl dehydrogenase [Lactobacillus mellifer]
+446 aa protein
+KJY61901.1 GI:797158058
+
+825. Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha [Lactobacillus mellifer]
+322 aa protein
+KJY61900.1 GI:797158057
+
+826. Pyruvate dehydrogenase E1 component beta subunit [Lactobacillus mellifer]
+343 aa protein
+KJY61899.1 GI:797158056
+
+827. Branched-chain alpha-keto acid dehydrogenase subunit E2 [Lactobacillus mellifer]
+402 aa protein
+KJY61898.1 GI:797158055
+
+828. putative membrane protein yetF [Lactobacillus mellifer]
+212 aa protein
+KJY61897.1 GI:797158054
+
+829. hypothetical protein JG30_09500 [Lactobacillus mellifer]
+149 aa protein
+KJY61896.1 GI:797158053
+
+830. ADP-ribose pyrophosphatase [Lactobacillus mellifer]
+184 aa protein
+KJY61895.1 GI:797158052
+
+831. 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase [Lactobacillus mellifer]
+230 aa protein
+KJY61894.1 GI:797158051
+
+832. putative cysteine desulfurase [Lactobacillus mellifer]
+384 aa protein
+KJY61893.1 GI:797158050
+
+833. uncharacterized protein JG30_09450 [Lactobacillus mellifer]
+113 aa protein
+KJY61892.1 GI:797158049
+
+834. tRNA-specific 2-thiouridylase MnmA [Lactobacillus mellifer]
+371 aa protein
+KJY61891.1 GI:797158048
+
+835. Phosphoglycerate mutase family protein [Lactobacillus mellifer]
+220 aa protein
+KJY61890.1 GI:797158047
+
+836. hypothetical protein JG30_09420 [Lactobacillus mellifer]
+225 aa protein
+KJY61889.1 GI:797158046
+
+837. ATP-dependent DNA helicase, RecD/TraA family [Lactobacillus mellifer]
+803 aa protein
+KJY61888.1 GI:797158045
+
+838. hypothetical protein JG30_09400 [Lactobacillus mellifer]
+322 aa protein
+KJY61887.1 GI:797158044
+
+839. putative hydrolase, metallo-beta-lactamase superfamily [Lactobacillus mellifer]
+562 aa protein
+KJY61886.1 GI:797158043
+
+840. uncharacterized protein JG30_09380 [Lactobacillus mellifer]
+73 aa protein
+KJY61885.1 GI:797158042
+
+841. Peptide deformylase [Lactobacillus mellifer]
+187 aa protein
+KJY61884.1 GI:797158041
+
+842. Pyruvate dehydrogenase complex E1 component [Lactobacillus mellifer]
+372 aa protein
+KJY61883.1 GI:797158040
+
+843. Pyruvate dehydrogenase E1 component subunit beta [Lactobacillus mellifer]
+325 aa protein
+KJY61882.1 GI:797158039
+
+844. Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex [Lactobacillus mellifer]
+419 aa protein
+KJY61881.1 GI:797158038
+
+845. Dihydrolipoyl dehydrogenase [Lactobacillus mellifer]
+473 aa protein
+KJY61880.1 GI:797158037
+
+846. Inositol monophosphatase family protein [Lactobacillus mellifer]
+258 aa protein
+KJY61879.1 GI:797158036
+
+847. GTP-binding protein TypA/BipA [Lactobacillus mellifer]
+610 aa protein
+KJY61878.1 GI:797158035
+
+848. Cell cycle family protein [Lactobacillus mellifer]
+391 aa protein
+KJY61877.1 GI:797158034
+
+849. uncharacterized protein JG30_09290 [Lactobacillus mellifer]
+93 aa protein
+KJY61876.1 GI:797158033
+
+850. Ribosomal RNA small subunit methyltransferase D [Lactobacillus mellifer]
+185 aa protein
+KJY61875.1 GI:797158032
+
+851. Phosphopantetheine adenylyltransferase [Lactobacillus mellifer]
+166 aa protein
+KJY61874.1 GI:797158031
+
+852. Lipoprotein [Lactobacillus mellifer]
+344 aa protein
+KJY61873.1 GI:797158030
+
+853. hypothetical protein JG30_09250 [Lactobacillus mellifer]
+198 aa protein
+KJY61872.1 GI:797158029
+
+854. hypothetical protein JG30_09240 [Lactobacillus mellifer]
+742 aa protein
+KJY61871.1 GI:797158028
+
+855. DNA polymerase III, delta subunit [Lactobacillus mellifer]
+341 aa protein
+KJY61870.1 GI:797158027
+
+856. 30S ribosomal protein S20 [Lactobacillus mellifer]
+84 aa protein
+KJY61869.1 GI:797158026
+
+857. 30S ribosomal protein S15 [Lactobacillus mellifer]
+89 aa protein
+KJY61868.1 GI:797158025
+
+858. RNA-metabolising metallo-beta-lactamase family protein [Lactobacillus mellifer]
+562 aa protein
+KJY61867.1 GI:797158024
+
+859. hypothetical protein JG30_09190 [Lactobacillus mellifer]
+308 aa protein
+KJY61866.1 GI:797158023
+
+860. Elongation factor Tu [Lactobacillus mellifer]
+396 aa protein
+KJY61865.1 GI:797158022
+
+861. Trigger factor [Lactobacillus mellifer]
+429 aa protein
+KJY61864.1 GI:797158021
+
+862. putative L-2-hydroxyisocaproate dehydrogenase [Lactobacillus mellifer]
+306 aa protein
+KJY61863.1 GI:797158020
+
+863. ATP-dependent Clp protease ATP-binding subunit ClpX [Lactobacillus mellifer]
+422 aa protein
+KJY61862.1 GI:797158019
+
+864. putative GTP-binding protein EngB [Lactobacillus mellifer]
+196 aa protein
+KJY61861.1 GI:797158018
+
+865. UvrABC system protein C [Lactobacillus mellifer]
+603 aa protein
+KJY61860.1 GI:797158017
+
+866. Fructose-6-phosphate aldolase [Lactobacillus mellifer]
+224 aa protein
+KJY61859.1 GI:797158016
+
+867. uncharacterized protein JG30_09100 [Lactobacillus mellifer]
+385 aa protein
+KJY61858.1 GI:797158015
+
+868. Copper resistance protein [Lactobacillus mellifer]
+205 aa protein
+KJY61857.1 GI:797158014
+
+869. PTS Fru IIABC [Lactobacillus mellifer]
+648 aa protein
+KJY61856.1 GI:797158013
+
+870. 1-phosphofructokinase [Lactobacillus mellifer]
+305 aa protein
+KJY61855.1 GI:797158012
+
+871. Fructose repressor, GntR family protein [Lactobacillus mellifer]
+252 aa protein
+KJY61854.1 GI:797158011
+
+872. GTPase obg [Lactobacillus mellifer]
+429 aa protein
+KJY61853.1 GI:797158010
+
+873. Acyltransferase [Lactobacillus mellifer]
+636 aa protein
+KJY61852.1 GI:797158009
+
+874. Ribonuclease Z [Lactobacillus mellifer]
+311 aa protein
+KJY61851.1 GI:797158008
+
+875. putative oxidoreductase, short-chain dehydrogenase/reductase family [Lactobacillus mellifer]
+268 aa protein
+KJY61850.1 GI:797158007
+
+876. 50S ribosomal protein L32 [Lactobacillus mellifer]
+61 aa protein
+KJY61849.1 GI:797158006
+
+877. hypothetical protein JG30_09000 [Lactobacillus mellifer]
+240 aa protein
+KJY61848.1 GI:797158005
+
+878. hypothetical protein JG30_08990 [Lactobacillus mellifer]
+60 aa protein
+KJY61847.1 GI:797158004
+
+879. DNA polymerase III, alpha subunit [Lactobacillus mellifer]
+1027 aa protein
+KJY61846.1 GI:797158003
+
+880. 6-phosphofructokinase [Lactobacillus mellifer]
+319 aa protein
+KJY61845.1 GI:797158002
+
+881. Pyruvate kinase [Lactobacillus mellifer]
+589 aa protein
+KJY61844.1 GI:797158001
+
+882. membrane protein [Lactobacillus mellifer]
+153 aa protein
+KJY61843.1 GI:797158000
+
+883. Translation initiation factor IF-3 [Lactobacillus mellifer]
+286 aa protein
+KJY61842.1 GI:797157999
+
+884. Tyrosine recombinase XerD [Lactobacillus mellifer]
+301 aa protein
+KJY61841.1 GI:797157998
+
+885. RibT protein [Lactobacillus mellifer]
+123 aa protein
+KJY61840.1 GI:797157997
+
+886. Segregation and condensation protein A [Lactobacillus mellifer]
+245 aa protein
+KJY61839.1 GI:797157996
+
+887. Segregation and condensation protein B [Lactobacillus mellifer]
+193 aa protein
+KJY61838.1 GI:797157995
+
+888. Pseudouridine synthase [Lactobacillus mellifer]
+239 aa protein
+KJY61837.1 GI:797157994
+
+889. Uncharacterized protein JG30_08880 [Lactobacillus mellifer]
+179 aa protein
+KJY61836.1 GI:797157993
+
+890. hypothetical protein JG30_08870 [Lactobacillus mellifer]
+248 aa protein
+KJY61835.1 GI:797157992
+
+891. Cytidylate kinase [Lactobacillus mellifer]
+221 aa protein
+KJY61834.1 GI:797157991
+
+892. 30S ribosomal protein S1 [Lactobacillus mellifer]
+400 aa protein
+KJY61833.1 GI:797157990
+
+893. GTPase Der [Lactobacillus mellifer]
+438 aa protein
+KJY61832.1 GI:797157989
+
+894. DNA-binding protein HU [Lactobacillus mellifer]
+91 aa protein
+KJY61831.1 GI:797157988
+
+895. hypothetical protein JG30_08820 [Lactobacillus mellifer]
+423 aa protein
+KJY61830.1 GI:797157987
+
+896. CCA-adding enzyme [Lactobacillus mellifer]
+399 aa protein
+KJY61829.1 GI:797157986
+
+897. ABC transporter ATP-binding component [Lactobacillus mellifer]
+628 aa protein
+KJY61828.1 GI:797157985
+
+898. Thymidylate synthase [Lactobacillus mellifer]
+319 aa protein
+KJY61827.1 GI:797157984
+
+899. Dihydrofolate reductase [Lactobacillus mellifer]
+161 aa protein
+KJY61826.1 GI:797157983
+
+900. DegV family protein [Lactobacillus mellifer]
+280 aa protein
+KJY61825.1 GI:797157982
+
+901. hypothetical protein JG30_08760 [Lactobacillus mellifer]
+265 aa protein
+KJY61824.1 GI:797157981
+
+902. hypothetical protein JG30_08750 [Lactobacillus mellifer]
+205 aa protein
+KJY61823.1 GI:797157980
+
+903. uncharacterized protein JG30_08740 [Lactobacillus mellifer]
+76 aa protein
+KJY61822.1 GI:797157979
+
+904. Carboxy-terminal processing proteinase [Lactobacillus mellifer]
+468 aa protein
+KJY61821.1 GI:797157978
+
+905. TetR family transcriptional regulator [Lactobacillus mellifer]
+186 aa protein
+KJY61820.1 GI:797157977
+
+906. putative phage protein [Lactobacillus mellifer]
+249 aa protein
+KJY61819.1 GI:797157976
+
+907. Ribosome biogenesis GTPase A [Lactobacillus mellifer]
+282 aa protein
+KJY61818.1 GI:797157975
+
+908. Ribonuclease HII [Lactobacillus mellifer]
+257 aa protein
+KJY61817.1 GI:797157974
+
+909. DNA processing protein [Lactobacillus mellifer]
+282 aa protein
+KJY61816.1 GI:797157973
+
+910. DNA topoisomerase I [Lactobacillus mellifer]
+703 aa protein
+KJY61815.1 GI:797157972
+
+911. Tyrosine recombinase XerC [Lactobacillus mellifer]
+301 aa protein
+KJY61814.1 GI:797157971
+
+912. ATP-dependent protease HslVU (ClpYQ), peptidase subunit [Lactobacillus mellifer]
+178 aa protein
+KJY61813.1 GI:797157970
+
+913. ATP-dependent protease ATPase subunit HslU [Lactobacillus mellifer]
+465 aa protein
+KJY61812.1 GI:797157969
+
+914. hypothetical protein JG30_08630 [Lactobacillus mellifer]
+287 aa protein
+KJY61811.1 GI:797157968
+
+915. Lipoprotein [Lactobacillus mellifer]
+276 aa protein
+KJY61810.1 GI:797157967
+
+916. ABC transporter, ATP-binding protein [Lactobacillus mellifer]
+355 aa protein
+KJY61809.1 GI:797157966
+
+917. putative D-methionine transport system permease protein metI [Lactobacillus mellifer]
+229 aa protein
+KJY61808.1 GI:797157965
+
+918. Glycerol-3-phosphate acyltransferase [Lactobacillus mellifer]
+211 aa protein
+KJY61807.1 GI:797157964
+
+919. DNA topoisomerase IV, B subunit [Lactobacillus mellifer]
+664 aa protein
+KJY61806.1 GI:797157963
+
+920. Topoisomerase IV, subunit A [Lactobacillus mellifer]
+825 aa protein
+KJY61805.1 GI:797157962
+
+921. Transcription regulator [Lactobacillus mellifer]
+320 aa protein
+KJY61804.1 GI:797157961
+
+922. putative manganese-dependent inorganic pyrophosphatase [Lactobacillus mellifer]
+309 aa protein
+KJY61803.1 GI:797157960
+
+923. Peptidase M20 family protein [Lactobacillus mellifer]
+406 aa protein
+KJY61802.1 GI:797157959
+
+924. Site-specific tyrosine recombinase XerS [Lactobacillus mellifer]
+366 aa protein
+KJY61801.1 GI:797157958
+
+925. IMP dehydrogenase [Lactobacillus mellifer]
+377 aa protein
+KJY61800.1 GI:797157957
+
+926. putative drug resistance efflux protein [Lactobacillus mellifer]
+470 aa protein
+KJY61799.1 GI:797157956
+
+927. Glycerol kinase [Lactobacillus mellifer]
+497 aa protein
+KJY61798.1 GI:797157955
+
+928. Transcriptional regulatory protein desR [Lactobacillus mellifer]
+201 aa protein
+KJY61797.1 GI:797157954
+
+929. Histidine kinase [Lactobacillus mellifer]
+376 aa protein
+KJY61796.1 GI:797157953
+
+930. ABC-2 type transporter [Lactobacillus mellifer]
+240 aa protein
+KJY61795.1 GI:797157952
+
+931. ABC transporter, ATP-binding protein [Lactobacillus mellifer]
+292 aa protein
+KJY61794.1 GI:797157951
+
+932. Uncharacterized protein JG30_08450 [Lactobacillus mellifer]
+288 aa protein
+KJY61793.1 GI:797157950
+
+933. Fibronectin-binding protein A [Lactobacillus mellifer]
+571 aa protein
+KJY61792.1 GI:797157949
+
+934. putative oxidoreductase yghA [Lactobacillus mellifer]
+295 aa protein
+KJY61791.1 GI:797157948
+
+935. Integral membrane protein [Lactobacillus mellifer]
+123 aa protein
+KJY61790.1 GI:797157947
+
+936. Uncharacterized protein JG30_08410 [Lactobacillus mellifer]
+114 aa protein
+KJY61789.1 GI:797157946
+
+937. Endopeptidase PepO [Lactobacillus mellifer]
+649 aa protein
+KJY61788.1 GI:797157945
+
+938. Uncharacterized protein JG30_08390 [Lactobacillus mellifer]
+99 aa protein
+KJY61787.1 GI:797157944
+
+939. hypothetical protein JG30_08380 [Lactobacillus mellifer]
+120 aa protein
+KJY61786.1 GI:797157943
+
+940. hypothetical protein JG30_08370 [Lactobacillus mellifer]
+794 aa protein
+KJY61785.1 GI:797157942
+
+941. Carbamoyl-phosphate synthase small chain [Lactobacillus mellifer]
+359 aa protein
+KJY61784.1 GI:797157941
+
+942. Bifunctional protein PyrR [Lactobacillus mellifer]
+178 aa protein
+KJY61783.1 GI:797157940
+
+943. Pseudouridine synthase [Lactobacillus mellifer]
+284 aa protein
+KJY61782.1 GI:797157939
+
+944. Lipoprotein signal peptidase [Lactobacillus mellifer]
+158 aa protein
+KJY61781.1 GI:797157938
+
+945. Formate--tetrahydrofolate ligase [Lactobacillus mellifer]
+557 aa protein
+KJY61780.1 GI:797157937
+
+946. hypothetical protein JG30_08310 [Lactobacillus mellifer]
+308 aa protein
+KJY61779.1 GI:797157936
+
+947. putative N6-adenine-specific DNA methylase [Lactobacillus mellifer]
+376 aa protein
+KJY61778.1 GI:797157935
+
+948. Cell cycle protein GpsB [Lactobacillus mellifer]
+142 aa protein
+KJY61777.1 GI:797157934
+
+949. uncharacterized protein JG30_08280 [Lactobacillus mellifer]
+184 aa protein
+KJY61776.1 GI:797157933
+
+950. Holliday junction resolvase RecU [Lactobacillus mellifer]
+204 aa protein
+KJY61775.1 GI:797157932
+
+951. Bifunctional glycosyltransferase/transpeptidase penicillin-binding protein 1A [Lactobacillus mellifer]
+778 aa protein
+KJY61774.1 GI:797157931
+
+952. Membrane alanine aminopeptidase [Lactobacillus mellifer]
+845 aa protein
+KJY61773.1 GI:797157930
+
+953. Endonuclease III [Lactobacillus mellifer]
+217 aa protein
+KJY61772.1 GI:797157929
+
+954. DNA replication protein DnaD [Lactobacillus mellifer]
+203 aa protein
+KJY61771.1 GI:797157928
+
+955. Asparagine--tRNA ligase [Lactobacillus mellifer]
+431 aa protein
+KJY61770.1 GI:797157927
+
+956. hypothetical protein JG30_08210 [Lactobacillus mellifer]
+160 aa protein
+KJY61769.1 GI:797157926
+
+957. hypothetical protein JG30_08200 [Lactobacillus mellifer]
+924 aa protein
+KJY61768.1 GI:797157925
+
+958. ATP-dependent helicase/nuclease subunit A [Lactobacillus mellifer]
+1223 aa protein
+KJY61767.1 GI:797157924
+
+959. hypothetical protein JG30_08180 [Lactobacillus mellifer]
+1158 aa protein
+KJY61766.1 GI:797157923
+
+960. Mevalonate kinase [Lactobacillus mellifer]
+309 aa protein
+KJY61765.1 GI:797157922
+
+961. Diphosphomevalonate decarboxylase [Lactobacillus mellifer]
+323 aa protein
+KJY61764.1 GI:797157921
+
+962. Phosphomevalonate kinase [Lactobacillus mellifer]
+359 aa protein
+KJY61763.1 GI:797157920
+
+963. Isopentenyl-diphosphate delta-isomerase [Lactobacillus mellifer]
+345 aa protein
+KJY61762.1 GI:797157919
+
+964. Excinuclease ABC, ATP binding subunit [Lactobacillus mellifer]
+842 aa protein
+KJY61761.1 GI:797157918
+
+965. tRNA/rRNA methyltransferase [Lactobacillus mellifer]
+448 aa protein
+KJY61760.1 GI:797157917
+
+966. hypothetical protein JG30_08110 [Lactobacillus mellifer]
+327 aa protein
+KJY61759.1 GI:797157916
+
+967. SAM-dependent methyltransferase [Lactobacillus mellifer]
+240 aa protein
+KJY61758.1 GI:797157915
+
+968. signal peptidase I [Lactobacillus mellifer]
+220 aa protein
+KJY61757.1 GI:797157914
+
+969. Uncharacterized protein JG30_08080 [Lactobacillus mellifer]
+64 aa protein
+KJY61756.1 GI:797157913
+
+970. 4-oxalocrotonate tautomerase [Lactobacillus mellifer]
+61 aa protein
+KJY61755.1 GI:797157912
+
+971. NIF3-related protein [Lactobacillus mellifer]
+265 aa protein
+KJY61754.1 GI:797157911
+
+972. uncharacterized protein JG30_08050 [Lactobacillus mellifer]
+229 aa protein
+KJY61753.1 GI:797157910
+
+973. RNA polymerase sigma factor [Lactobacillus mellifer]
+375 aa protein
+KJY61752.1 GI:797157909
+
+974. DNA primase [Lactobacillus mellifer]
+614 aa protein
+KJY61751.1 GI:797157908
+
+975. Glycine--tRNA ligase beta subunit [Lactobacillus mellifer]
+692 aa protein
+KJY61750.1 GI:797157907
+
+976. Glycine--tRNA ligase alpha subunit [Lactobacillus mellifer]
+304 aa protein
+KJY61749.1 GI:797157906
+
+977. DNA repair protein RecO [Lactobacillus mellifer]
+253 aa protein
+KJY61748.1 GI:797157905
+
+978. GTPase Era [Lactobacillus mellifer]
+302 aa protein
+KJY61747.1 GI:797157904
+
+979. Cytidine deaminase [Lactobacillus mellifer]
+134 aa protein
+KJY61746.1 GI:797157903
+
+980. Endoribonuclease YbeY [Lactobacillus mellifer]
+158 aa protein
+KJY61745.1 GI:797157902
+
+981. PhoH family protein [Lactobacillus mellifer]
+320 aa protein
+KJY61744.1 GI:797157901
+
+982. GatB/YqeY domain containing protein [Lactobacillus mellifer]
+147 aa protein
+KJY61743.1 GI:797157900
+
+983. 30S ribosomal protein S21 [Lactobacillus mellifer]
+62 aa protein
+KJY61742.1 GI:797157899
+
+984. putative pyruvate, phosphate dikinase regulatory protein [Lactobacillus mellifer]
+270 aa protein
+KJY61741.1 GI:797157898
+
+985. Proline iminopeptidase [Lactobacillus mellifer]
+294 aa protein
+KJY61740.1 GI:797157897
+
+986. uncharacterized protein JG30_07910 [Lactobacillus mellifer]
+180 aa protein
+KJY61739.1 GI:797157896
+
+987. putative glycerate dehydrogenase [Lactobacillus mellifer]
+320 aa protein
+KJY61738.1 GI:797157895
+
+988. putative 2,5-didehydrogluconate reductase [Lactobacillus mellifer]
+282 aa protein
+KJY61737.1 GI:797157894
+
+989. putative endonuclease 4 [Lactobacillus mellifer]
+301 aa protein
+KJY61736.1 GI:797157893
+
+990. putative membrane protein [Lactobacillus mellifer]
+292 aa protein
+KJY61735.1 GI:797157892
+
+991. Peptide methionine sulfoxide reductase MsrB [Lactobacillus mellifer]
+146 aa protein
+KJY61734.1 GI:797157891
+
+992. Aspartate--tRNA ligase [Lactobacillus mellifer]
+585 aa protein
+KJY61733.1 GI:797157890
+
+993. Histidine--tRNA ligase [Lactobacillus mellifer]
+426 aa protein
+KJY61732.1 GI:797157889
+
+994. N-acetylmuramoyl-L-alanine amidase family protein [Lactobacillus mellifer]
+441 aa protein
+KJY61731.1 GI:797157888
+
+995. D-tyrosyl-tRNA(Tyr) deacylase [Lactobacillus mellifer]
+145 aa protein
+KJY61730.1 GI:797157887
+
+996. GTP diphosphokinase [Lactobacillus mellifer]
+737 aa protein
+KJY61729.1 GI:797157886
+
+997. hypothetical protein JG30_07800 [Lactobacillus mellifer]
+117 aa protein
+KJY61728.1 GI:797157885
+
+998. Ribosomal RNA small subunit methyltransferase E [Lactobacillus mellifer]
+251 aa protein
+KJY61727.1 GI:797157884
+
+999. hypothetical protein JG30_07780 [Lactobacillus mellifer]
+292 aa protein
+KJY61726.1 GI:797157883
+
+1000. Protein ebsC [Lactobacillus mellifer]
+169 aa protein
+KJY61725.1 GI:797157882
+
+1001. hypothetical protein JG30_07730 [Lactobacillus mellifer]
+248 aa protein
+KJY61724.1 GI:797157881
+
+1002. putative oxidoreductase yghA [Lactobacillus mellifer]
+295 aa protein
+KJY61723.1 GI:797157880
+
+1003. L-2-hydroxyisocaproate dehydrogenase [Lactobacillus mellifer]
+302 aa protein
+KJY61722.1 GI:797157879
+
+1004. Amino acid permease family protein [Lactobacillus mellifer]
+438 aa protein
+KJY61721.1 GI:797157878
+
+1005. Aldose 1-epimerase [Lactobacillus mellifer]
+345 aa protein
+KJY61720.1 GI:797157877
+
+1006. L-arabinose isomerase [Lactobacillus mellifer]
+474 aa protein
+KJY61719.1 GI:797157876
+
+1007. putative L-ribulokinase (putative) [Lactobacillus mellifer]
+534 aa protein
+KJY61718.1 GI:797157875
+
+1008. Transport protein [Lactobacillus mellifer]
+466 aa protein
+KJY61717.1 GI:797157874
+
+1009. Transcriptional repressor of the arabinose operon, GntR family [Lactobacillus mellifer]
+359 aa protein
+KJY61716.1 GI:797157873
+
+1010. Stress-responsive transcription regulator [Lactobacillus mellifer]
+78 aa protein
+KJY61715.1 GI:797157872
+
+1011. Dihydroxyacetone kinase, L subunit [Lactobacillus mellifer]
+192 aa protein
+KJY61714.1 GI:797157871
+
+1012. Glycerone kinase [Lactobacillus mellifer]
+329 aa protein
+KJY61713.1 GI:797157870
+
+1013. Uncharacterized protein JG30_07610 [Lactobacillus mellifer]
+132 aa protein
+KJY61712.1 GI:797157869
+
+1014. DNA-repair protein (SOS response UmuC-like protein) [Lactobacillus mellifer]
+435 aa protein
+KJY61711.1 GI:797157868
+
+1015. alcohol dehydrogenase [Lactobacillus mellifer]
+359 aa protein
+KJY61710.1 GI:797157867
+
+1016. alcohol dehydrogenase [Lactobacillus mellifer]
+354 aa protein
+KJY61709.1 GI:797157866
+
+1017. Imidazolonepropionase related amidohydrolase [Lactobacillus mellifer]
+393 aa protein
+KJY61708.1 GI:797157865
+
+1018. Oxidoreductase, NAD-binding domain protein [Lactobacillus mellifer]
+344 aa protein
+KJY61707.1 GI:797157864
+
+1019. Oligo-1,6-glucosidase (Oligosaccharide alpha-1,6-glucosidase) [Lactobacillus mellifer]
+563 aa protein
+KJY61706.1 GI:797157863
+
+1020. PTS Man IIA [Lactobacillus mellifer]
+143 aa protein
+KJY61705.1 GI:797157862
+
+1021. PTS Man IID [Lactobacillus mellifer]
+271 aa protein
+KJY61704.1 GI:797157861
+
+1022. PTS Man IIC [Lactobacillus mellifer]
+265 aa protein
+KJY61703.1 GI:797157860
+
+1023. PTS Man IIB [Lactobacillus mellifer]
+164 aa protein
+KJY61702.1 GI:797157859
+
+1024. Prophage Lp1 protein 8 [Lactobacillus mellifer]
+108 aa protein
+KJY61701.1 GI:797157858
+
+1025. Transcriptional regulator, IclR family [Lactobacillus mellifer]
+249 aa protein
+KJY61700.1 GI:797157857
+
+1026. D-lactate dehydrogenase [Lactobacillus mellifer]
+328 aa protein
+KJY61699.1 GI:797157856
+
+1027. putative membrane protein [Lactobacillus mellifer]
+350 aa protein
+KJY61698.1 GI:797157855
+
+1028. ThiJ/PfpI domain-containing protein [Lactobacillus mellifer]
+196 aa protein
+KJY61697.1 GI:797157854
+
+1029. putative D-serine dehydratase [Lactobacillus mellifer]
+442 aa protein
+KJY61696.1 GI:797157853
+
+1030. Ribulose-phosphate 3-epimerase [Lactobacillus mellifer]
+218 aa protein
+KJY61695.1 GI:797157852
+
+1031. PTS Man IID [Lactobacillus mellifer]
+291 aa protein
+KJY61694.1 GI:797157851
+
+1032. PTS Man IIC [Lactobacillus mellifer]
+254 aa protein
+KJY61693.1 GI:797157850
+
+1033. PTS Man IIB [Lactobacillus mellifer]
+158 aa protein
+KJY61692.1 GI:797157849
+
+1034. PTS Man IIA [Lactobacillus mellifer]
+138 aa protein
+KJY61691.1 GI:797157848
+
+1035. Ribitol-5-phosphate 2-dehydrogenase [Lactobacillus mellifer]
+384 aa protein
+KJY61690.1 GI:797157847
+
+1036. Transcription regulator, DeoR family [Lactobacillus mellifer]
+255 aa protein
+KJY61689.1 GI:797157846
+
+1037. putative lipoprotein [Lactobacillus mellifer]
+384 aa protein
+KJY61688.1 GI:797157845
+
+1038. hypothetical protein JG30_07365, partial [Lactobacillus mellifer]
+488 aa protein
+KJY61687.1 GI:797157844
+
+1039. Acetyltransferase [Lactobacillus mellifer]
+143 aa protein
+KJY61020.1 GI:797157171
+
+1040. Dipeptide/tripeptide transporter protein [Lactobacillus mellifer]
+488 aa protein
+KJY61019.1 GI:797157170
+
+1041. putative transcriptional regulator, GntR family [Lactobacillus mellifer]
+233 aa protein
+KJY61018.1 GI:797157169
+
+1042. hypothetical protein JG30_12090 [Lactobacillus mellifer]
+475 aa protein
+KJY61017.1 GI:797157168
+
+1043. UDP-N-acetyl-D-mannosamine transferase [Lactobacillus mellifer]
+237 aa protein
+KJY61016.1 GI:797157167
+
+1044. putative teichoic acid/polysaccharide glycosyl transferase, group 1 [Lactobacillus mellifer]
+357 aa protein
+KJY61015.1 GI:797157166
+
+1045. Nicotinate phosphoribosyltransferase [Lactobacillus mellifer]
+491 aa protein
+KJY61014.1 GI:797157165
+
+1046. NH(3)-dependent NAD(+) synthetase [Lactobacillus mellifer]
+275 aa protein
+KJY61013.1 GI:797157164
+
+1047. hypothetical protein JG30_12040 [Lactobacillus mellifer]
+144 aa protein
+KJY61012.1 GI:797157163
+
+1048. putative cold shock protein CspB [Lactobacillus mellifer]
+66 aa protein
+KJY61011.1 GI:797157162
+
+1049. N-acetylmuramoyl-L-alanine amidase [Lactobacillus mellifer]
+234 aa protein
+KJY61010.1 GI:797157161
+
+1050. Xanthine phosphoribosyltransferase [Lactobacillus mellifer]
+191 aa protein
+KJY61009.1 GI:797157160
+
+1051. hypothetical protein JG30_12000 [Lactobacillus mellifer]
+369 aa protein
+KJY61008.1 GI:797157159
+
+1052. Adenylosuccinate lyase [Lactobacillus mellifer]
+437 aa protein
+KJY61007.1 GI:797157158
+
+1053. ATP-dependent DNA helicase PcrA [Lactobacillus mellifer]
+741 aa protein
+KJY61006.1 GI:797157157
+
+1054. DNA ligase [Lactobacillus mellifer]
+667 aa protein
+KJY61005.1 GI:797157156
+
+1055. Uncharacterized protein JG30_11950 [Lactobacillus mellifer]
+382 aa protein
+KJY61004.1 GI:797157155
+
+1056. Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C [Lactobacillus mellifer]
+100 aa protein
+KJY61003.1 GI:797157154
+
+1057. Glutamyl-tRNA(Gln) amidotransferase subunit A [Lactobacillus mellifer]
+479 aa protein
+KJY61002.1 GI:797157153
+
+1058. Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B [Lactobacillus mellifer]
+476 aa protein
+KJY61001.1 GI:797157152
+
+1059. putative diacylglycerol kinase [Lactobacillus mellifer]
+330 aa protein
+KJY61000.1 GI:797157151
+
+1060. tRNA (Uracil-5-)-methyltransferase [Lactobacillus mellifer]
+454 aa protein
+KJY60999.1 GI:797157150
+
+1061. Uncharacterized protein JG30_11890 [Lactobacillus mellifer]
+502 aa protein
+KJY60998.1 GI:797157149
+
+1062. Major facilitator superfamily MFS_1 (Precursor) [Lactobacillus mellifer]
+566 aa protein
+KJY60997.1 GI:797157148
+
+1063. Transcriptional regulator, PadR-like family [Lactobacillus mellifer]
+173 aa protein
+KJY60996.1 GI:797157147
+
+1064. uncharacterized protein JG30_11860 [Lactobacillus mellifer]
+564 aa protein
+KJY60995.1 GI:797157146
+
+1065. Branched-chain-amino-acid aminotransferase [Lactobacillus mellifer]
+344 aa protein
+KJY60994.1 GI:797157145
+
+1066. hypothetical protein JG30_11840 [Lactobacillus mellifer]
+124 aa protein
+KJY60993.1 GI:797157144
+
+1067. hypothetical protein JG30_11830 [Lactobacillus mellifer]
+1047 aa protein
+KJY60992.1 GI:797157143
+
+1068. hypothetical protein JG30_11820 [Lactobacillus mellifer]
+252 aa protein
+KJY60991.1 GI:797157142
+
+1069. putative ATP-dependent RNA helicase [Lactobacillus mellifer]
+371 aa protein
+KJY60990.1 GI:797157141
+
+1070. UDP-N-acetylglucosamine 2-epimerase [Lactobacillus mellifer]
+381 aa protein
+KJY60989.1 GI:797157140
+
+1071. putative cell wall teichoic acid glycosylation protein [Lactobacillus mellifer]
+160 aa protein
+KJY60988.1 GI:797157139
+
+1072. Flavodoxin [Lactobacillus mellifer]
+153 aa protein
+KJY60987.1 GI:797157138
+
+1073. Methionine aminopeptidase [Lactobacillus mellifer]
+262 aa protein
+KJY60986.1 GI:797157137
+
+1074. hypothetical protein JG30_11750 [Lactobacillus mellifer]
+319 aa protein
+KJY60985.1 GI:797157136
+
+1075. UTP--glucose-1-phosphate uridylyltransferase [Lactobacillus mellifer]
+299 aa protein
+KJY60984.1 GI:797157135
+
+1076. Hydroxymethylglutaryl-CoA reductase (NADPH) [Lactobacillus mellifer]
+420 aa protein
+KJY60983.1 GI:797157134
+
+1077. Hydroxymethylglutaryl-CoA synthase [Lactobacillus mellifer]
+386 aa protein
+KJY60982.1 GI:797157133
+
+1078. 23S rRNA (Uracil-5-)-methyltransferase RumA [Lactobacillus mellifer]
+469 aa protein
+KJY60981.1 GI:797157132
+
+1079. Regulatory protein RecX [Lactobacillus mellifer]
+260 aa protein
+KJY60980.1 GI:797157131
+
+1080. uncharacterized protein JG30_11670 [Lactobacillus mellifer]
+178 aa protein
+KJY60979.1 GI:797157130
+
+1081. putative methylated-DNA--protein-cysteine S-methyltransferase [Lactobacillus mellifer]
+160 aa protein
+KJY60978.1 GI:797157129
+
+1082. uncharacterized protein JG30_11650 [Lactobacillus mellifer]
+270 aa protein
+KJY60977.1 GI:797157128
+
+1083. hypothetical protein JG30_11640 [Lactobacillus mellifer]
+150 aa protein
+KJY60976.1 GI:797157127
+
+1084. Peptide chain release factor 3 [Lactobacillus mellifer]
+525 aa protein
+KJY60975.1 GI:797157126
+
+1085. Transcriptional regulator PadR-like family protein [Lactobacillus mellifer]
+105 aa protein
+KJY60974.1 GI:797157125
+
+1086. Membrane protein [Lactobacillus mellifer]
+219 aa protein
+KJY60973.1 GI:797157124
+
+1087. hypothetical protein JG30_11600 [Lactobacillus mellifer]
+309 aa protein
+KJY60972.1 GI:797157123
+
+1088. Acetyltransferase [Lactobacillus mellifer]
+184 aa protein
+KJY60971.1 GI:797157122
+
+1089. ATP-dependent Clp protease, ATP-binding subunit [Lactobacillus mellifer]
+731 aa protein
+KJY60970.1 GI:797157121
+
+1090. hypothetical protein JG30_11570 [Lactobacillus mellifer]
+61 aa protein
+KJY60969.1 GI:797157120
+
+1091. Phosphocarrier protein HPr [Lactobacillus mellifer]
+88 aa protein
+KJY60968.1 GI:797157119
+
+1092. Phosphoenolpyruvate-protein phosphotransferase, EI [Lactobacillus mellifer]
+578 aa protein
+KJY60967.1 GI:797157118
+
+1093. Copper-transporting ATPase CopB [Lactobacillus mellifer]
+666 aa protein
+KJY60966.1 GI:797157117
+
+1094. hypothetical protein JG30_11530 [Lactobacillus mellifer]
+140 aa protein
+KJY60965.1 GI:797157116
+
+1095. Metallo-beta-lactamase [Lactobacillus mellifer]
+243 aa protein
+KJY60964.1 GI:797157115
+
+1096. Regulatory protein spx [Lactobacillus mellifer]
+133 aa protein
+KJY60963.1 GI:797157114
+
+1097. Adapter protein MecA [Lactobacillus mellifer]
+214 aa protein
+KJY60962.1 GI:797157113
+
+1098. hypothetical protein JG30_11490 [Lactobacillus mellifer]
+306 aa protein
+KJY60961.1 GI:797157112
+
+1099. uncharacterized protein JG30_11480 [Lactobacillus mellifer]
+203 aa protein
+KJY60960.1 GI:797157111
+
+1100. GTP diphosphokinase [Lactobacillus mellifer]
+224 aa protein
+KJY60959.1 GI:797157110
+
+1101. putative inorganic polyphosphate/ATP-NAD kinase [Lactobacillus mellifer]
+266 aa protein
+KJY60958.1 GI:797157109
+
+1102. Pseudouridine synthase [Lactobacillus mellifer]
+292 aa protein
+KJY60957.1 GI:797157108
+
+1103. Magnesium transporter [Lactobacillus mellifer]
+456 aa protein
+KJY60956.1 GI:797157107
+
+1104. Undecaprenyl-diphosphatase [Lactobacillus mellifer]
+275 aa protein
+KJY60955.1 GI:797157106
+
+1105. Carboxy-cis,cis-muconate cyclase [Lactobacillus mellifer]
+339 aa protein
+KJY60954.1 GI:797157105
+
+1106. Permease [Lactobacillus mellifer]
+379 aa protein
+KJY60953.1 GI:797157104
+
+1107. GMP reductase [Lactobacillus mellifer]
+328 aa protein
+KJY60952.1 GI:797157103
+
+1108. putative tRNA (cytidine(34)-2'-O)-methyltransferase [Lactobacillus mellifer]
+169 aa protein
+KJY60951.1 GI:797157102
+
+1109. hypothetical protein JG30_11380 [Lactobacillus mellifer]
+127 aa protein
+KJY60950.1 GI:797157101
+
+1110. Lipopolysaccharide biosynthesis protein [Lactobacillus mellifer]
+258 aa protein
+KJY60949.1 GI:797157100
+
+1111. Capsular polysaccharide biosynthesis protein Cap5B [Lactobacillus mellifer]
+237 aa protein
+KJY60948.1 GI:797157099
+
+1112. putative tyrosine-protein phosphatase CapC [Lactobacillus mellifer]
+260 aa protein
+KJY60947.1 GI:797157098
+
+1113. Cell envelope-related function transcriptional attenuator common domain protein [Lactobacillus mellifer]
+317 aa protein
+KJY60946.1 GI:797157097
+
+1114. UDP-glucose 4-epimerase [Lactobacillus mellifer]
+313 aa protein
+KJY60945.1 GI:797157096
+
+1115. Priming glycosyltransferase,undecaprenyl-phosphate beta-glucosephosphotransferase [Lactobacillus mellifer]
+224 aa protein
+KJY60944.1 GI:797157095
+
+1116. Glucose-1-phosphate thymidylyltransferase [Lactobacillus mellifer]
+288 aa protein
+KJY60943.1 GI:797157094
+
+1117. dTDP-4-dehydrorhamnose 3,5-epimerase [Lactobacillus mellifer]
+193 aa protein
+KJY60942.1 GI:797157093
+
+1118. dTDP-glucose 4,6-dehydratase [Lactobacillus mellifer]
+344 aa protein
+KJY60941.1 GI:797157092
+
+1119. dTDP-4-dehydrorhamnose reductase [Lactobacillus mellifer]
+284 aa protein
+KJY60940.1 GI:797157091
+
+1120. Glycosyltransferase [Lactobacillus mellifer]
+392 aa protein
+KJY60939.1 GI:797157090
+
+1121. Glycosyltransferase [Lactobacillus mellifer]
+383 aa protein
+KJY60938.1 GI:797157089
+
+1122. putative acetyl transferase [Lactobacillus mellifer]
+217 aa protein
+KJY60937.1 GI:797157088
+
+1123. Glycosyltransferase [Lactobacillus mellifer]
+327 aa protein
+KJY60936.1 GI:797157087
+
+1124. Glycosyltransferase-like protein [Lactobacillus mellifer]
+320 aa protein
+KJY60935.1 GI:797157086
+
+1125. hypothetical protein JG30_11220 [Lactobacillus mellifer]
+419 aa protein
+KJY60934.1 GI:797157085
+
+1126. hypothetical protein JG30_11210 [Lactobacillus mellifer]
+470 aa protein
+KJY60933.1 GI:797157084
+
+1127. Cell division DNA translocase FtsK [Lactobacillus mellifer]
+758 aa protein
+KJY60932.1 GI:797157083
+
+1128. hypothetical protein JG30_11190 [Lactobacillus mellifer]
+421 aa protein
+KJY60931.1 GI:797157082
+
+1129. hypothetical protein JG30_11180 [Lactobacillus mellifer]
+413 aa protein
+KJY60930.1 GI:797157081
+
+1130. 3-oxoacyl-[acyl-carrier protein] reductase [Lactobacillus mellifer]
+241 aa protein
+KJY60929.1 GI:797157080
+
+1131. hypothetical protein JG30_11160 [Lactobacillus mellifer]
+282 aa protein
+KJY60928.1 GI:797157079
+
+1132. CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase [Lactobacillus mellifer]
+193 aa protein
+KJY60927.1 GI:797157078
+
+1133. putative competence-damage inducible protein [Lactobacillus mellifer]
+175 aa protein
+KJY60926.1 GI:797157077
+
+1134. Protein RecA [Lactobacillus mellifer]
+354 aa protein
+KJY60925.1 GI:797157076
+
+1135. Ribonuclease Y [Lactobacillus mellifer]
+521 aa protein
+KJY60924.1 GI:797157075
+
+1136. Undecaprenyl-phosphate N-acetyl-glucosaminyl transferase [Lactobacillus mellifer]
+360 aa protein
+KJY60923.1 GI:797157074
+
+1137. uncharacterized protein JG30_11100 [Lactobacillus mellifer]
+216 aa protein
+KJY60922.1 GI:797157073
+
+1138. Competence protein ComFA [Lactobacillus mellifer]
+415 aa protein
+KJY60921.1 GI:797157072
+
+1139. Competence protein F [Lactobacillus mellifer]
+228 aa protein
+KJY60920.1 GI:797157071
+
+1140. 30S ribosomal interface protein S30EA [Lactobacillus mellifer]
+182 aa protein
+KJY60919.1 GI:797157070
+
+1141. Protein translocase subunit SecA [Lactobacillus mellifer]
+786 aa protein
+KJY60918.1 GI:797157069
+
+1142. Peptide chain release factor 2 [Lactobacillus mellifer]
+353 aa protein
+KJY60917.1 GI:797157068
+
+1143. hypothetical protein JG30_11040 [Lactobacillus mellifer]
+554 aa protein
+KJY60916.1 GI:797157067
+
+1144. Phosphate ABC transporter, phosphate-binding protein [Lactobacillus mellifer]
+286 aa protein
+KJY60915.1 GI:797157066
+
+1145. Phosphate ABC transporter, permease protein [Lactobacillus mellifer]
+306 aa protein
+KJY60914.1 GI:797157065
+
+1146. uncharacterized protein JG30_11010 [Lactobacillus mellifer]
+294 aa protein
+KJY60913.1 GI:797157064
+
+1147. Phosphate ABC transporter ATP-binding protein, PhoT family [Lactobacillus mellifer]
+270 aa protein
+KJY60912.1 GI:797157063
+
+1148. Phosphate ABC transporter ATP-binding protein [Lactobacillus mellifer]
+252 aa protein
+KJY60911.1 GI:797157062
+
+1149. Phosphate-specific transport system accessory protein PhoU [Lactobacillus mellifer]
+225 aa protein
+KJY60910.1 GI:797157061
+
+1150. Uncharacterized protein JG30_10970 [Lactobacillus mellifer]
+116 aa protein
+KJY60909.1 GI:797157060
+
+1151. HPr kinase/phosphorylase [Lactobacillus mellifer]
+316 aa protein
+KJY60908.1 GI:797157059
+
+1152. Prolipoprotein diacylglyceryl transferase [Lactobacillus mellifer]
+271 aa protein
+KJY60907.1 GI:797157058
+
+1153. Thioredoxin reductase [Lactobacillus mellifer]
+307 aa protein
+KJY60906.1 GI:797157057
+
+1154. Phosphoglucomutase [Lactobacillus mellifer]
+572 aa protein
+KJY60905.1 GI:797157056
+
+1155. UvrABC system protein B [Lactobacillus mellifer]
+669 aa protein
+KJY60904.1 GI:797157055
+
+1156. UvrABC system protein A [Lactobacillus mellifer]
+939 aa protein
+KJY60903.1 GI:797157054
+
+1157. Deoxynucleoside kinase [Lactobacillus mellifer]
+215 aa protein
+KJY60902.1 GI:797157053
+
+1158. Glycosyl transferases group 1 family protein [Lactobacillus mellifer]
+399 aa protein
+KJY60901.1 GI:797157052
+
+1159. Glycosyltransferase [Lactobacillus mellifer]
+338 aa protein
+KJY60900.1 GI:797157051
+
+1160. Integral membrane protein [Lactobacillus mellifer]
+357 aa protein
+KJY60899.1 GI:797157050
+
+1161. Glycerol phosphate lipoteichoic acid synthase 1 [Lactobacillus mellifer]
+688 aa protein
+KJY60898.1 GI:797157049
+
+1162. hypothetical protein JG30_10850 [Lactobacillus mellifer]
+149 aa protein
+KJY60897.1 GI:797157048
+
+1163. putative membrane protein [Lactobacillus mellifer]
+252 aa protein
+KJY60821.1 GI:797156961
+
+1164. Membrane protein [Lactobacillus mellifer]
+148 aa protein
+KJY60820.1 GI:797156960
+
+1165. putative acyltransferase [Lactobacillus mellifer]
+278 aa protein
+KJY60819.1 GI:797156959
+
+1166. PTS Lac IIC [Lactobacillus mellifer]
+378 aa protein
+KJY60818.1 GI:797156958
+
+1167. hypothetical protein JG30_15070 [Lactobacillus mellifer]
+399 aa protein
+KJY60817.1 GI:797156957
+
+1168. hypothetical protein JG30_15060 [Lactobacillus mellifer]
+306 aa protein
+KJY60816.1 GI:797156956
+
+1169. Acetyltransferase [Lactobacillus mellifer]
+166 aa protein
+KJY60815.1 GI:797156955
+
+1170. Major facilitator superfamily permease [Lactobacillus mellifer]
+460 aa protein
+KJY60814.1 GI:797156954
+
+1171. putative Peptide ABC transporter, peptide-binding protein [Lactobacillus mellifer]
+550 aa protein
+KJY60813.1 GI:797156953
+
+1172. putative Peptide ABC transporter, peptide-binding protein [Lactobacillus mellifer]
+548 aa protein
+KJY60812.1 GI:797156952
+
+1173. Small multidrug resistance protein [Lactobacillus mellifer]
+107 aa protein
+KJY60811.1 GI:797156951
+
+1174. APC family amino acid-polyamine-organocation transporter [Lactobacillus mellifer]
+449 aa protein
+KJY60810.1 GI:797156950
+
+1175. hypothetical protein JG30_14990 [Lactobacillus mellifer]
+161 aa protein
+KJY60809.1 GI:797156949
+
+1176. Anion exporter, TauE/SafE family [Lactobacillus mellifer]
+285 aa protein
+KJY60808.1 GI:797156948
+
+1177. Uncharacterized protein JG30_14970 [Lactobacillus mellifer]
+121 aa protein
+KJY60807.1 GI:797156947
+
+1178. uncharacterized protein JG30_14960 [Lactobacillus mellifer]
+119 aa protein
+KJY60806.1 GI:797156946
+
+1179. putative 3-methyladenine DNA glycosylase [Lactobacillus mellifer]
+209 aa protein
+KJY60805.1 GI:797156945
+
+1180. Ribonucleoside-diphosphate reductase subunit beta [Lactobacillus mellifer]
+325 aa protein
+KJY60804.1 GI:797156944
+
+1181. Ribonucleoside-diphosphate reductase, alpha subunit [Lactobacillus mellifer]
+724 aa protein
+KJY60803.1 GI:797156943
+
+1182. NrdI protein [Lactobacillus mellifer]
+126 aa protein
+KJY60802.1 GI:797156942
+
+1183. NrdH family redoxin [Lactobacillus mellifer]
+78 aa protein
+KJY60801.1 GI:797156941
+
+1184. hypothetical protein JG30_14900 [Lactobacillus mellifer]
+206 aa protein
+KJY60800.1 GI:797156940
+
+1185. uncharacterized protein JG30_14890 [Lactobacillus mellifer]
+71 aa protein
+KJY60799.1 GI:797156939
+
+1186. Guanylate kinase [Lactobacillus mellifer]
+186 aa protein
+KJY60798.1 GI:797156938
+
+1187. Malate permease [Lactobacillus mellifer]
+324 aa protein
+KJY60797.1 GI:797156937
+
+1188. Glucose-1-dehydrogenase [Lactobacillus mellifer]
+261 aa protein
+KJY60796.1 GI:797156936
+
+1189. NrdR-regulated deoxyribonucleotide transporter PnuC-like protein [Lactobacillus mellifer]
+245 aa protein
+KJY60795.1 GI:797156935
+
+1190. Uncharacterized protein JG30_14840 [Lactobacillus mellifer]
+195 aa protein
+KJY60794.1 GI:797156934
+
+1191. Nitroreductase [Lactobacillus mellifer]
+248 aa protein
+KJY60793.1 GI:797156933
+
+1192. 3-oxoacyl-[acyl-carrier protein] reductase [Lactobacillus mellifer]
+245 aa protein
+KJY60792.1 GI:797156932
+
+1193. Uncharacterized protein JG30_14810 [Lactobacillus mellifer]
+74 aa protein
+KJY60791.1 GI:797156931
+
+1194. QueT transporter family protein [Lactobacillus mellifer]
+167 aa protein
+KJY60790.1 GI:797156930
+
+1195. Oligopeptide ABC transporter, ATP-binding subunit [Lactobacillus mellifer]
+319 aa protein
+KJY60789.1 GI:797156929
+
+1196. Oligopeptide/dipeptide ABC transporter, ATP-binding, C-terminal domain protein [Lactobacillus mellifer]
+359 aa protein
+KJY60788.1 GI:797156928
+
+1197. Binding--dependent transport system inner membrane component family protein [Lactobacillus mellifer]
+339 aa protein
+KJY60787.1 GI:797156927
+
+1198. Binding--dependent transport system inner membrane component family protein [Lactobacillus mellifer]
+310 aa protein
+KJY60786.1 GI:797156926
+
+1199. Oligopeptide ABC transporter, substrate-binding lipoprotein [Lactobacillus mellifer]
+546 aa protein
+KJY60785.1 GI:797156925
+
+1200. GTPase HflX [Lactobacillus mellifer]
+421 aa protein
+KJY60784.1 GI:797156924
+
+1201. Glutamine amidotransferase class-I [Lactobacillus mellifer]
+224 aa protein
+KJY60783.1 GI:797156923
+
+1202. APC family amino acid-polyamine-organocation transporter [Lactobacillus mellifer]
+482 aa protein
+KJY60782.1 GI:797156922
+
+1203. ABC superfamily ATP binding cassette transporter, ABC protein [Lactobacillus mellifer]
+245 aa protein
+KJY60781.1 GI:797156921
+
+1204. Uncharacterized protein JG30_14700 [Lactobacillus mellifer]
+271 aa protein
+KJY60780.1 GI:797156920
+
+1205. Amino acid ABC transporter, permease protein (His/Glu/Gln/Arg/opine family) [Lactobacillus mellifer]
+212 aa protein
+KJY60779.1 GI:797156919
+
+1206. Glutamine ABC transporter, permease protein [Lactobacillus mellifer]
+217 aa protein
+KJY60778.1 GI:797156918
+
+1207. Alcohol dehydrogenase / acetaldehyde dehydrogenase [Lactobacillus mellifer]
+886 aa protein
+KJY60777.1 GI:797156917
+
+1208. hypothetical protein JG30_14660 [Lactobacillus mellifer]
+179 aa protein
+KJY60776.1 GI:797156916
+
+1209. PTS Man IIB [Lactobacillus mellifer]
+159 aa protein
+KJY60775.1 GI:797156915
+
+1210. PTS Man IIA [Lactobacillus mellifer]
+138 aa protein
+KJY60774.1 GI:797156914
+
+1211. PTS Man IID [Lactobacillus mellifer]
+298 aa protein
+KJY60773.1 GI:797156913
+
+1212. PTS Man IIC [Lactobacillus mellifer]
+258 aa protein
+KJY60772.1 GI:797156912
+
+1213. Alpha-ribazole phosphatase [Lactobacillus mellifer]
+213 aa protein
+KJY60771.1 GI:797156911
+
+1214. hypothetical protein JG30_14600 [Lactobacillus mellifer]
+289 aa protein
+KJY60770.1 GI:797156910
+
+1215. D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain protein [Lactobacillus mellifer]
+333 aa protein
+KJY60769.1 GI:797156909
+
+1216. hypothetical protein JG30_14580 [Lactobacillus mellifer]
+175 aa protein
+KJY60768.1 GI:797156908
+
+1217. Pyruvate oxidase [Lactobacillus mellifer]
+575 aa protein
+KJY60767.1 GI:797156907
+
+1218. hypothetical protein JG30_14560 [Lactobacillus mellifer]
+109 aa protein
+KJY60766.1 GI:797156906
+
+1219. Uncharacterized protein JG30_14550 [Lactobacillus mellifer]
+401 aa protein
+KJY60765.1 GI:797156905
+
+1220. hypothetical protein JG30_14540 [Lactobacillus mellifer]
+398 aa protein
+KJY60764.1 GI:797156904
+
+1221. Cell wall hydrolase/muramidase [Lactobacillus mellifer]
+464 aa protein
+KJY60763.1 GI:797156903
+
+1222. putative transcriptional regulator, Fur family [Lactobacillus mellifer]
+142 aa protein
+KJY60762.1 GI:797156902
+
+1223. ABC transporter substrate binding protein [Lactobacillus mellifer]
+296 aa protein
+KJY60761.1 GI:797156901
+
+1224. ABC-type Mn/Zn transport system, ATPase component [Lactobacillus mellifer]
+210 aa protein
+KJY60760.1 GI:797156900
+
+1225. Cation ABC superfamily ATP binding cassette transporter, membrane protein [Lactobacillus mellifer]
+263 aa protein
+KJY60759.1 GI:797156899
+
+1226. ABC-type antimicrobial peptide transport system, ATPase component [Lactobacillus mellifer]
+233 aa protein
+KJY60758.1 GI:797156898
+
+1227. ABC superfamily ATP binding cassette transporter, membrane protein [Lactobacillus mellifer]
+876 aa protein
+KJY60757.1 GI:797156897
+
+1228. D-lactate dehydrogenase [Lactobacillus mellifer]
+329 aa protein
+KJY60756.1 GI:797156896
+
+1229. putative aspartate transaminase [Lactobacillus mellifer]
+393 aa protein
+KJY60755.1 GI:797156895
+
+1230. Amino acid transporter [Lactobacillus mellifer]
+460 aa protein
+KJY60754.1 GI:797156894
+
+1231. Muramoyltetrapeptide carboxypeptidase [Lactobacillus mellifer]
+354 aa protein
+KJY60753.1 GI:797156893
+
+1232. uncharacterized protein JG30_14410 [Lactobacillus mellifer]
+70 aa protein
+KJY60752.1 GI:797156892
+
+1233. Membrane protein, MgtC/SapB family [Lactobacillus mellifer]
+234 aa protein
+KJY60751.1 GI:797156891
+
+1234. uncharacterized protein JG30_14390 [Lactobacillus mellifer]
+157 aa protein
+KJY60750.1 GI:797156890
+
+1235. hypothetical protein JG30_14380 [Lactobacillus mellifer]
+489 aa protein
+KJY60749.1 GI:797156889
+
+1236. Permease [Lactobacillus mellifer]
+338 aa protein
+KJY60748.1 GI:797156888
+
+1237. hypothetical protein JG30_14360 [Lactobacillus mellifer]
+500 aa protein
+KJY60747.1 GI:797156887
+
+1238. 2,3-bisphosphoglycerate-dependent phosphoglycerate mutase [Lactobacillus mellifer]
+229 aa protein
+KJY60746.1 GI:797156886
+
+1239. hypothetical protein JG30_14340 [Lactobacillus mellifer]
+1481 aa protein
+KJY60745.1 GI:797156885
+
+1240. Elongation factor P [Lactobacillus mellifer]
+187 aa protein
+KJY60744.1 GI:797156884
+
+1241. hypothetical protein JG30_14320 [Lactobacillus mellifer]
+275 aa protein
+KJY60743.1 GI:797156883
+
+1242. putative membrane protein [Lactobacillus mellifer]
+183 aa protein
+KJY60742.1 GI:797156882
+
+1243. uncharacterized protein JG30_14300 [Lactobacillus mellifer]
+101 aa protein
+KJY60741.1 GI:797156881
+
+1244. Uncharacterized protein JG30_14290 [Lactobacillus mellifer]
+157 aa protein
+KJY60740.1 GI:797156880
+
+1245. Phosphonate ABC transporter, permease protein PhnE [Lactobacillus mellifer]
+263 aa protein
+KJY60739.1 GI:797156879
+
+1246. Phosphonate ABC superfamily ATP binding cassette transporter, membrane protein [Lactobacillus mellifer]
+269 aa protein
+KJY60738.1 GI:797156878
+
+1247. Phosphonate ABC transporter ATP-binding protein [Lactobacillus mellifer]
+260 aa protein
+KJY60737.1 GI:797156877
+
+1248. Methyladenine glycosylase family protein [Lactobacillus mellifer]
+168 aa protein
+KJY60736.1 GI:797156876
+
+1249. uncharacterized protein JG30_14240 [Lactobacillus mellifer]
+390 aa protein
+KJY60735.1 GI:797156875
+
+1250. Tyrosine--tRNA ligase [Lactobacillus mellifer]
+422 aa protein
+KJY60734.1 GI:797156874
+
+1251. hypothetical protein JG30_14220 [Lactobacillus mellifer]
+246 aa protein
+KJY60733.1 GI:797156873
+
+1252. Iron-dependent repressor [Lactobacillus mellifer]
+222 aa protein
+KJY60732.1 GI:797156872
+
+1253. putative membrane protein [Lactobacillus mellifer]
+173 aa protein
+KJY60731.1 GI:797156871
+
+1254. GntR family transcription regulator [Lactobacillus mellifer]
+230 aa protein
+KJY60730.1 GI:797156870
+
+1255. KDPG and KHG aldolase [Lactobacillus mellifer]
+219 aa protein
+KJY60729.1 GI:797156869
+
+1256. Mannitol dehydrogenase domain protein [Lactobacillus mellifer]
+544 aa protein
+KJY60728.1 GI:797156868
+
+1257. Mannonate dehydratase [Lactobacillus mellifer]
+359 aa protein
+KJY60727.1 GI:797156867
+
+1258. Alcohol dehydrogenase, MDR family [Lactobacillus mellifer]
+339 aa protein
+KJY60726.1 GI:797156866
+
+1259. uncharacterized protein JG30_14140 [Lactobacillus mellifer]
+444 aa protein
+KJY60725.1 GI:797156865
+
+1260. PfkB domain protein [Lactobacillus mellifer]
+319 aa protein
+KJY60724.1 GI:797156864
+
+1261. hypothetical protein JG30_14120 [Lactobacillus mellifer]
+223 aa protein
+KJY60723.1 GI:797156863
+
+1262. putative DNA helicase [Lactobacillus mellifer]
+766 aa protein
+KJY60722.1 GI:797156862
+
+1263. Tryptophanyl-tRNA synthetase [Lactobacillus mellifer]
+338 aa protein
+KJY60721.1 GI:797156861
+
+1264. uncharacterized protein JG30_14090 [Lactobacillus mellifer]
+118 aa protein
+KJY60720.1 GI:797156860
+
+1265. hypothetical protein JG30_14080 [Lactobacillus mellifer]
+161 aa protein
+KJY60719.1 GI:797156859
+
+1266. Drug resistance transporter, EmrB/QacA subfamily [Lactobacillus mellifer]
+488 aa protein
+KJY60718.1 GI:797156858
+
+1267. hypothetical protein JG30_14060 [Lactobacillus mellifer]
+235 aa protein
+KJY60717.1 GI:797156857
+
+1268. hypothetical protein JG30_14050 [Lactobacillus mellifer]
+314 aa protein
+KJY60716.1 GI:797156856
+
+1269. Phospholipid-binding protein [Lactobacillus mellifer]
+170 aa protein
+KJY60715.1 GI:797156855
+
+1270. hypothetical protein JG30_14030 [Lactobacillus mellifer]
+311 aa protein
+KJY60714.1 GI:797156854
+
+1271. Sir2 family protein [Lactobacillus mellifer]
+230 aa protein
+KJY60713.1 GI:797156853
+
+1272. Methionine--tRNA ligase [Lactobacillus mellifer]
+668 aa protein
+KJY60712.1 GI:797156852
+
+1273. TatD family hydrolase [Lactobacillus mellifer]
+259 aa protein
+KJY60711.1 GI:797156851
+
+1274. Ribonuclease M5 [Lactobacillus mellifer]
+190 aa protein
+KJY60710.1 GI:797156850
+
+1275. Ribosomal RNA small subunit methyltransferase A [Lactobacillus mellifer]
+296 aa protein
+KJY60709.1 GI:797156849
+
+1276. Protein veg [Lactobacillus mellifer]
+77 aa protein
+KJY60708.1 GI:797156848
+
+1277. Pur operon repressor [Lactobacillus mellifer]
+282 aa protein
+KJY60707.1 GI:797156847
+
+1278. Bifunctional protein GlmU [Lactobacillus mellifer]
+462 aa protein
+KJY60706.1 GI:797156846
+
+1279. Ribose-phosphate pyrophosphokinase [Lactobacillus mellifer]
+326 aa protein
+KJY60705.1 GI:797156845
+
+1280. Large-conductance mechanosensitive channel [Lactobacillus mellifer]
+121 aa protein
+KJY60704.1 GI:797156844
+
+1281. HD superfamily phosphohydrolase [Lactobacillus mellifer]
+445 aa protein
+KJY60703.1 GI:797156843
+
+1282. Lipoate-protein ligase A [Lactobacillus mellifer]
+271 aa protein
+KJY60702.1 GI:797156842
+
+1283. hypothetical protein JG30_13890 [Lactobacillus mellifer]
+144 aa protein
+KJY60701.1 GI:797156841
+
+1284. putative DNA-directed RNA polymerase subunit delta [Lactobacillus mellifer]
+199 aa protein
+KJY60700.1 GI:797156840
+
+1285. CTP synthase [Lactobacillus mellifer]
+537 aa protein
+KJY60699.1 GI:797156839
+
+1286. UDP-N-acetylglucosamine 1-carboxyvinyltransferase [Lactobacillus mellifer]
+422 aa protein
+KJY60698.1 GI:797156838
+
+1287. 50S ribosomal protein L31 type B [Lactobacillus mellifer]
+82 aa protein
+KJY60697.1 GI:797156837
+
+1288. putative drug:H(+) antiporter [Lactobacillus mellifer]
+397 aa protein
+KJY60696.1 GI:797156836
+
+1289. UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase [Lactobacillus mellifer]
+454 aa protein
+KJY60695.1 GI:797156835
+
+1290. Cation-transporting ATPase [Lactobacillus mellifer]
+924 aa protein
+KJY60694.1 GI:797156834
+
+1291. putative ATP-dependent RNA helicase [Lactobacillus mellifer]
+496 aa protein
+KJY60693.1 GI:797156833
+
+1292. Holo-[acyl-carrier-protein] synthase [Lactobacillus mellifer]
+120 aa protein
+KJY60692.1 GI:797156832
+
+1293. Alanine racemase [Lactobacillus mellifer]
+369 aa protein
+KJY60691.1 GI:797156831
+
+1294. hypothetical protein JG30_13780 [Lactobacillus mellifer]
+87 aa protein
+KJY60690.1 GI:797156830
+
+1295. mRNA interferase [Lactobacillus mellifer]
+114 aa protein
+KJY60689.1 GI:797156829
+
+1296. CBS domain-containing protein [Lactobacillus mellifer]
+221 aa protein
+KJY60688.1 GI:797156828
+
+1297. L-lactate dehydrogenase [Lactobacillus mellifer]
+323 aa protein
+KJY60687.1 GI:797156827
+
+1298. Peptidyl-tRNA hydrolase [Lactobacillus mellifer]
+185 aa protein
+KJY60686.1 GI:797156826
+
+1299. Transcription-repair coupling factor (TRCF) [Lactobacillus mellifer]
+1174 aa protein
+KJY60685.1 GI:797156825
+
+1300. hypothetical protein JG30_13710 [Lactobacillus mellifer]
+516 aa protein
+KJY60684.1 GI:797156824
+
+1301. uncharacterized protein JG30_13700 [Lactobacillus mellifer]
+80 aa protein
+KJY60683.1 GI:797156823
+
+1302. hypothetical protein JG30_13690 [Lactobacillus mellifer]
+130 aa protein
+KJY60682.1 GI:797156822
+
+1303. Ribosomal protein S1 domain-containing RNA binding protein [Lactobacillus mellifer]
+144 aa protein
+KJY60681.1 GI:797156821
+
+1304. hypothetical protein JG30_13670 [Lactobacillus mellifer]
+445 aa protein
+KJY60680.1 GI:797156820
+
+1305. Hypoxanthine phosphoribosyltransferase [Lactobacillus mellifer]
+180 aa protein
+KJY60679.1 GI:797156819
+
+1306. ATP-dependent zinc metalloprotease FtsH [Lactobacillus mellifer]
+706 aa protein
+KJY60678.1 GI:797156818
+
+1307. tRNA-dihydrouridine synthase [Lactobacillus mellifer]
+335 aa protein
+KJY60677.1 GI:797156817
+
+1308. Lysine--tRNA ligase [Lactobacillus mellifer]
+500 aa protein
+KJY60676.1 GI:797156816
+
+1309. Chaperone protein ClpB [Lactobacillus mellifer]
+823 aa protein
+KJY60675.1 GI:797156815
+
+1310. DNA-directed RNA polymerase subunit beta [Lactobacillus mellifer]
+1217 aa protein
+KJY60674.1 GI:797156814
+
+1311. DNA-directed RNA polymerase subunit beta' [Lactobacillus mellifer]
+1199 aa protein
+KJY60673.1 GI:797156813
+
+1312. Choloylglycine hydrolase [Lactobacillus mellifer]
+335 aa protein
+KJY60672.1 GI:797156812
+
+1313. hypothetical protein JG30_13580 [Lactobacillus mellifer]
+389 aa protein
+KJY60671.1 GI:797156811
+
+1314. Phosphate/phosphite/phosphonate ABC transporter, periplasmic binding protein [Lactobacillus mellifer]
+305 aa protein
+KJY60670.1 GI:797156810
+
+1315. Peptide methionine sulfoxide reductase MsrA [Lactobacillus mellifer]
+173 aa protein
+KJY60669.1 GI:797156809
+
+1316. hypothetical protein JG30_13550 [Lactobacillus mellifer]
+235 aa protein
+KJY60668.1 GI:797156808
+
+1317. 30S ribosomal protein S12 [Lactobacillus mellifer]
+137 aa protein
+KJY60667.1 GI:797156807
+
+1318. 30S ribosomal protein S7 [Lactobacillus mellifer]
+156 aa protein
+KJY60666.1 GI:797156806
+
+1319. Elongation factor G [Lactobacillus mellifer]
+695 aa protein
+KJY60665.1 GI:797156805
+
+1320. hypothetical protein JG30_13490 [Lactobacillus mellifer]
+343 aa protein
+KJY60664.1 GI:797156804
+
+1321. ABC transporter, ATP-binding protein [Lactobacillus mellifer]
+229 aa protein
+KJY60663.1 GI:797156803
+
+1322. FtsX family cell division protein [Lactobacillus mellifer]
+390 aa protein
+KJY60662.1 GI:797156802
+
+1323. MarR family transcriptional regulator [Lactobacillus mellifer]
+142 aa protein
+KJY60661.1 GI:797156801
+
+1324. Major facilitator superfamily permease [Lactobacillus mellifer]
+463 aa protein
+KJY60660.1 GI:797156800
+
+1325. hypothetical protein JG30_13440 [Lactobacillus mellifer]
+646 aa protein
+KJY60659.1 GI:797156799
+
+1326. hypothetical protein JG30_13430 [Lactobacillus mellifer]
+283 aa protein
+KJY60658.1 GI:797156798
+
+1327. putative glucose uptake protein [Lactobacillus mellifer]
+284 aa protein
+KJY60657.1 GI:797156797
+
+1328. Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase [Lactobacillus mellifer]
+341 aa protein
+KJY60656.1 GI:797156796
+
+1329. Oxidoreductase [Lactobacillus mellifer]
+333 aa protein
+KJY60655.1 GI:797156795
+
+1330. Asparagine synthetase [Lactobacillus mellifer]
+652 aa protein
+KJY60654.1 GI:797156794
+
+1331. Aldo/keto reductase [Lactobacillus mellifer]
+283 aa protein
+KJY60653.1 GI:797156793
+
+1332. Nucleoside 2-deoxyribosyltransferase family protein [Lactobacillus mellifer]
+156 aa protein
+KJY60652.1 GI:797156792
+
+1333. Pseudouridine synthase [Lactobacillus mellifer]
+284 aa protein
+KJY60651.1 GI:797156791
+
+1334. hypothetical protein JG30_13350 [Lactobacillus mellifer]
+369 aa protein
+KJY60650.1 GI:797156790
+
+1335. Acetolactate synthase [Lactobacillus mellifer]
+556 aa protein
+KJY60649.1 GI:797156789
+
+1336. putative acetolactate decarboxylase [Lactobacillus mellifer]
+235 aa protein
+KJY60648.1 GI:797156788
+
+1337. Uncharacterized protein JG30_13320 [Lactobacillus mellifer]
+182 aa protein
+KJY60647.1 GI:797156787
+
+1338. Heat shock protein HtpX [Lactobacillus mellifer]
+302 aa protein
+KJY60646.1 GI:797156786
+
+1339. hypothetical protein JG30_13300 [Lactobacillus mellifer]
+208 aa protein
+KJY60645.1 GI:797156785
+
+1340. Endoglucanase E-like protein, SGNH hydrolase family [Lactobacillus mellifer]
+319 aa protein
+KJY60644.1 GI:797156784
+
+1341. Polysaccharide biosynthesis family protein [Lactobacillus mellifer]
+550 aa protein
+KJY60643.1 GI:797156783
+
+1342. NADH oxidase [Lactobacillus mellifer]
+447 aa protein
+KJY60642.1 GI:797156782
+
+1343. hypothetical protein JG30_13260 [Lactobacillus mellifer]
+260 aa protein
+KJY60641.1 GI:797156781
+
+1344. UDP-glucose 4-epimerase [Lactobacillus mellifer]
+332 aa protein
+KJY60640.1 GI:797156780
+
+1345. Uncharacterized protein JG30_13240 [Lactobacillus mellifer]
+122 aa protein
+KJY60639.1 GI:797156779
+
+1346. hypothetical protein JG30_13230 [Lactobacillus mellifer]
+393 aa protein
+KJY60638.1 GI:797156778
+
+1347. putative flavoprotein [Lactobacillus mellifer]
+253 aa protein
+KJY60637.1 GI:797156777
+
+1348. thiol peroxidase [Lactobacillus mellifer]
+163 aa protein
+KJY60636.1 GI:797156776
+
+1349. hypothetical protein JG30_13200 [Lactobacillus mellifer]
+506 aa protein
+KJY60635.1 GI:797156775
+
+1350. hypothetical protein JG30_13190 [Lactobacillus mellifer]
+157 aa protein
+KJY60634.1 GI:797156774
+
+1351. hypothetical protein JG30_13180 [Lactobacillus mellifer]
+259 aa protein
+KJY60633.1 GI:797156773
+
+1352. hypothetical protein JG30_13170 [Lactobacillus mellifer]
+353 aa protein
+KJY60632.1 GI:797156772
+
+1353. hypothetical protein JG30_13160 [Lactobacillus mellifer]
+331 aa protein
+KJY60631.1 GI:797156771
+
+1354. hypothetical protein JG30_13150 [Lactobacillus mellifer]
+341 aa protein
+KJY60630.1 GI:797156770
+
+1355. hypothetical protein JG30_13140 [Lactobacillus mellifer]
+270 aa protein
+KJY60629.1 GI:797156769
+
+1356. hypothetical protein JG30_13130 [Lactobacillus mellifer]
+350 aa protein
+KJY60628.1 GI:797156768
+
+1357. hypothetical protein JG30_13120 [Lactobacillus mellifer]
+272 aa protein
+KJY60627.1 GI:797156767
+
+1358. hypothetical protein JG30_13110 [Lactobacillus mellifer]
+345 aa protein
+KJY60626.1 GI:797156766
+
+1359. hypothetical protein JG30_13100 [Lactobacillus mellifer]
+266 aa protein
+KJY60625.1 GI:797156765
+
+1360. hypothetical protein JG30_13090 [Lactobacillus mellifer]
+356 aa protein
+KJY60624.1 GI:797156764
+
+1361. hypothetical protein JG30_13080 [Lactobacillus mellifer]
+284 aa protein
+KJY60623.1 GI:797156763
+
+1362. hypothetical protein JG30_13070 [Lactobacillus mellifer]
+529 aa protein
+KJY60622.1 GI:797156762
+
+1363. Serine--tRNA ligase [Lactobacillus mellifer]
+425 aa protein
+KJY60621.1 GI:797156761
+
+1364. Ribosomal protein L34 [Lactobacillus mellifer]
+46 aa protein
+KJY60530.1 GI:797156664
+
+1365. Ribonuclease P protein component [Lactobacillus mellifer]
+118 aa protein
+KJY60529.1 GI:797156663
+
+1366. Membrane protein insertase YidC [Lactobacillus mellifer]
+278 aa protein
+KJY60528.1 GI:797156662
+
+1367. hypothetical protein JG30_16560 [Lactobacillus mellifer]
+220 aa protein
+KJY60527.1 GI:797156661
+
+1368. tRNA modification GTPase MnmE [Lactobacillus mellifer]
+461 aa protein
+KJY60526.1 GI:797156660
+
+1369. tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG [Lactobacillus mellifer]
+631 aa protein
+KJY60525.1 GI:797156659
+
+1370. Pyridine nucleotide-disulfide oxidoreductase [Lactobacillus mellifer]
+396 aa protein
+KJY60524.1 GI:797156658
+
+1371. Acetate kinase [Lactobacillus mellifer]
+399 aa protein
+KJY60523.1 GI:797156657
+
+1372. 1,4-dihydroxy-2-naphthoate octaprenyltransferase [Lactobacillus mellifer]
+299 aa protein
+KJY60522.1 GI:797156656
+
+1373. Polyprenyl synthetase [Lactobacillus mellifer]
+325 aa protein
+KJY60521.1 GI:797156655
+
+1374. Thiol reductant ABC exporter, CydC subunit [Lactobacillus mellifer]
+576 aa protein
+KJY60520.1 GI:797156654
+
+1375. Cytochrome D ABC transporter, ATP-binding and permease protein [Lactobacillus mellifer]
+576 aa protein
+KJY60519.1 GI:797156653
+
+1376. Cytochrome d ubiquinol oxidase, subunit II [Lactobacillus mellifer]
+339 aa protein
+KJY60518.1 GI:797156652
+
+1377. Cytochrome d ubiquinol oxidase subunit I [Lactobacillus mellifer]
+488 aa protein
+KJY60517.1 GI:797156651
+
+1378. hypothetical protein JG30_16450 [Lactobacillus mellifer]
+375 aa protein
+KJY60516.1 GI:797156650
+
+1379. Pyrroline-5-carboxylate reductase [Lactobacillus mellifer]
+256 aa protein
+KJY60515.1 GI:797156649
+
+1380. ABC transporter family protein [Lactobacillus mellifer]
+777 aa protein
+KJY60514.1 GI:797156648
+
+1381. 2-hydroxy-3-oxopropionate reductase [Lactobacillus mellifer]
+287 aa protein
+KJY60513.1 GI:797156647
+
+1382. hypothetical protein JG30_16400 [Lactobacillus mellifer]
+399 aa protein
+KJY60512.1 GI:797156646
+
+1383. hypothetical protein JG30_16390 [Lactobacillus mellifer]
+231 aa protein
+KJY60511.1 GI:797156645
+
+1384. uncharacterized protein JG30_16380 [Lactobacillus mellifer]
+410 aa protein
+KJY60510.1 GI:797156644
+
+1385. Glutamate ABC superfamily ATP binding cassette transporter, membrane protein [Lactobacillus mellifer]
+497 aa protein
+KJY60509.1 GI:797156643
+
+1386. Polar amino acid transport system ATP-binding protein [Lactobacillus mellifer]
+246 aa protein
+KJY60508.1 GI:797156642
+
+1387. Transporter, putative Lysine:H+ symporter [Lactobacillus mellifer]
+477 aa protein
+KJY60507.1 GI:797156641
+
+1388. Integral membrane protein [Lactobacillus mellifer]
+197 aa protein
+KJY60506.1 GI:797156640
+
+1389. putative Na+/H+ antiporter [Lactobacillus mellifer]
+654 aa protein
+KJY60505.1 GI:797156639
+
+1390. Transport protein [Lactobacillus mellifer]
+477 aa protein
+KJY60504.1 GI:797156638
+
+1391. CobB/CobQ-like glutamine amidotransferase domain protein [Lactobacillus mellifer]
+221 aa protein
+KJY60503.1 GI:797156637
+
+1392. GCN5-related N-acetyltransferase [Lactobacillus mellifer]
+174 aa protein
+KJY60502.1 GI:797156636
+
+1393. Ribosomal RNA small subunit methyltransferase G [Lactobacillus mellifer]
+238 aa protein
+KJY60501.1 GI:797156635
+
+1394. Stage 0 DNA-binding protein [Lactobacillus mellifer]
+278 aa protein
+KJY60500.1 GI:797156634
+
+1395. ATPase, ParA family [Lactobacillus mellifer]
+254 aa protein
+KJY60499.1 GI:797156633
+
+1396. Chromosome partitioning protein SpoOJ [Lactobacillus mellifer]
+287 aa protein
+KJY60498.1 GI:797156632
+
+1397. Uncharacterized protein JG30_16250 [Lactobacillus mellifer]
+83 aa protein
+KJY60497.1 GI:797156631
+
+1398. GTP-binding protein YchF [Lactobacillus mellifer]
+366 aa protein
+KJY60496.1 GI:797156630
+
+1399. hypothetical protein JG30_16230 [Lactobacillus mellifer]
+250 aa protein
+KJY60495.1 GI:797156629
+
+1400. Uncharacterized protein JG30_16220 [Lactobacillus mellifer]
+119 aa protein
+KJY60494.1 GI:797156628
+
+1401. Phosphopantothenoylcysteine decarboxylase/phosphopantothenate/cysteine ligase [Lactobacillus mellifer]
+402 aa protein
+KJY60493.1 GI:797156627
+
+1402. Ribose 5-phosphate isomerase B [Lactobacillus mellifer]
+153 aa protein
+KJY60492.1 GI:797156626
+
+1403. Ribulose-phosphate 3-epimerase [Lactobacillus mellifer]
+219 aa protein
+KJY60491.1 GI:797156625
+
+1404. Ribokinase [Lactobacillus mellifer]
+306 aa protein
+KJY60490.1 GI:797156624
+
+1405. Azaleucine resistance protein AzlC [Lactobacillus mellifer]
+234 aa protein
+KJY60489.1 GI:797156623
+
+1406. Two-component response regulator [Lactobacillus mellifer]
+240 aa protein
+KJY60488.1 GI:797156622
+
+1407. Two component sensor transduction histidine kinase [Lactobacillus mellifer]
+626 aa protein
+KJY60487.1 GI:797156621
+
+1408. hypothetical protein JG30_16130 [Lactobacillus mellifer]
+441 aa protein
+KJY60486.1 GI:797156620
+
+1409. hypothetical protein JG30_16120 [Lactobacillus mellifer]
+272 aa protein
+KJY60485.1 GI:797156619
+
+1410. Zn-dependent hydrolase, beta-lactamase superfamily [Lactobacillus mellifer]
+266 aa protein
+KJY60484.1 GI:797156618
+
+1411. PTS Fru IICB [Lactobacillus mellifer]
+478 aa protein
+KJY60483.1 GI:797156617
+
+1412. PTS IIB domain transcriptional regulator [Lactobacillus mellifer]
+675 aa protein
+KJY60482.1 GI:797156616
+
+1413. PTS Fru IIA [Lactobacillus mellifer]
+142 aa protein
+KJY60481.1 GI:797156615
+
+1414. Mannitol-1-phosphate 5-dehydrogenase [Lactobacillus mellifer]
+393 aa protein
+KJY60480.1 GI:797156614
+
+1415. 3-hexulose-6-phosphate synthase [Lactobacillus mellifer]
+208 aa protein
+KJY60479.1 GI:797156613
+
+1416. 6-phospho 3-hexuloisomerase [Lactobacillus mellifer]
+185 aa protein
+KJY60478.1 GI:797156612
+
+1417. Serine protease do-like htrA [Lactobacillus mellifer]
+416 aa protein
+KJY60477.1 GI:797156611
+
+1418. Ribosomal RNA large subunit methyltransferase H [Lactobacillus mellifer]
+159 aa protein
+KJY60476.1 GI:797156610
+
+1419. Peptidoglycan binding protein [Lactobacillus mellifer]
+210 aa protein
+KJY60475.1 GI:797156609
+
+1420. Uncharacterized protein JG30_16010 [Lactobacillus mellifer]
+394 aa protein
+KJY60474.1 GI:797156608
+
+1421. Imidazolonepropionase related amidohydrolase [Lactobacillus mellifer]
+396 aa protein
+KJY60473.1 GI:797156607
+
+1422. PTS Man IIB [Lactobacillus mellifer]
+157 aa protein
+KJY60472.1 GI:797156606
+
+1423. PTS Man IIC [Lactobacillus mellifer]
+252 aa protein
+KJY60471.1 GI:797156605
+
+1424. PTS Man IID [Lactobacillus mellifer]
+282 aa protein
+KJY60470.1 GI:797156604
+
+1425. Alcohol dehydrogenase [Lactobacillus mellifer]
+350 aa protein
+KJY60469.1 GI:797156603
+
+1426. Transcriptional regulator, RpiR family [Lactobacillus mellifer]
+258 aa protein
+KJY60468.1 GI:797156602
+
+1427. Tagatose-6-phosphate kinase / 1-phosphofructokinase [Lactobacillus mellifer]
+313 aa protein
+KJY60467.1 GI:797156601
+
+1428. Tagatose 1,6-diphosphate aldolase [Lactobacillus mellifer]
+333 aa protein
+KJY60466.1 GI:797156600
+
+1429. Major facilitator superfamily transporter permease [Lactobacillus mellifer]
+396 aa protein
+KJY60465.1 GI:797156599
+
+1430. Adenine deaminase [Lactobacillus mellifer]
+340 aa protein
+KJY60464.1 GI:797156598
+
+1431. Xanthine/uracil/vitamin C permease [Lactobacillus mellifer]
+451 aa protein
+KJY60463.1 GI:797156597
+
+1432. Adenine deaminase [Lactobacillus mellifer]
+593 aa protein
+KJY60462.1 GI:797156596
+
+1433. uncharacterized protein JG30_15880 [Lactobacillus mellifer]
+259 aa protein
+KJY60461.1 GI:797156595
+
+1434. Penicillin V acylase [Lactobacillus mellifer]
+339 aa protein
+KJY60460.1 GI:797156594
+
+1435. Elongation factor 4 [Lactobacillus mellifer]
+600 aa protein
+KJY60459.1 GI:797156593
+
+1436. uncharacterized protein JG30_15820 [Lactobacillus mellifer]
+296 aa protein
+KJY60458.1 GI:797156592
+
+1437. putative Chlorophyll synthesis pathway, BchC [Lactobacillus mellifer]
+359 aa protein
+KJY60457.1 GI:797156591
+
+1438. PTS Gat IIC [Lactobacillus mellifer]
+422 aa protein
+KJY60456.1 GI:797156590
+
+1439. PTS Gat IIB [Lactobacillus mellifer]
+102 aa protein
+KJY60455.1 GI:797156589
+
+1440. PTS Gat IIA [Lactobacillus mellifer]
+156 aa protein
+KJY60454.1 GI:797156588
+
+1441. Transcription regulator [Lactobacillus mellifer]
+256 aa protein
+KJY60453.1 GI:797156587
+
+1442. PTS Fru IICB [Lactobacillus mellifer]
+604 aa protein
+KJY60452.1 GI:797156586
+
+1443. PTS IIA domain transcriptional regulator [Lactobacillus mellifer]
+695 aa protein
+KJY60451.1 GI:797156585
+
+1444. PTS Fru IIA [Lactobacillus mellifer]
+147 aa protein
+KJY60450.1 GI:797156584
+
+1445. Mannitol-1-phosphate 5-dehydrogenase [Lactobacillus mellifer]
+385 aa protein
+KJY60449.1 GI:797156583
+
+1446. putative phosphoketolase [Lactobacillus mellifer]
+796 aa protein
+KJY60448.1 GI:797156582
+
+1447. Transcription regulator [Lactobacillus mellifer]
+251 aa protein
+KJY60447.1 GI:797156581
+
+1448. PTS Gat IIA [Lactobacillus mellifer]
+159 aa protein
+KJY60446.1 GI:797156580
+
+1449. PTS Gat IIB [Lactobacillus mellifer]
+99 aa protein
+KJY60445.1 GI:797156579
+
+1450. PTS Gat IIC [Lactobacillus mellifer]
+477 aa protein
+KJY60444.1 GI:797156578
+
+1451. putative Zinc-binding alcohol dehydrogenase [Lactobacillus mellifer]
+357 aa protein
+KJY60443.1 GI:797156577
+
+1452. L-ribulose-5-phosphate 4-epimerase [Lactobacillus mellifer]
+244 aa protein
+KJY60442.1 GI:797156576
+
+1453. hypothetical protein JG30_15650 [Lactobacillus mellifer]
+125 aa protein
+KJY60441.1 GI:797156575
+
+1454. PTS Gut IIB [Lactobacillus mellifer]
+341 aa protein
+KJY60440.1 GI:797156574
+
+1455. PTS Gut IIC [Lactobacillus mellifer]
+194 aa protein
+KJY60439.1 GI:797156573
+
+1456. PTS Gut IIA [Lactobacillus mellifer]
+120 aa protein
+KJY60438.1 GI:797156572
+
+1457. Sorbitol-6-phosphate 2-dehydrogenase [Lactobacillus mellifer]
+415 aa protein
+KJY60437.1 GI:797156571
+
+1458. Dihydroxyacetone kinase, L subunit [Lactobacillus mellifer]
+218 aa protein
+KJY60436.1 GI:797156570
+
+1459. Dihydroxyacetone kinase, DhaK subunit [Lactobacillus mellifer]
+329 aa protein
+KJY60435.1 GI:797156569
+
+1460. Dihydroxyacetone kinase, phosphotransfer subunit [Lactobacillus mellifer]
+131 aa protein
+KJY60434.1 GI:797156568
+
+1461. Triosephosphate isomerase [Lactobacillus mellifer]
+260 aa protein
+KJY60433.1 GI:797156567
+
+1462. Sugar-phosphate isomerase, RpiB/LacA/LacB family [Lactobacillus mellifer]
+154 aa protein
+KJY60432.1 GI:797156566
+
+1463. putative translaldolase [Lactobacillus mellifer]
+239 aa protein
+KJY60431.1 GI:797156565
+
+1464. Transketolase [Lactobacillus mellifer]
+665 aa protein
+KJY60430.1 GI:797156564
+
+1465. Transcriptional regulator, DeoR family [Lactobacillus mellifer]
+260 aa protein
+KJY60429.1 GI:797156563
+
+1466. Glycerol uptake facilitator [Lactobacillus mellifer]
+236 aa protein
+KJY60428.1 GI:797156562
+
+1467. Transcriptional regulator, GntR family [Lactobacillus mellifer]
+246 aa protein
+KJY60427.1 GI:797156561
+
+1468. Diacetyl reductase ((R)-acetoin forming) [Lactobacillus mellifer]
+260 aa protein
+KJY60426.1 GI:797156560
+
+1469. PTS Man IIA [Lactobacillus mellifer]
+148 aa protein
+KJY60425.1 GI:797156559
+
+1470. PTS Man IIB [Lactobacillus mellifer]
+158 aa protein
+KJY60424.1 GI:797156558
+
+1471. PTS Man IIC [Lactobacillus mellifer]
+261 aa protein
+KJY60423.1 GI:797156557
+
+1472. PTS Man IID [Lactobacillus mellifer]
+272 aa protein
+KJY60422.1 GI:797156556
+
+1473. NlpC/P60 family protein [Lactobacillus mellifer]
+405 aa protein
+KJY60421.1 GI:797156555
+
+1474. Permease of the major facilitator superfamily [Lactobacillus mellifer]
+465 aa protein
+KJY60420.1 GI:797156554
+
+1475. General stress protein Gls20 [Lactobacillus mellifer]
+172 aa protein
+KJY60419.1 GI:797156553
+
+1476. hypothetical protein JG30_15400 [Lactobacillus mellifer]
+196 aa protein
+KJY60418.1 GI:797156552
+
+1477. Tyrosine--tRNA ligase [Lactobacillus mellifer]
+417 aa protein
+KJY60417.1 GI:797156551
+
+1478. PRD doamin transcriptional regulator [Lactobacillus mellifer]
+280 aa protein
+KJY60416.1 GI:797156550
+
+1479. PTS Glc IIBCA [Lactobacillus mellifer]
+639 aa protein
+KJY60415.1 GI:797156549
+
+1480. 6-phospho-beta-glucosidase [Lactobacillus mellifer]
+486 aa protein
+KJY60414.1 GI:797156548
+
+1481. hypothetical protein JG30_15350 [Lactobacillus mellifer]
+1298 aa protein
+KJY60413.1 GI:797156547
+
+1482. Uncharacterized protein JG30_15340 [Lactobacillus mellifer]
+62 aa protein
+KJY60412.1 GI:797156546
+
+1483. hypothetical protein JG30_15320 [Lactobacillus mellifer]
+255 aa protein
+KJY60411.1 GI:797156545
+
+1484. 3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ [Lactobacillus mellifer]
+143 aa protein
+KJY60410.1 GI:797156544
+
+1485. Transcriptional regulator of fatty acid biosynthesis FabT [Lactobacillus mellifer]
+154 aa protein
+KJY60409.1 GI:797156543
+
+1486. 3-oxoacyl-[acyl-carrier-protein] synthase 3 [Lactobacillus mellifer]
+323 aa protein
+KJY60408.1 GI:797156542
+
+1487. Acyl carrier protein [Lactobacillus mellifer]
+82 aa protein
+KJY60407.1 GI:797156541
+
+1488. Enoyl-[acyl-carrier-protein] reductase [Lactobacillus mellifer]
+319 aa protein
+KJY60406.1 GI:797156540
+
+1489. Malonyl CoA-acyl carrier protein transacylase [Lactobacillus mellifer]
+309 aa protein
+KJY60405.1 GI:797156539
+
+1490. 3-oxoacyl-[acyl-carrier-protein] reductase [Lactobacillus mellifer]
+244 aa protein
+KJY60404.1 GI:797156538
+
+1491. 3-oxoacyl-[acyl-carrier-protein] synthase 2 [Lactobacillus mellifer]
+410 aa protein
+KJY60403.1 GI:797156537
+
+1492. Biotin carboxyl carrier protein of acetyl-CoA carboxylase [Lactobacillus mellifer]
+163 aa protein
+KJY60402.1 GI:797156536
+
+1493. 3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ [Lactobacillus mellifer]
+148 aa protein
+KJY60401.1 GI:797156535
+
+1494. putative acetyl-CoA carboxylase, biotin carboxylase subunit [Lactobacillus mellifer]
+463 aa protein
+KJY60400.1 GI:797156534
+
+1495. Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta [Lactobacillus mellifer]
+288 aa protein
+KJY60399.1 GI:797156533
+
+1496. Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha [Lactobacillus mellifer]
+256 aa protein
+KJY60398.1 GI:797156532
+
+1497. hypothetical protein JG30_15180 [Lactobacillus mellifer]
+328 aa protein
+KJY60397.1 GI:797156531
+
+1498. Response regulator [Lactobacillus mellifer]
+229 aa protein
+KJY60396.1 GI:797156530
+
+1499. hypothetical protein JG30_15160 [Lactobacillus mellifer]
+353 aa protein
+KJY60395.1 GI:797156529
+
+1500. UDP-N-acetylmuramyl-tripeptide synthetase [Lactobacillus mellifer]
+510 aa protein
+KJY60394.1 GI:797156528
+
+1501. Aspartate racemase [Lactobacillus mellifer]
+246 aa protein
+KJY60393.1 GI:797156527
+
+1502. Cell envelope-related function transcriptional attenuator common domain protein [Lactobacillus mellifer]
+419 aa protein
+KJY60392.1 GI:797156526
+
+1503. ABC transporter, ATP-binding protein [Lactobacillus mellifer]
+513 aa protein
+KJY60391.1 GI:797156525
+
+1504. putative surface protein, partial [Lactobacillus mellifer]
+696 aa protein
+KJY60120.1 GI:797156247
+
+1505. putative surface protein, partial [Lactobacillus mellifer]
+618 aa protein
+KJY60119.1 GI:797156238
+
+1506. putative surface protein, partial [Lactobacillus mellifer]
+609 aa protein
+KJY60012.1 GI:797156127
+
+1507. putative surface protein, partial (plasmid) [Lactobacillus mellifer]
+550 aa protein
+KJY59921.1 GI:797156019
+
+1508. MucBP domain protein, partial (plasmid) [Lactobacillus mellifer]
+120 aa protein
+KJY59919.1 GI:797156013
+
+1509. putative surface protein, partial (plasmid) [Lactobacillus mellifer]
+680 aa protein
+KJY59918.1 GI:797156012
+
+1510. hypothetical protein JG30_12460 (plasmid) [Lactobacillus mellifer]
+128 aa protein
+KJY59750.1 GI:797155839
+
+1511. hypothetical protein JG30_12450 (plasmid) [Lactobacillus mellifer]
+78 aa protein
+KJY59749.1 GI:797155838
+
+1512. putative chromosome partitioning ATPase (plasmid) [Lactobacillus mellifer]
+271 aa protein
+KJY59748.1 GI:797155837
+
+1513. Uncharacterized protein JG30_12430 (plasmid) [Lactobacillus mellifer]
+110 aa protein
+KJY59747.1 GI:797155836
+
+1514. Uncharacterized protein JG30_12420 (plasmid) [Lactobacillus mellifer]
+104 aa protein
+KJY59746.1 GI:797155835
+
+1515. uncharacterized protein JG30_12410 (plasmid) [Lactobacillus mellifer]
+98 aa protein
+KJY59745.1 GI:797155834
+
+1516. uncharacterized protein JG30_12400 (plasmid) [Lactobacillus mellifer]
+87 aa protein
+KJY59744.1 GI:797155833
+
+1517. uncharacterized protein JG30_12390 (plasmid) [Lactobacillus mellifer]
+98 aa protein
+KJY59743.1 GI:797155832
+
+1518. uncharacterized protein JG30_12380 (plasmid) [Lactobacillus mellifer]
+99 aa protein
+KJY59742.1 GI:797155831
+
+1519. hypothetical protein JG30_12350 (plasmid) [Lactobacillus mellifer]
+191 aa protein
+KJY59741.1 GI:797155830
+
+1520. Replication-associated protein (plasmid) [Lactobacillus mellifer]
+269 aa protein
+KJY59740.1 GI:797155829
+
+1521. Uncharacterized protein JG30_12330 (plasmid) [Lactobacillus mellifer]
+117 aa protein
+KJY59739.1 GI:797155828
+
+1522. hypothetical protein JG30_12320 (plasmid) [Lactobacillus mellifer]
+262 aa protein
+KJY59738.1 GI:797155827
+
+1523. Phage integrase family protein (plasmid) [Lactobacillus mellifer]
+195 aa protein
+KJY59737.1 GI:797155826
+
+1524. putative transposase (plasmid) [Lactobacillus mellifer]
+102 aa protein
+KJY59736.1 GI:797155825
+
+1525. Transposase (plasmid) [Lactobacillus mellifer]
+120 aa protein
+KJY59735.1 GI:797155824
+
+1526. 1,4-dihydroxy-2-naphthoate octaprenyltransferase (plasmid) [Lactobacillus mellifer]
+306 aa protein
+KJY59734.1 GI:797155823
+
+1527. Uncharacterized protein JG30_12270 (plasmid) [Lactobacillus mellifer]
+159 aa protein
+KJY59733.1 GI:797155822
+
+1528. Replication initiation protein RepA (plasmid) [Lactobacillus mellifer]
+311 aa protein
+KJY59732.1 GI:797155821
+
+1529. Tyrosine recombinase Int (plasmid) [Lactobacillus mellifer]
+195 aa protein
+KJY59731.1 GI:797155820
+
+1530. RelB (plasmid) [Lactobacillus mellifer]
+92 aa protein
+KJY59730.1 GI:797155819
+
+1531. RelE (plasmid) [Lactobacillus mellifer]
+100 aa protein
+KJY59729.1 GI:797155818
+
+1532. DNA-entry nuclease (Competence-specific nuclease) (plasmid) [Lactobacillus mellifer]
+280 aa protein
+KJY59728.1 GI:797155817
+
+1533. hypothetical protein JG30_12180 (plasmid) [Lactobacillus mellifer]
+262 aa protein
+KJY59727.1 GI:797155816
+
+1534. uncharacterized protein JG30_12170 (plasmid) [Lactobacillus mellifer]
+71 aa protein
+KJY59726.1 GI:797155815
+
+1535. Plasmid stabilization system protein (plasmid) [Lactobacillus mellifer]
+93 aa protein
+KJY59725.1 GI:797155814
+
+1536. hypothetical protein JG30_13040 (plasmid) [Lactobacillus mellifer]
+254 aa protein
+KJY59526.1 GI:797155609
+
+1537. hypothetical protein JG30_13030 (plasmid) [Lactobacillus mellifer]
+290 aa protein
+KJY59525.1 GI:797155608
+
+1538. hypothetical protein JG30_13010 (plasmid) [Lactobacillus mellifer]
+145 aa protein
+KJY59524.1 GI:797155607
+
+1539. ATPase, AAA family (plasmid) [Lactobacillus mellifer]
+327 aa protein
+KJY59523.1 GI:797155606
+
+1540. hypothetical protein JG30_12990 (plasmid) [Lactobacillus mellifer]
+84 aa protein
+KJY59522.1 GI:797155605
+
+1541. hypothetical protein JG30_12980 (plasmid) [Lactobacillus mellifer]
+106 aa protein
+KJY59521.1 GI:797155604
+
+1542. hypothetical protein JG30_12970 (plasmid) [Lactobacillus mellifer]
+152 aa protein
+KJY59520.1 GI:797155603
+
+1543. hypothetical protein JG30_12960 (plasmid) [Lactobacillus mellifer]
+348 aa protein
+KJY59519.1 GI:797155602
+
+1544. hypothetical protein JG30_12930 (plasmid) [Lactobacillus mellifer]
+100 aa protein
+KJY59518.1 GI:797155601
+
+1545. hypothetical protein JG30_12910 (plasmid) [Lactobacillus mellifer]
+253 aa protein
+KJY59517.1 GI:797155600
+
+1546. Transcriptional regulator (plasmid) [Lactobacillus mellifer]
+91 aa protein
+KJY59516.1 GI:797155599
+
+1547. Toxin-antitoxin system, toxin component, RelE family (plasmid) [Lactobacillus mellifer]
+120 aa protein
+KJY59515.1 GI:797155598
+
+1548. hypothetical protein JG30_12880 (plasmid) [Lactobacillus mellifer]
+274 aa protein
+KJY59514.1 GI:797155597
+
+1549. hypothetical protein JG30_12870 (plasmid) [Lactobacillus mellifer]
+318 aa protein
+KJY59513.1 GI:797155596
+
+1550. hypothetical protein JG30_12860 (plasmid) [Lactobacillus mellifer]
+189 aa protein
+KJY59512.1 GI:797155595
+
+1551. hypothetical protein JG30_12850 (plasmid) [Lactobacillus mellifer]
+207 aa protein
+KJY59511.1 GI:797155594
+
+1552. hypothetical protein JG30_12840 (plasmid) [Lactobacillus mellifer]
+1064 aa protein
+KJY59510.1 GI:797155593
+
+1553. uncharacterized protein JG30_12820 (plasmid) [Lactobacillus mellifer]
+619 aa protein
+KJY59509.1 GI:797155592
+
+1554. 5-methylcytosine-specific restriction enzyme MRR (plasmid) [Lactobacillus mellifer]
+280 aa protein
+KJY59508.1 GI:797155591
+
+1555. hypothetical protein JG30_12800 (plasmid) [Lactobacillus mellifer]
+159 aa protein
+KJY59507.1 GI:797155590
+
+1556. uncharacterized protein JG30_12790 (plasmid) [Lactobacillus mellifer]
+529 aa protein
+KJY59506.1 GI:797155589
+
+1557. hypothetical protein JG30_12780 (plasmid) [Lactobacillus mellifer]
+274 aa protein
+KJY59505.1 GI:797155588
+
+1558. hypothetical protein JG30_12770 (plasmid) [Lactobacillus mellifer]
+313 aa protein
+KJY59504.1 GI:797155587
+
+1559. hypothetical protein JG30_12760 (plasmid) [Lactobacillus mellifer]
+138 aa protein
+KJY59503.1 GI:797155586
+
+1560. hypothetical protein JG30_12750 (plasmid) [Lactobacillus mellifer]
+121 aa protein
+KJY59502.1 GI:797155585
+
+1561. hypothetical protein JG30_12740 (plasmid) [Lactobacillus mellifer]
+135 aa protein
+KJY59501.1 GI:797155584
+
+1562. hypothetical protein JG30_12730 (plasmid) [Lactobacillus mellifer]
+490 aa protein
+KJY59500.1 GI:797155583
+
+1563. hypothetical protein JG30_12720 (plasmid) [Lactobacillus mellifer]
+236 aa protein
+KJY59499.1 GI:797155582
+
+1564. hypothetical protein JG30_12710 (plasmid) [Lactobacillus mellifer]
+231 aa protein
+KJY59498.1 GI:797155581
+
+1565. hypothetical protein JG30_12700 (plasmid) [Lactobacillus mellifer]
+115 aa protein
+KJY59497.1 GI:797155580
+
+1566. hypothetical protein JG30_12690 (plasmid) [Lactobacillus mellifer]
+719 aa protein
+KJY59496.1 GI:797155579
+
+1567. hypothetical protein JG30_12680 (plasmid) [Lactobacillus mellifer]
+752 aa protein
+KJY59495.1 GI:797155578
+
+1568. hypothetical protein JG30_12670 (plasmid) [Lactobacillus mellifer]
+123 aa protein
+KJY59494.1 GI:797155577
+
+1569. hypothetical protein JG30_12660 (plasmid) [Lactobacillus mellifer]
+137 aa protein
+KJY59493.1 GI:797155576
+
+1570. Uncharacterized protein JG30_12650 (plasmid) [Lactobacillus mellifer]
+650 aa protein
+KJY59492.1 GI:797155575
+
+1571. hypothetical protein JG30_12640 (plasmid) [Lactobacillus mellifer]
+114 aa protein
+KJY59491.1 GI:797155574
+
+1572. hypothetical protein JG30_12630 (plasmid) [Lactobacillus mellifer]
+883 aa protein
+KJY59490.1 GI:797155573
+
+1573. hypothetical protein JG30_12620 (plasmid) [Lactobacillus mellifer]
+1455 aa protein
+KJY59489.1 GI:797155572
+
+1574. hypothetical protein JG30_12610 (plasmid) [Lactobacillus mellifer]
+1190 aa protein
+KJY59488.1 GI:797155571
+
+1575. hypothetical protein JG30_12600 (plasmid) [Lactobacillus mellifer]
+279 aa protein
+KJY59487.1 GI:797155570
+
+1576. hypothetical protein JG30_12590 (plasmid) [Lactobacillus mellifer]
+657 aa protein
+KJY59486.1 GI:797155569
+
+1577. hypothetical protein JG30_12570 (plasmid) [Lactobacillus mellifer]
+439 aa protein
+KJY59485.1 GI:797155568
+
+1578. hypothetical protein JG30_12560 (plasmid) [Lactobacillus mellifer]
+223 aa protein
+KJY59484.1 GI:797155567
+
+1579. hypothetical protein JG30_12550 (plasmid) [Lactobacillus mellifer]
+219 aa protein
+KJY59483.1 GI:797155566
+
+1580. hypothetical protein JG30_12540 (plasmid) [Lactobacillus mellifer]
+175 aa protein
+KJY59482.1 GI:797155565
+
+1581. hypothetical protein JG30_12530 (plasmid) [Lactobacillus mellifer]
+307 aa protein
+KJY59481.1 GI:797155564
+
+1582. restriction endonuclease subunit M (plasmid) [Lactobacillus mellifer]
+479 aa protein
+KJY59480.1 GI:797155563
+
+1583. uncharacterized protein JG30_12490 (plasmid) [Lactobacillus mellifer]
+825 aa protein
+KJY59479.1 GI:797155562
+
+1584. putative surface protein, partial (plasmid) [Lactobacillus mellifer]
+945 aa protein
+KJY59478.1 GI:797155561
+
+1585. putative surface protein, partial (plasmid) [Lactobacillus mellifer]
+729 aa protein
+KJY59451.1 GI:797155529
+
+1586. Mobilization protein (plasmid) [Lactobacillus mellifer]
+106 aa protein
+KJY59345.1 GI:797155418
+
+1587. Glycosyl transferase 2 family protein, partial (plasmid) [Lactobacillus mellifer]
+150 aa protein
+KJY59344.1 GI:797155417
+
+1588. MobA family protein, partial (plasmid) [Lactobacillus mellifer]
+166 aa protein
+KJY59343.1 GI:797155318
+
+1589. Plasmid replication initiation protein, partial (plasmid) [Lactobacillus mellifer]
+258 aa protein
+KJY59214.1 GI:797155279
+
+1590. MobA family protein, partial (plasmid) [Lactobacillus mellifer]
+193 aa protein
+KJY59213.1 GI:797155278
+
+1591. Plasmid replication initiation protein, partial (plasmid) [Lactobacillus mellifer]
+44 aa protein
+KJY59136.1 GI:797155156
+
+1592. Glycosyl transferase 2 family protein, partial (plasmid) [Lactobacillus mellifer]
+260 aa protein
+KJY59081.1 GI:797155093
