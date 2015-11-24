@@ -1,5 +1,9 @@
 #Trinity submission script
 
+#if combined fastq file from SRA then run fastq-splitter.pl to split into two files
+
+awk 'NR%2==1 { print $0 "/1" } ; NR%2==0 { print substr($0,0,length($0)/2) }'
+
 module load trinity-rnaseq
 qsub -I 
 Trinity --seqType fq --left reads_1.fq --right reads_2.fq --CPU 6 --max_memory 20G
