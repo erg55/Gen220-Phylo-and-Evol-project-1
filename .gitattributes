@@ -1,0 +1,3 @@
+.fa filter=lfs -crlf
+.fasta filter=lfs -crlf
+.zip filter=lfs -crlf
