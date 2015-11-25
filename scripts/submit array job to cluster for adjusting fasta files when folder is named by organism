@@ -1,39 +1,15 @@
 module load orthomcl
 
-qsub -I $PBS_ARRAYID orthomclAdjustFasta $folder $file 1 
+qsub -I $PBS_ARRAYID orthomclAdjustFasta $folder $fastafile 1 
+
+
+# folders must be a three or four letter unique abbreviation for the taxon (can grep out the genus name beforehand)
 
 for folder in */
 do
  echo $folder
- for file in $folder/*.fasta*
+ for fastafile in "$folder"*.fasta*
   do
-    echo $file
-    done
+    echo $fastafile
+  done
 done
-
-
-
-
-Usage:
-  orthomclAdjustFasta taxon_code fasta_file id_field
-  
-where:
-  taxon_code:  a three or four letter unique abbreviation for the taxon
-  fasta_file:  the input fasta file
-  id_field:    a number indicating what field in the definition line contains
-               the protein ID.  Fields are separated by either ' ' or '|'. Any
-               spaces immediately following the '>' are ignored.  The first
-               field is 1. For example, in the following definition line, the
-               ID (AP_000668.1) is in field 4:  >gi|89106888|ref|AP_000668.1|
-
-Input file requirements:
-  (1) .fasta format
-  (2) a unique id is provided for each sequence, and is in the field specified
-      by id_field
-
-Output file format:
-  (1) .fasta format
-  (2) definition line is of the form:
-         >taxoncode|unique_protein_id
-
-The output file is named taxoncode.fasta
