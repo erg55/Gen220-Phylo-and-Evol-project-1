@@ -16,7 +16,6 @@ do
  for fastafile in "$folder"*.fasta*
   do
     echo $fastafile
-    orthomclAdjustFasta $folder $fastafile 1 
+    orthomclAdjustFasta $folder $fastafile 2 
   done
-  let PBS_ARRAYID=$(($PBS_ARRAYID + 1))
 done
