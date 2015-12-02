@@ -1,0 +1,5 @@
+for x in *.fasta
+do
+echo $x
+cat $x | sed "s/lcl\|//g" | sed "s/>(\w)(\w)(\w\w)/>\u\1actobacillus \l\2\3 /g >$x.new
+done
