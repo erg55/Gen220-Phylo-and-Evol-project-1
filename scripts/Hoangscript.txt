@@ -1,5 +1,5 @@
 ##start UNIX for loop here to parse out all pepID by group, makes too many new files, still need to pipe
-awk '{print $3}' test.fasta.new > short.fasta.new # pulls out just the GI using the 3rd space separated
+awk '{print $3}' test.fasta.new > short.fasta.new # pulls out just the GI using the 3rd space separated, the original file was out of the "Fixed" folder and not the higher directory
 sed -i 's/[|]//g' short.fasta.new # removes pipe symbol
 sed '/^$/d' short.fasta.new > noline.fasta.new 
 
