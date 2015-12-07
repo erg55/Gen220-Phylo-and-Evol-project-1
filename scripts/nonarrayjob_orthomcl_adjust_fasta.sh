@@ -3,16 +3,19 @@
 
 module load orthomcl
 
-# 38 files to be parallelized
+# $u files to be parallelized (as many as in arraylist.txt)
 unset folder
 
-for i in {1..37}
+u="$(wc -l arraylist.txt |cut -f1 -d " ")"
+echo ${u}
+for i in $(eval echo "{1..$u}")
 do
+echo ${i}
 folder=$(sed -n -e "$i p" arraylist.txt)
-
 # folders must be a three or four letter unique abbreviation for the taxon, fasta file is in folder
 for fastafile in ./"$folder"/*.fasta*
 do
 	orthomclAdjustFasta $folder " $fastafile" 2 
 done
 done
+
