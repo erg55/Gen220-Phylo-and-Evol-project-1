@@ -1,0 +1,1 @@
+# This is the reassembled (with Velvet) and reannotated (with GeneMarkHMM using L. kefiranofaciens as reference) version of Lactobacillus kimbladii. It appears to have more protein sequences (2176 compared to 1891)

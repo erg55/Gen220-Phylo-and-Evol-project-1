@@ -1,0 +1,25 @@
+rsync 'sra_data.fastq (1).gz' egord003@pigeon.bioinfo.ucr.edu:~/bigdata
+
+module load velvet
+#fastq files can be zipped...should be interleaved.
+
+#sets kmer size as 29 and 31 (the maximum)
+
+for x in . 
+do
+velveth auto 29,31,2 -fastq.gz -shortPaired x/*.gz
+done
+
+for x in . 
+do
+velvetg x/auto_29 -exp_cov auto
+done
+
+
+# Estimated Coverage = 54.671605
+# [74.800984] Estimated Coverage cutoff = 27.335802
+# Final graph has 1222 nodes and n50 of 30922, max 105500, total 2116838, using 1548491/1567264 reads
+
+grep "NODE" contigs.fa | wc
+
+#618 contigs
