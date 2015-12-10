@@ -33,3 +33,17 @@ mcl mclInput --abc -I 1.5 -o groups_1.5.txt
 
 #name the groups
 orthomclMclToGroups OG1.5_ 1000 < groups_1.5.txt > named_groups_1.5.txt
+
+# use CopyNumberGen.sh and ExtractSCOs.sh to get single copy orthologs
+
+cut -f 1 scos_list.txt > ids.txt
+while read line; do grep -w "$line" named_groups_1.5.txt; done<ids.txt >
+named_sco_groups_1.5.txt
+
+#extractseqs from named_group_1.5.txt with ExtractSeq.sh 
+
+#extract all singletons or unmatched orthologs
+orthomclSingletons ./GEN220_2015/data/Lactobacillus/goodProteins.fasta named_sco_groups.txt >>singletons.txt
+
+#get number of singletons for each genome
+cut -f1 singletons.txt -d \| | uniq -c 

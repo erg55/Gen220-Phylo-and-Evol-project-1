@@ -1,4 +1,4 @@
-
+#This step is relatively quick but if it needed to be parallelized here ia an array job that should work.
 #qsub -I -t 1-38 arrayjob_orthomcl_adjust_fasta.sh
 
 module load orthomcl
