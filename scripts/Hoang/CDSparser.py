@@ -71,8 +71,8 @@ def get_nuc_record(protein_record, table="Standard") :
    assert str(nuc.translate(table)) == str(protein_record.seq), \
           "Translation:\n%s\nExpected:\n%s" \
           % (translate(nuc,table), protein_record.seq)
-   return SeqRecord(nuc, id=protein_record.annotations["source"],
-                    description="(the CDS for this protein)")
+   return SeqRecord(nuc, id=protein_record.annotations["gi"],
+                    description="")
 
 #Now use the above functions to fetch the CDS sequence for some proteins...
 i = sys.argv[1] #any proteins in GenBank/GenPept format.
