@@ -1,0 +1,35 @@
+
+#ORTHOMCL move all new adjusted files to one folder. 
+mv *.fasta compliantFasta/
+
+#Filter. Keep proteins over 10 amino acids in length with less than 20 stop codons. 
+orthomclFilterFasta compliantFasta 10 20
+#No "poorproteins" found even in newly annotated proteome
+
+#Blast all against all
+module load ncbi-blast
+makeblastdb -in goodProteins.fasta -dbtype prot -parse_seqids -out goodProteins.fasta
+blastp -db goodProteins.fasta -query goodProteins.fasta -outfmt 6 -out blastresults4.tsv -num_threads 8
+
+#parse blast results
+orthomclBlastParser blastresults4.tsv ./compliantFasta/ >> similarSequences3.txt
+#move resulting file to Kaleigh's folder for mysql database
+
+#quality check to make sure all taxa were processed  
+cat similarSequences3.txt | cut -f1 -d \| | sort | uniq |wc
+
+#load parsed blast results into mysql database
+orthomclLoadBlast orthomcl.config similarSequences3.txt
+
+#conduct orthomcl steps keeping all intermediate tables and writing log to pairs file
+orthomclPairs orthomcl.config pairs.log cleanup=no
+
+# create input for mcl
+orthomclDumpPairsFiles orthomcl.config
+
+# markov cluster the pairs of orthologs with inflation value of 1.5, a standard value for detecting orthologous groups.
+module load mcl
+mcl mclInput --abc -I 1.5 -o groups_1.5.txt
+
+#name the groups
+orthomclMclToGroups OG1.5_ 1000 < groups_1.5.txt > named_groups_1.5.txt
