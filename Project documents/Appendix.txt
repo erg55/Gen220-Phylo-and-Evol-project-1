@@ -1,0 +1,8 @@
+Appendix
+
+Stumbling points: 
+0. Github
+1. I think every single one of us independently realized after hours of troubleshooting that the reason our “sed” scripts for reformatting data files weren’t working was because we didn’t have GNU sed installed. It might be good to bring this up in class if that is as common an occurrence as it was for our group. 
+2. While redoing the pipeline on new and improved datasets, emptying the MySQL database was problematic. Because of the permissions of creating our own new database in the cluster, we couldn’t “drop” the whole database, so we had to drop each individual table. There are scripts to do this but they wouldn’t work because of the tricky way that the cluster makes you log into the database (-h bioclusterdb instead of the normal way….at least that’s what I understand was the problem).
+3. Adjusting pre-existing perl scripts. It was a bit hard to understand and troubleshoot perl scripts that were already written for the tasks we wanted to accomplish. If they worked the first try it was great, but if not there was no way to easily fix it...so back to googling. Obviously, both python and perl can’t be taught in the same short class but just an issue that was had.
+4. “align_back_trans.py” was super finicky. Both nucleotide and protein sequence pairs need to have the same name in header. All protein sequences in the aligned set have to be the same length. All nucleotide/protein pairs have to be present (not all nucleotide sequences were in the genpept record, causing the nucleotide parser to omit that given sequence). Violations of any one of these conditions, would cause a failure and stoppage of the .py script.
